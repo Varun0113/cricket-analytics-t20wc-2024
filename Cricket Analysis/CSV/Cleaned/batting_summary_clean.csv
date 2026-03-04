@@ -1,0 +1,853 @@
+match_name,team,batting_pos,player_name,dismissal,runs,balls,fours,sixes,strike_rate,player_name_clean,team_clean,player_id
+CANADA vs UNITED STATES OF AMERICA,Canada,1,Aaron Johnson,c NR Kumar b Harmeet Singh,23,16,5,0,143.75,aaron johnson,CAN,P46
+CANADA vs UNITED STATES OF AMERICA,Canada,2,Navneet Dhaliwal,c Jessy Singh b CJ Anderson,61,44,6,3,138.64,navneet dhaliwal,CAN,P51
+CANADA vs UNITED STATES OF AMERICA,Canada,3,Pargat Singh,run out (Jessy Singh/Monank Patel),5,7,0,0,71.43,pargat singh,CAN,P49
+CANADA vs UNITED STATES OF AMERICA,Canada,4,Nicholas Kirton,c CJ Anderson b Ali Khan,51,31,3,2,164.52,nicholas kirton,CAN,P48
+CANADA vs UNITED STATES OF AMERICA,Canada,5,Shreyas Movva,not out,32,16,2,2,200,shreyas movva,CAN,P55
+CANADA vs UNITED STATES OF AMERICA,Canada,6,Dilpreet Singh,run out (Steven Taylor/Monank Patel),11,5,1,1,220,dilpreet bajwa,CAN,P53
+CANADA vs UNITED STATES OF AMERICA,Canada,7,Dillon Heyliger,not out,1,1,0,0,100,dilon heyliger,CAN,P56
+CANADA vs UNITED STATES OF AMERICA,United States Of America,1,Steven Taylor,lbw b Kaleem Sana,0,2,0,0,0,steven taylor,USA,P64
+CANADA vs UNITED STATES OF AMERICA,United States Of America,2,Monank Patel (c & wk),c Shreyas Movva b Dillon Heyliger,16,16,2,0,100,monank patel,USA,P69
+CANADA vs UNITED STATES OF AMERICA,United States Of America,3,Andries Gous,c Aaron Johnson b Nikhil Dutta,65,46,7,3,141.3,andries gous,USA,P70
+CANADA vs UNITED STATES OF AMERICA,United States Of America,4,Aaron Jones,not out,94,40,4,10,235,aaron jones,USA,P61
+CANADA vs UNITED STATES OF AMERICA,United States Of America,5,Corey Anderson,not out,3,5,0,0,60,corey anderson,USA,P65
+PAPUA NEW GUINEA vs WEST INDIES,Papua New Guinea,1,Tony Ura,c Pooran b Romario Shepherd,2,5,0,0,40,tony ura,PNG,P237
+PAPUA NEW GUINEA vs WEST INDIES,Papua New Guinea,2,Assad Vala (c),c Roston Chase b Alzarri Joseph,21,22,2,1,95.45,assad vala,PNG,P232
+PAPUA NEW GUINEA vs WEST INDIES,Papua New Guinea,3,Lega Siaka,b Akeal Hosein,1,2,0,0,50,lega siaka,PNG,P231
+PAPUA NEW GUINEA vs WEST INDIES,Papua New Guinea,4,Sese Bau,b Alzarri Joseph,50,43,6,1,116.28,sese bau,PNG,P234
+PAPUA NEW GUINEA vs WEST INDIES,Papua New Guinea,5,Hiri Hiri,c Rovman Powell b Motie,2,6,0,0,33.33,hiri hiri,PNG,P229
+PAPUA NEW GUINEA vs WEST INDIES,Papua New Guinea,6,Charles Amini,c Pooran b Russell,12,14,0,0,85.71,charles amini,PNG,P233
+PAPUA NEW GUINEA vs WEST INDIES,Papua New Guinea,7,Kiplin Doriga,not out,27,18,3,0,150,kiplin doriga,PNG,P236
+PAPUA NEW GUINEA vs WEST INDIES,Papua New Guinea,8,Chad Soper,b Russell,10,9,1,0,111.11,chad soper,PNG,P239
+PAPUA NEW GUINEA vs WEST INDIES,Papua New Guinea,9,Alei Nao,run out (Alzarri Joseph),0,0,0,0,0,alei nao,PNG,P238
+PAPUA NEW GUINEA vs WEST INDIES,Papua New Guinea,10,Kabua Morea,not out,2,2,0,0,100,kabua morea,PNG,P241
+PAPUA NEW GUINEA vs WEST INDIES,West Indies,1,Brandon King,c Lega Siaka b Assad Vala,34,29,7,0,117.24,brandon king,WI,P200
+PAPUA NEW GUINEA vs WEST INDIES,West Indies,2,Johnson Charles,lbw b Alei Nao,0,1,0,0,0,johnson charles,WI,P207
+PAPUA NEW GUINEA vs WEST INDIES,West Indies,3,Nicholas Pooran,c Tony Ura b John Kariko,27,27,1,2,100,nicholas pooran,WI,P208
+PAPUA NEW GUINEA vs WEST INDIES,West Indies,4,Roston Chase,not out,42,27,4,2,155.56,roston chase,WI,P203
+PAPUA NEW GUINEA vs WEST INDIES,West Indies,5,Rovman Powell (c),c Kiplin Doriga b Chad Soper,15,14,2,0,107.14,rovman powell,WI,P198
+PAPUA NEW GUINEA vs WEST INDIES,West Indies,6,Sherfane Rutherford,c Kiplin Doriga b Assad Vala,2,7,0,0,28.57,sherfane rutherford,WI,P201
+PAPUA NEW GUINEA vs WEST INDIES,West Indies,7,Andre Russell,not out,15,9,0,1,166.67,andre russell,WI,P204
+OMAN vs NAMIBIA,Oman,1,Kashyap,lbw b Trumpelmann,0,1,0,0,0,kashyap prajapati,OMN,P106
+OMAN vs NAMIBIA,Oman,2,Naseem Khushi,c Gerhard Erasmus b Trumpelmann,6,6,1,0,100,naseem khushi,OMN,P116
+OMAN vs NAMIBIA,Oman,3,Aqib Ilyas (c),lbw b Trumpelmann,0,1,0,0,0,aqib ilyas,OMN,P110
+OMAN vs NAMIBIA,Oman,4,Zeeshan Maqsood,lbw b Bernard Scholtz,22,20,4,0,110,zeeshan maqsood,OMN,P111
+OMAN vs NAMIBIA,Oman,5,Khalid Kail,c and b Wiese,34,39,1,1,87.18,khalid kail,OMN,P109
+OMAN vs NAMIBIA,Oman,6,Ayaan Khan,c Jan Frylinck b Gerhard Erasmus,15,21,0,1,71.43,ayaan khan,OMN,P113
+OMAN vs NAMIBIA,Oman,7,Mohammad Nadeem,lbw b Gerhard Erasmus,6,10,0,0,60,mohammad nadeem,OMN,P114
+OMAN vs NAMIBIA,Oman,8,Mehran Khan,lbw b Wiese,7,8,1,0,87.5,mehran khan,OMN,P108
+OMAN vs NAMIBIA,Oman,9,Shakeel Ahmed,c Trumpelmann b Wiese,11,9,2,0,122.22,shakeel ahmed,OMN,P117
+OMAN vs NAMIBIA,Oman,10,Kaleemullah,lbw b Trumpelmann,2,3,0,0,66.67,kaleemullah,OMN,P120
+OMAN vs NAMIBIA,Oman,11,Bilal Khan,not out,1,1,0,0,100,bilal khan,OMN,P118
+OMAN vs NAMIBIA,Namibia,1,Michael van Lingen,b Bilal Khan,0,2,0,0,0,michael van lingen,NAM,P250
+OMAN vs NAMIBIA,Namibia,2,Nikolaas Davin,c Mohammad Nadeem b Aqib Ilyas,24,31,2,1,77.42,nikolaas davin,NAM,P244
+OMAN vs NAMIBIA,Namibia,3,Jan Frylinck,b Mehran Khan,45,48,6,0,93.75,jan frylinck,NAM,P248
+OMAN vs NAMIBIA,Namibia,4,Gerhard Erasmus (c),c Zeeshan Maqsood b Ayaan Khan,13,16,1,0,81.25,gerhard erasmus,NAM,P246
+OMAN vs NAMIBIA,Namibia,5,JJ Smit,c Ayaan Khan b Mehran Khan,8,12,1,0,66.67,jj smit,NAM,P251
+OMAN vs NAMIBIA,Namibia,6,David Wiese,not out,9,8,0,1,112.5,david wiese,NAM,P249
+OMAN vs NAMIBIA,Namibia,7,Zane Green,lbw b Mehran Khan,0,2,0,0,0,zane green,NAM,P252
+OMAN vs NAMIBIA,Namibia,8,Malan Kruger,not out,1,1,0,0,100,malan kruger,NAM,P245
+SRI LANKA vs SOUTH AFRICA,Sri Lanka,1,Pathum Nissanka,c Klaasen b Ottneil Baartman,3,8,0,0,37.5,pathum nissanka,SL,P136
+SRI LANKA vs SOUTH AFRICA,Sri Lanka,2,Kusal Mendis,c Tristan Stubbs b Nortje,19,30,1,0,63.33,kusal mendis,SL,P144
+SRI LANKA vs SOUTH AFRICA,Sri Lanka,3,Kamindu Mendis,c Reeza Hendricks b Nortje,11,15,1,0,73.33,kamindu mendis,SL,P140
+SRI LANKA vs SOUTH AFRICA,Sri Lanka,4,W Hasaranga (c),st de Kock b Maharaj,0,2,0,0,0,wanindu hasaranga,SL,P142
+SRI LANKA vs SOUTH AFRICA,Sri Lanka,5,Samarawickrama,b Maharaj,0,1,0,0,0,sadeera samarawickrama,SL,P145
+SRI LANKA vs SOUTH AFRICA,Sri Lanka,6,Asalanka,c Reeza Hendricks b Nortje,6,9,0,0,66.67,charith asalanka,SL,P137
+SRI LANKA vs SOUTH AFRICA,Sri Lanka,7,Mathews,c Ottneil Baartman b Nortje,16,16,0,2,100,angelo mathews,SL,P139
+SRI LANKA vs SOUTH AFRICA,Sri Lanka,8,Shanaka,b Rabada,9,10,0,1,90,dasun shanaka,SL,P141
+SRI LANKA vs SOUTH AFRICA,Sri Lanka,9,M Theekshana,not out,7,16,1,0,43.75,maheesh theekshana,SL,P149
+SRI LANKA vs SOUTH AFRICA,Sri Lanka,10,Matheesha Pathirana,c Markram b Rabada,0,4,0,0,0,matheesha pathirana,SL,P148
+SRI LANKA vs SOUTH AFRICA,Sri Lanka,11,N Thushara,run out (Nortje/Marco Jansen),0,4,0,0,0,nuwan thushara,SL,P150
+SRI LANKA vs SOUTH AFRICA,South Africa,1,Quinton de Kock,c and b W Hasaranga,20,27,0,1,74.07,quinton de kock,RSA,P125
+SRI LANKA vs SOUTH AFRICA,South Africa,2,Reeza Hendricks,c Kamindu Mendis b N Thushara,4,2,1,0,200,reeza hendricks,RSA,P122
+SRI LANKA vs SOUTH AFRICA,South Africa,3,Aiden Markram (c),c Kamindu Mendis b Shanaka,12,14,0,1,85.71,aiden markram,RSA,P121
+SRI LANKA vs SOUTH AFRICA,South Africa,4,Tristan Stubbs,c Asalanka b W Hasaranga,13,28,0,0,46.43,tristan stubbs,RSA,P128
+SRI LANKA vs SOUTH AFRICA,South Africa,5,Heinrich Klaasen,not out,19,22,1,1,86.36,heinrich klaasen,RSA,P126
+SRI LANKA vs SOUTH AFRICA,South Africa,6,David Miller,not out,6,6,1,0,100,david miller,RSA,P123
+AFGHANISTAN vs UGANDA,Afghanistan,1,Gurbaz,c Riazat Ali Shah b Alpesh Ramjani,76,45,4,4,168.89,rahmanullah gurbaz,AFG,P175
+AFGHANISTAN vs UGANDA,Afghanistan,2,Ibrahim Zadran,b Masaba,70,46,9,1,152.17,ibrahim zadran,AFG,P166
+AFGHANISTAN vs UGANDA,Afghanistan,3,Najibullah,c Dinesh Nakrani b Masaba,2,3,0,0,66.67,najibullah zadran,AFG,P167
+AFGHANISTAN vs UGANDA,Afghanistan,4,Nabi,not out,14,16,0,0,87.5,mohammad nabi,AFG,P171
+AFGHANISTAN vs UGANDA,Afghanistan,5,Gulbadin,c Masaba b Cosmas Kyewuta,4,5,0,0,80,gulbadin naib,AFG,P169
+AFGHANISTAN vs UGANDA,Afghanistan,6,Azmatullah,c Alpesh Ramjani b Cosmas Kyewuta,5,5,0,0,100,azmatullah omarzai,AFG,P170
+AFGHANISTAN vs UGANDA,Afghanistan,7,Rashid Khan (c),not out,2,1,0,0,200,rashid khan,AFG,P172
+AFGHANISTAN vs UGANDA,Uganda,1,Ronak Patel,b Fazalhaq Farooqi,4,2,1,0,200,ronak patel,UGA,P215
+AFGHANISTAN vs UGANDA,Uganda,2,Simon Ssesazi,c Fazalhaq Farooqi b Mujeeb,4,4,1,0,100,simon ssesazi,UGA,P216
+AFGHANISTAN vs UGANDA,Uganda,3,Roger Mukasa,lbw b Fazalhaq Farooqi,0,1,0,0,0,roger mukasa,UGA,P222
+AFGHANISTAN vs UGANDA,Uganda,4,Riazat Ali Shah,b Fazalhaq Farooqi,11,34,0,0,32.35,riazat ali shah,UGA,P219
+AFGHANISTAN vs UGANDA,Uganda,5,Dinesh Nakrani,b Naveen-ul-Haq,6,8,1,0,75,dinesh nakrani,UGA,P217
+AFGHANISTAN vs UGANDA,Uganda,6,Alpesh Ramjani,c Gulbadin b Naveen-ul-Haq,0,2,0,0,0,alpesh ramjani,UGA,P220
+AFGHANISTAN vs UGANDA,Uganda,7,Robinson Obuya,c Gurbaz b Fazalhaq Farooqi,14,25,0,1,56,robinson obuya,UGA,P214
+AFGHANISTAN vs UGANDA,Uganda,8,Brian Masaba (c),c Gurbaz b Fazalhaq Farooqi,0,1,0,0,0,brian masaba,UGA,P223
+AFGHANISTAN vs UGANDA,Uganda,9,Bilal Hassan,lbw b Rashid Khan,8,16,1,0,50,bilal hassan,UGA,P224
+AFGHANISTAN vs UGANDA,Uganda,10,Cosmas Kyewuta,not out,2,2,0,0,100,cosmas kyewuta,UGA,P225
+AFGHANISTAN vs UGANDA,Uganda,11,Henry Ssenyondo,b Rashid Khan,0,1,0,0,0,henry ssenyondo,UGA,P228
+SCOTLAND vs ENGLAND,Scotland,1,George Munsey,not out,41,31,4,2,132.26,george munsey,SCO,P92
+SCOTLAND vs ENGLAND,Scotland,2,Michael Jones,not out,45,30,4,2,150,michael jones,SCO,P91
+NEPAL vs NETHERLANDS,Nepal,1,Kushal Bhurtel,lbw b van Beek,7,10,1,0,70,kushal bhurtel,NEP,P182
+NEPAL vs NETHERLANDS,Nepal,2,Aasif Sheikh,c Kingma b Tim Pringle,4,8,1,0,50,aasif sheikh,NEP,P192
+NEPAL vs NETHERLANDS,Nepal,3,Anil Sah,c van Beek b Tim Pringle,11,12,2,0,91.67,anil sah,NEP,P186
+NEPAL vs NETHERLANDS,Nepal,4,Rohit Paudel (c),c Max ODowd b Tim Pringle,35,37,5,0,94.59,rohit paudel,NEP,P184
+NEPAL vs NETHERLANDS,Nepal,5,Kushal Malla,c Max ODowd b van Meekeren,9,9,1,0,100,kushal malla,NEP,P187
+NEPAL vs NETHERLANDS,Nepal,6,Dipendra Singh,c van Beek b Bas de Leede,1,6,0,0,16.67,dipendra singh airee,NEP,P185
+NEPAL vs NETHERLANDS,Nepal,7,Sompal Kami,b van Meekeren,0,5,0,0,0,sompal kami,NEP,P189
+NEPAL vs NETHERLANDS,Nepal,8,Gulsan Jha,b van Beek,14,15,0,1,93.33,gulsan jha,NEP,P194
+NEPAL vs NETHERLANDS,Nepal,9,Karan KC,c Kingma b Bas de Leede,17,12,0,2,141.67,karan kc,NEP,P188
+NEPAL vs NETHERLANDS,Nepal,10,Sagar Dhakal,not out,0,1,0,0,0,sagar dhakal,NEP,P196
+NEPAL vs NETHERLANDS,Nepal,11,Abinash Bohara,c and b van Beek,0,1,0,0,0,abinash bohara,NEP,P195
+NEPAL vs NETHERLANDS,Netherlands,1,Michael Levitt,c Dipendra Singh b Sompal Kami,1,3,0,0,33.33,michael levitt,NED,P264
+NEPAL vs NETHERLANDS,Netherlands,2,Max ODowd,not out,54,48,4,1,112.5,max odowd,NED,P260
+NEPAL vs NETHERLANDS,Netherlands,3,Vikramjit Singh,lbw b Dipendra Singh,22,28,4,0,78.57,vikramjit singh,NED,P262
+NEPAL vs NETHERLANDS,Netherlands,4,Sybrand Engelbrecht,run out (Sompal Kami),14,16,1,0,87.5,sybrand engelbrecht,NED,P263
+NEPAL vs NETHERLANDS,Netherlands,5,Scott Edwards (c & wk),b Abinash Bohara,5,8,0,0,62.5,scott edwards,NED,P268
+NEPAL vs NETHERLANDS,Netherlands,6,Bas de Leede,not out,11,10,1,0,110,bas de leede,NED,P265
+IRELAND vs INDIA,Ireland,1,Balbirnie,b Arshdeep Singh,5,10,1,0,50,andrew balbirnie,IRE,P17
+IRELAND vs INDIA,Ireland,2,Stirling (c),c Pant b Arshdeep Singh,2,6,0,0,33.33,paul stirling,IRE,P19
+IRELAND vs INDIA,Ireland,3,Lorcan Tucker,b Hardik Pandya,10,13,2,0,76.92,lorcan tucker,IRE,P24
+IRELAND vs INDIA,Ireland,4,Harry Tector,c Kohli b Bumrah,4,16,0,0,25,harry tector,IRE,P18
+IRELAND vs INDIA,Ireland,5,Curtis Campher,c Pant b Hardik Pandya,12,8,1,1,150,curtis campher,IRE,P21
+IRELAND vs INDIA,Ireland,6,Dockrell,c Bumrah b Siraj,3,5,0,0,60,george dockrell,IRE,P22
+IRELAND vs INDIA,Ireland,7,Delany,run out (Siraj/Pant),26,14,2,2,185.71,gareth delany,IRE,P20
+IRELAND vs INDIA,Ireland,8,Mark Adair,c Shivam Dube b Hardik Pandya,3,2,0,0,150,mark adair,IRE,P25
+IRELAND vs INDIA,Ireland,9,Barry McCarthy,c and b Axar,0,6,0,0,0,barry mccarthy,IRE,P28
+IRELAND vs INDIA,Ireland,10,Joshua Little,b Bumrah,14,13,2,0,107.69,joshua little,IRE,P27
+IRELAND vs INDIA,Ireland,11,Benjamin White,not out,2,4,0,0,50,benjamin white,IRE,P30
+IRELAND vs INDIA,India,1,Rohit Sharma (c),retd hurt,52,37,4,3,140.54,rohit sharma,IND,P1
+IRELAND vs INDIA,India,2,Virat Kohli,c Benjamin White b Mark Adair,1,5,0,0,20,virat kohli,IND,P3
+IRELAND vs INDIA,India,3,Rishabh Pant,not out,36,26,3,2,138.46,rishabh pant,IND,P9
+IRELAND vs INDIA,India,4,Suryakumar Yadav,c Dockrell b Benjamin White,2,4,0,0,50,suryakumar yadav,IND,P4
+IRELAND vs INDIA,India,5,Shivam Dube,not out,0,2,0,0,0,shivam dube,IND,P6
+PAPUA NEW GUINEA vs UGANDA,Papua New Guinea,1,Assad Vala (c),lbw b Alpesh Ramjani,0,2,0,0,0,assad vala,PNG,P232
+PAPUA NEW GUINEA vs UGANDA,Papua New Guinea,2,Tony Ura,c Mukasa b Cosmas Kyewuta,1,6,0,0,16.67,tony ura,PNG,P237
+PAPUA NEW GUINEA vs UGANDA,Papua New Guinea,3,Sese Bau,c Mukasa b Juma Miyagi,5,9,1,0,55.56,sese bau,PNG,P234
+PAPUA NEW GUINEA vs UGANDA,Papua New Guinea,4,Lega Siaka,run out (Cosmas Kyewuta/Simon Ssesazi),12,17,1,0,70.59,lega siaka,PNG,P231
+PAPUA NEW GUINEA vs UGANDA,Papua New Guinea,5,Hiri Hiri,lbw b Nsubuga,15,19,2,0,78.95,hiri hiri,PNG,P229
+PAPUA NEW GUINEA vs UGANDA,Papua New Guinea,6,Charles Amini,b Nsubuga,5,14,0,0,35.71,charles amini,PNG,P233
+PAPUA NEW GUINEA vs UGANDA,Papua New Guinea,7,Kiplin Doriga,lbw b Alpesh Ramjani,12,20,0,1,60,kiplin doriga,PNG,P236
+PAPUA NEW GUINEA vs UGANDA,Papua New Guinea,8,Chad Soper,b Masaba,4,11,0,0,36.36,chad soper,PNG,P239
+PAPUA NEW GUINEA vs UGANDA,Papua New Guinea,9,Norman Vanua,c Simon Ssesazi b Cosmas Kyewuta,5,10,0,0,50,norman vanua,PNG,P242
+PAPUA NEW GUINEA vs UGANDA,Papua New Guinea,10,Alei Nao,b Juma Miyagi,5,6,0,0,83.33,alei nao,PNG,P238
+PAPUA NEW GUINEA vs UGANDA,Papua New Guinea,11,John Kariko,not out,0,2,0,0,0,john kariko,PNG,P240
+PAPUA NEW GUINEA vs UGANDA,Uganda,1,Roger Mukasa,lbw b Alei Nao,0,3,0,0,0,roger mukasa,UGA,P222
+PAPUA NEW GUINEA vs UGANDA,Uganda,2,Simon Ssesazi,lbw b Alei Nao,1,3,0,0,33.33,simon ssesazi,UGA,P216
+PAPUA NEW GUINEA vs UGANDA,Uganda,3,Robinson Obuya,c Assad Vala b Norman Vanua,1,2,0,0,50,robinson obuya,UGA,P214
+PAPUA NEW GUINEA vs UGANDA,Uganda,4,Riazat Ali Shah,c John Kariko b Norman Vanua,33,56,1,0,58.93,riazat ali shah,UGA,P219
+PAPUA NEW GUINEA vs UGANDA,Uganda,5,Alpesh Ramjani,b Chad Soper,8,10,1,0,80,alpesh ramjani,UGA,P220
+PAPUA NEW GUINEA vs UGANDA,Uganda,6,Dinesh Nakrani,c and b Assad Vala,0,3,0,0,0,dinesh nakrani,UGA,P217
+PAPUA NEW GUINEA vs UGANDA,Uganda,7,Juma Miyagi,run out (Norman Vanua/Alei Nao),13,16,0,0,81.25,juma miyagi,UGA,P226
+PAPUA NEW GUINEA vs UGANDA,Uganda,8,Kenneth Waiswa,not out,7,16,0,0,43.75,kenneth waiswa,UGA,P218
+PAPUA NEW GUINEA vs UGANDA,Uganda,9,Brian Masaba (c),not out,0,1,0,0,0,brian masaba,UGA,P223
+AUSTRALIA vs OMAN,Australia,1,Warner,c Shoaib Khan b Kaleemullah,56,51,6,1,109.8,david warner,AUS,P78
+AUSTRALIA vs OMAN,Australia,2,Head,c Khalid Kail b Bilal Khan,12,10,2,0,120,travis head,AUS,P77
+AUSTRALIA vs OMAN,Australia,3,Mitchell Marsh (c),c Shoaib Khan b Mehran Khan,14,21,2,0,66.67,mitchell marsh,AUS,P79
+AUSTRALIA vs OMAN,Australia,4,Maxwell,c Aqib Ilyas b Mehran Khan,0,1,0,0,0,glenn maxwell,AUS,P81
+AUSTRALIA vs OMAN,Australia,5,Stoinis,not out,67,36,2,6,186.11,marcus stoinis,AUS,P82
+AUSTRALIA vs OMAN,Australia,6,Tim David,run out (Ayaan Khan/Pratik Athavale),9,4,2,0,225,tim david,AUS,P76
+AUSTRALIA vs OMAN,Oman,1,Kashyap Prajapati,lbw b Nathan Ellis,7,16,1,0,43.75,kashyap prajapati,OMN,P106
+AUSTRALIA vs OMAN,Oman,2,Pratik Athavale,lbw b Starc,0,1,0,0,0,pratik athavale,OMN,P115
+AUSTRALIA vs OMAN,Oman,3,Aqib Ilyas (c),c Wade b Stoinis,18,18,2,1,100,aqib ilyas,OMN,P110
+AUSTRALIA vs OMAN,Oman,4,Zeeshan Maqsood,c Wade b Stoinis,1,7,0,0,14.29,zeeshan maqsood,OMN,P111
+AUSTRALIA vs OMAN,Oman,5,Khalid Kail,c Maxwell b Starc,8,12,1,0,66.67,khalid kail,OMN,P109
+AUSTRALIA vs OMAN,Oman,6,Ayaan Khan,c Hazlewood b Zampa,36,30,2,2,120,ayaan khan,OMN,P113
+AUSTRALIA vs OMAN,Oman,7,Shoaib Khan,b Zampa,0,4,0,0,0,shoaib khan,OMN,P107
+AUSTRALIA vs OMAN,Oman,8,Mehran Khan,c Tim David b Stoinis,27,16,1,2,168.75,mehran khan,OMN,P108
+AUSTRALIA vs OMAN,Oman,9,Shakeel Ahmed,c Warner b Nathan Ellis,11,10,1,0,110,shakeel ahmed,OMN,P117
+AUSTRALIA vs OMAN,Oman,10,Kaleemullah,not out,6,4,0,0,150,kaleemullah,OMN,P120
+AUSTRALIA vs OMAN,Oman,11,Bilal Khan,not out,1,2,0,0,50,bilal khan,OMN,P118
+PAKISTAN vs UNITED STATES OF AMERICA,Pakistan,1,Rizwan,c Steven Taylor b Netravalkar,9,8,0,1,112.5,mohammad rizwan,PAK,P297
+PAKISTAN vs UNITED STATES OF AMERICA,Pakistan,2,Babar Azam (c),lbw b Jasdeep Singh,44,43,3,2,102.33,babar azam,PAK,P290
+PAKISTAN vs UNITED STATES OF AMERICA,Pakistan,3,Usman Khan,c NR Kumar b Nosthush Kenjige,3,3,0,0,100,usman khan,PAK,P298
+PAKISTAN vs UNITED STATES OF AMERICA,Pakistan,4,Fakhar Zaman,c Steven Taylor b Ali Khan,11,7,0,1,157.14,fakhar zaman,PAK,P291
+PAKISTAN vs UNITED STATES OF AMERICA,Pakistan,5,Shadab Khan,c Netravalkar b Nosthush Kenjige,40,25,1,3,160,shadab khan,PAK,P295
+PAKISTAN vs UNITED STATES OF AMERICA,Pakistan,6,Azam Khan,lbw b Nosthush Kenjige,0,1,0,0,0,azam khan,PAK,P296
+PAKISTAN vs UNITED STATES OF AMERICA,Pakistan,7,Iftikhar Ahmed,lbw b Netravalkar,18,14,3,0,128.57,iftikhar ahmed,PAK,P292
+PAKISTAN vs UNITED STATES OF AMERICA,Pakistan,8,Shaheen Afridi,not out,23,16,1,2,143.75,shaheen afridi,PAK,P304
+PAKISTAN vs UNITED STATES OF AMERICA,Pakistan,9,Haris Rauf,not out,3,3,0,0,100,haris rauf,PAK,P300
+PAKISTAN vs UNITED STATES OF AMERICA,United States Of America,1,Steven Taylor,c Rizwan b Naseem Shah,12,16,1,0,75,steven taylor,USA,P64
+PAKISTAN vs UNITED STATES OF AMERICA,United States Of America,2,Monank Patel (c & wk),c Rizwan b Amir,50,38,7,1,131.58,monank patel,USA,P69
+PAKISTAN vs UNITED STATES OF AMERICA,United States Of America,3,Andries Gous,b Haris Rauf,35,26,5,1,134.62,andries gous,USA,P70
+PAKISTAN vs UNITED STATES OF AMERICA,United States Of America,4,Aaron Jones,not out,36,26,2,2,138.46,aaron jones,USA,P61
+PAKISTAN vs UNITED STATES OF AMERICA,United States Of America,5,Nitish Kumar,not out,14,14,1,0,100,nitish kumar,USA,P62
+NAMIBIA vs SCOTLAND,Namibia,1,Kotze,c Brandon McMullen b Wheal,0,3,0,0,0,jp kotze,NAM,P253
+NAMIBIA vs SCOTLAND,Namibia,2,Niko Davin,c Bradley Currie b Christopher Sole,20,12,4,0,166.67,nikolaas davin,NAM,P244
+NAMIBIA vs SCOTLAND,Namibia,3,Jan Frylinck,b Bradley Currie,12,14,2,0,85.71,jan frylinck,NAM,P248
+NAMIBIA vs SCOTLAND,Namibia,4,Gerhard Erasmus (c),st Matthew Cross b Michael Leask,52,31,5,2,167.74,gerhard erasmus,NAM,P246
+NAMIBIA vs SCOTLAND,Namibia,5,Malan Kruger,c Michael Jones b Chris Greaves,2,8,0,0,25,malan kruger,NAM,P245
+NAMIBIA vs SCOTLAND,Namibia,6,Zane Green,c Michael Jones b Wheal,28,27,1,1,103.7,zane green,NAM,P252
+NAMIBIA vs SCOTLAND,Namibia,7,Wiese,c Mark Watt b Wheal,14,13,0,1,107.69,david wiese,NAM,P249
+NAMIBIA vs SCOTLAND,Namibia,8,Trumpelmann,c Wheal b Bradley Currie,1,2,0,0,50,ruben trumpelmann,NAM,P254
+NAMIBIA vs SCOTLAND,Namibia,9,Smit,run out (Michael Jones/Wheal),11,8,0,1,137.5,jj smit,NAM,P251
+NAMIBIA vs SCOTLAND,Namibia,10,Bernard Scholtz,not out,6,4,0,0,150,bernard scholtz,NAM,P258
+NAMIBIA vs SCOTLAND,Namibia,11,Tangeni Lungameni,not out,0,0,0,0,0,tangeni lungameni,NAM,P257
+NAMIBIA vs SCOTLAND,Scotland,1,George Munsey,c Wiese b Tangeni Lungameni,7,15,0,0,46.67,george munsey,SCO,P92
+NAMIBIA vs SCOTLAND,Scotland,2,Michael Jones,c Zane Green b Gerhard Erasmus,26,20,3,1,130,michael jones,SCO,P91
+NAMIBIA vs SCOTLAND,Scotland,3,Brandon McMullen,st Zane Green b Gerhard Erasmus,19,17,2,0,111.76,brandon mcmullen,SCO,P96
+NAMIBIA vs SCOTLAND,Scotland,4,Richie Berrington (c),not out,47,35,2,2,134.29,richie berrington,SCO,P94
+NAMIBIA vs SCOTLAND,Scotland,5,Matthew Cross,lbw b Bernard Scholtz,3,5,0,0,60,matthew cross,SCO,P98
+NAMIBIA vs SCOTLAND,Scotland,6,Michael Leask,c Wiese b Trumpelmann,35,17,0,4,205.88,michael leask,SCO,P95
+NAMIBIA vs SCOTLAND,Scotland,7,Chris Greaves,not out,4,3,0,0,133.33,chris greaves,SCO,P100
+CANADA vs IRELAND,Canada,1,Aaron Johnson,c Curtis Campher b Craig Young,14,13,3,0,107.69,aaron johnson,CAN,P46
+CANADA vs IRELAND,Canada,2,Navneet Dhaliwal,c Dockrell b Mark Adair,6,10,1,0,60,navneet dhaliwal,CAN,P51
+CANADA vs IRELAND,Canada,3,Pargat Singh,c Joshua Little b Craig Young,18,14,2,0,128.57,pargat singh,CAN,P49
+CANADA vs IRELAND,Canada,4,Dilpreet Bajwa,c and b Delany,7,9,1,0,77.78,dilpreet bajwa,CAN,P53
+CANADA vs IRELAND,Canada,5,Nicholas Kirton,c Balbirnie b Barry McCarthy,49,35,3,2,140,nicholas kirton,CAN,P48
+CANADA vs IRELAND,Canada,6,Shreyas Movva,run out (Barry McCarthy/Lorcan Tucker),37,36,3,0,102.78,shreyas movva,CAN,P55
+CANADA vs IRELAND,Canada,7,Dillon Heyliger,c Joshua Little b Barry McCarthy,0,2,0,0,0,dilon heyliger,CAN,P56
+CANADA vs IRELAND,Canada,8,Saad Bin Zafar (c),not out,1,1,0,0,100,saad bin zafar,CAN,P54
+CANADA vs IRELAND,Ireland,1,Andrew Balbirnie,c and b Junaid Siddiqui,17,19,1,0,89.47,andrew balbirnie,IRE,P17
+CANADA vs IRELAND,Ireland,2,Paul Stirling (c),c Shreyas Movva b J Gordon,9,17,1,0,52.94,paul stirling,IRE,P19
+CANADA vs IRELAND,Ireland,3,Lorcan Tucker,run out (Nicholas Kirton/Saad Bin Zafar),10,15,0,0,66.67,lorcan tucker,IRE,P24
+CANADA vs IRELAND,Ireland,4,Harry Tector,b Saad Bin Zafar,7,5,0,0,140,harry tector,IRE,P18
+CANADA vs IRELAND,Ireland,5,Curtis Campher,c Aaron Johnson b Dillon Heyliger,4,7,0,0,57.14,curtis campher,IRE,P21
+CANADA vs IRELAND,Ireland,6,George Dockrell,not out,30,23,2,1,130.43,george dockrell,IRE,P22
+CANADA vs IRELAND,Ireland,7,Gareth Delany,c Shreyas Movva b Dillon Heyliger,3,7,0,0,42.86,gareth delany,IRE,P20
+CANADA vs IRELAND,Ireland,8,Mark Adair,c and b J Gordon,34,24,3,1,141.67,mark adair,IRE,P25
+CANADA vs IRELAND,Ireland,9,Barry McCarthy,not out,2,3,0,0,66.67,barry mccarthy,IRE,P28
+AFGHANISTAN vs NEW ZEALAND,Afghanistan,1,Gurbaz,b Boult,80,56,5,5,142.86,rahmanullah gurbaz,AFG,P175
+AFGHANISTAN vs NEW ZEALAND,Afghanistan,2,Ibrahim Zadran,b Matt Henry,44,41,3,2,107.32,ibrahim zadran,AFG,P166
+AFGHANISTAN vs NEW ZEALAND,Afghanistan,3,Azmatullah,c Lockie Ferguson b Matt Henry,22,13,1,2,169.23,azmatullah omarzai,AFG,P170
+AFGHANISTAN vs NEW ZEALAND,Afghanistan,4,Nabi,c Williamson b Lockie Ferguson,0,1,0,0,0,mohammad nabi,AFG,P171
+AFGHANISTAN vs NEW ZEALAND,Afghanistan,5,Rashid Khan (c),run out (Conway/Boult),6,5,1,0,120,rashid khan,AFG,P172
+AFGHANISTAN vs NEW ZEALAND,Afghanistan,6,Karim Janat,not out,1,1,0,0,100,karim janat,AFG,P173
+AFGHANISTAN vs NEW ZEALAND,Afghanistan,7,Gulbadin,c Glenn Phillips b Boult,0,2,0,0,0,gulbadin naib,AFG,P169
+AFGHANISTAN vs NEW ZEALAND,Afghanistan,8,Najibullah,not out,1,1,0,0,100,najibullah zadran,AFG,P167
+AFGHANISTAN vs NEW ZEALAND,New Zealand,1,Finn Allen,b Fazalhaq Farooqi,0,1,0,0,0,finn allen,NZ,P152
+AFGHANISTAN vs NEW ZEALAND,New Zealand,2,Devon Conway,c Ibrahim Zadran b Fazalhaq Farooqi,8,10,1,0,80,devon conway,NZ,P160
+AFGHANISTAN vs NEW ZEALAND,New Zealand,3,Kane Williamson (c),c Gulbadin b Rashid Khan,9,13,1,0,69.23,kane williamson,NZ,P151
+AFGHANISTAN vs NEW ZEALAND,New Zealand,4,Daryl Mitchell,c Gurbaz b Fazalhaq Farooqi,5,5,1,0,100,daryl mitchell,NZ,P156
+AFGHANISTAN vs NEW ZEALAND,New Zealand,5,Glenn Phillips,c Rashid Khan b Nabi,18,18,2,0,100,glenn phillips,NZ,P154
+AFGHANISTAN vs NEW ZEALAND,New Zealand,6,Mark Chapman,b Rashid Khan,4,7,0,0,57.14,mark chapman,NZ,P153
+AFGHANISTAN vs NEW ZEALAND,New Zealand,7,Michael Bracewell,lbw b Rashid Khan,0,1,0,0,0,michael bracewell,NZ,P155
+AFGHANISTAN vs NEW ZEALAND,New Zealand,8,Mitchell Santner,b Nabi,4,8,0,0,50,mitchell santner,NZ,P159
+AFGHANISTAN vs NEW ZEALAND,New Zealand,9,Matt Henry,c Karim Janat b Fazalhaq Farooqi,12,17,0,1,70.59,matt henry,NZ,P163
+AFGHANISTAN vs NEW ZEALAND,New Zealand,10,Lockie Ferguson,c and b Rashid Khan,2,5,0,0,40,lockie ferguson,NZ,P162
+AFGHANISTAN vs NEW ZEALAND,New Zealand,11,Trent Boult,not out,3,7,0,0,42.86,trent boult,NZ,P161
+SRI LANKA vs BANGLADESH,Sri Lanka,1,Pathum Nissanka,c Shanto b Mustafizur,47,28,7,1,167.86,pathum nissanka,SL,P136
+SRI LANKA vs BANGLADESH,Sri Lanka,2,Kusal Mendis,b Taskin Ahmed,10,8,2,0,125,kusal mendis,SL,P144
+SRI LANKA vs BANGLADESH,Sri Lanka,3,Kamindu Mendis,c Tanzim Hasan Sakib b Mustafizur,4,5,1,0,80,kamindu mendis,SL,P140
+SRI LANKA vs BANGLADESH,Sri Lanka,4,Dhananjaya de Silva,st Litton Das b Rishad Hossain,21,26,1,0,80.77,dhananjaya de silva,SL,P138
+SRI LANKA vs BANGLADESH,Sri Lanka,5,Asalanka,c Shakib b Rishad Hossain,19,21,1,1,90.48,charith asalanka,SL,P137
+SRI LANKA vs BANGLADESH,Sri Lanka,6,W Hasaranga (c),c Soumya Sarkar b Rishad Hossain,0,1,0,0,0,wanindu hasaranga,SL,P142
+SRI LANKA vs BANGLADESH,Sri Lanka,7,Mathews,c Mustafizur b Tanzim Hasan Sakib,16,19,1,0,84.21,angelo mathews,SL,P139
+SRI LANKA vs BANGLADESH,Sri Lanka,8,Shanaka,c Litton Das b Taskin Ahmed,3,7,0,0,42.86,dasun shanaka,SL,P141
+SRI LANKA vs BANGLADESH,Sri Lanka,9,M Theekshana,c Tanzim Hasan Sakib b Mustafizur,0,3,0,0,0,maheesh theekshana,SL,P149
+SRI LANKA vs BANGLADESH,Sri Lanka,10,Matheesha Pathirana,not out,0,1,0,0,0,matheesha pathirana,SL,P148
+SRI LANKA vs BANGLADESH,Sri Lanka,11,N Thushara,not out,0,1,0,0,0,nuwan thushara,SL,P150
+SRI LANKA vs BANGLADESH,Bangladesh,1,Tanzid Hasan,b N Thushara,3,6,0,0,50,tanzid hasan tamim,BAN,P277
+SRI LANKA vs BANGLADESH,Bangladesh,2,Soumya Sarkar,c W Hasaranga b Dhananjaya de Silva,0,2,0,0,0,soumya sarkar,BAN,P276
+SRI LANKA vs BANGLADESH,Bangladesh,3,Litton Das,lbw b W Hasaranga,36,38,2,1,94.74,litton das,BAN,P282
+SRI LANKA vs BANGLADESH,Bangladesh,4,Najmul Hossain Shanto (c),c Asalanka b N Thushara,7,13,0,0,53.85,najmul hossain shanto,BAN,P275
+SRI LANKA vs BANGLADESH,Bangladesh,5,Towhid Hridoy,lbw b W Hasaranga,40,20,1,4,200,towhid hridoy,BAN,P278
+SRI LANKA vs BANGLADESH,Bangladesh,6,Shakib Al Hasan,c M Theekshana b Matheesha Pathirana,8,14,0,0,57.14,shakib al hasan,BAN,P279
+SRI LANKA vs BANGLADESH,Bangladesh,7,Mahmudullah,not out,16,13,0,1,123.08,mahmudullah,BAN,P280
+SRI LANKA vs BANGLADESH,Bangladesh,8,Rishad Hossain,b N Thushara,1,3,0,0,33.33,rishad hossain,BAN,P286
+SRI LANKA vs BANGLADESH,Bangladesh,9,Taskin Ahmed,lbw b N Thushara,0,1,0,0,0,taskin ahmed,BAN,P284
+SRI LANKA vs BANGLADESH,Bangladesh,10,Tanzim Hasan Sakib,not out,1,4,0,0,25,tanzim hasan sakib,BAN,P289
+NETHERLANDS vs SOUTH AFRICA,Netherlands,1,Michael Levitt,c de Kock b Marco Jansen,0,3,0,0,0,michael levitt,NED,P264
+NETHERLANDS vs SOUTH AFRICA,Netherlands,2,Max ODowd,c Marco Jansen b Ottneil Baartman,2,6,0,0,33.33,max odowd,NED,P260
+NETHERLANDS vs SOUTH AFRICA,Netherlands,3,Vikramjit Singh,b Marco Jansen,12,17,1,0,70.59,vikramjit singh,NED,P262
+NETHERLANDS vs SOUTH AFRICA,Netherlands,4,Sybrand Engelbrecht,c Marco Jansen b Ottneil Baartman,40,45,2,1,88.89,sybrand engelbrecht,NED,P263
+NETHERLANDS vs SOUTH AFRICA,Netherlands,5,Bas de Leede,c David Miller b Nortje,6,16,0,0,37.5,bas de leede,NED,P265
+NETHERLANDS vs SOUTH AFRICA,Netherlands,6,Edwards (c & wk),run out (Markram),10,9,0,1,111.11,scott edwards,NED,P268
+NETHERLANDS vs SOUTH AFRICA,Netherlands,7,Teja Nidamanuru,c Klaasen b Nortje,0,1,0,0,0,teja nidamanuru,NED,P261
+NETHERLANDS vs SOUTH AFRICA,Netherlands,8,van Beek,c Nortje b Ottneil Baartman,23,22,3,0,104.55,logan van beek,NED,P270
+NETHERLANDS vs SOUTH AFRICA,Netherlands,9,Tim Pringle,c Markram b Ottneil Baartman,0,2,0,0,0,tim pringle,NED,P266
+NETHERLANDS vs SOUTH AFRICA,Netherlands,10,van Meekeren,not out,1,1,0,0,100,paul van meekeren,NED,P272
+NETHERLANDS vs SOUTH AFRICA,South Africa,1,Reeza Hendricks,b van Beek,3,10,0,0,30,reeza hendricks,RSA,P122
+NETHERLANDS vs SOUTH AFRICA,South Africa,2,Quinton de Kock,run out (van Meekeren/Max ODowd),0,0,0,0,0,quinton de kock,RSA,P125
+NETHERLANDS vs SOUTH AFRICA,South Africa,3,Aiden Markram (c),c Edwards b Kingma,0,3,0,0,0,aiden markram,RSA,P121
+NETHERLANDS vs SOUTH AFRICA,South Africa,4,Tristan Stubbs,c van Beek b Bas de Leede,33,37,1,1,89.19,tristan stubbs,RSA,P128
+NETHERLANDS vs SOUTH AFRICA,South Africa,5,Heinrich Klaasen,c Tim Pringle b Kingma,4,7,0,0,57.14,heinrich klaasen,RSA,P126
+NETHERLANDS vs SOUTH AFRICA,South Africa,6,David Miller,not out,59,51,3,4,115.69,david miller,RSA,P123
+NETHERLANDS vs SOUTH AFRICA,South Africa,7,Marco Jansen,b van Beek,3,5,0,0,60,marco jansen,RSA,P124
+NETHERLANDS vs SOUTH AFRICA,South Africa,8,Keshav Maharaj,not out,0,1,0,0,0,keshav maharaj,RSA,P132
+AUSTRALIA vs ENGLAND,Australia,1,Head,b Jofra Archer,34,18,2,3,188.89,travis head,AUS,P77
+AUSTRALIA vs ENGLAND,Australia,2,Warner,b Moeen,39,16,2,4,243.75,david warner,AUS,P78
+AUSTRALIA vs ENGLAND,Australia,3,Mitchell Marsh (c),st Jos Buttler b Livingstone,35,25,2,2,140,mitchell marsh,AUS,P79
+AUSTRALIA vs ENGLAND,Australia,4,Maxwell,c Salt b Adil Rashid,28,25,3,1,112,glenn maxwell,AUS,P81
+AUSTRALIA vs ENGLAND,Australia,5,Stoinis,c Harry Brook b Chris Jordan,30,17,2,2,176.47,marcus stoinis,AUS,P82
+AUSTRALIA vs ENGLAND,Australia,6,Tim David,c Livingstone b Chris Jordan,11,8,0,1,137.5,tim david,AUS,P76
+AUSTRALIA vs ENGLAND,Australia,7,Wade,not out,17,10,3,0,170,matthew wade,AUS,P85
+AUSTRALIA vs ENGLAND,Australia,8,Cummins,run out (Jos Buttler/Chris Jordan),0,1,0,0,0,pat cummins,AUS,P86
+AUSTRALIA vs ENGLAND,Australia,9,Mitchell Starc,not out,0,0,0,0,0,mitchell starc,AUS,P89
+AUSTRALIA vs ENGLAND,England,1,Philip Salt,b Zampa,37,23,4,2,160.87,philip salt,ENG,P39
+AUSTRALIA vs ENGLAND,England,2,Jos Buttler (c & wk),c Cummins b Zampa,42,28,5,2,150,jos buttler,ENG,P37
+AUSTRALIA vs ENGLAND,England,3,Will Jacks,c Mitchell Starc b Stoinis,10,10,1,0,100,will jacks,ENG,P34
+AUSTRALIA vs ENGLAND,England,4,Jonny Bairstow,c Maxwell b Hazlewood,7,13,0,0,53.85,jonny bairstow,ENG,P38
+AUSTRALIA vs ENGLAND,England,5,Moeen Ali,c Warner b Cummins,25,15,0,3,166.67,moeen ali,ENG,P33
+AUSTRALIA vs ENGLAND,England,6,Harry Brook,not out,20,16,2,0,125,harry brook,ENG,P31
+AUSTRALIA vs ENGLAND,England,7,Liam Livingstone,c Mitchell Starc b Cummins,15,12,0,1,125,liam livingstone,ENG,P35
+AUSTRALIA vs ENGLAND,England,8,Chris Jordan,not out,1,3,0,0,33.33,chris jordan,ENG,P42
+WEST INDIES vs UGANDA,West Indies,1,Brandon King,b Alpesh Ramjani,13,8,2,0,162.5,brandon king,WI,P200
+WEST INDIES vs UGANDA,West Indies,2,J Charles,c Alpesh Ramjani b Dinesh Nakrani,44,42,4,2,104.76,johnson charles,WI,P207
+WEST INDIES vs UGANDA,West Indies,3,Pooran,c and b Masaba,22,17,0,3,129.41,nicholas pooran,WI,P208
+WEST INDIES vs UGANDA,West Indies,4,Rovman Powell (c),c Robinson Obuya b Masaba,23,18,1,1,127.78,rovman powell,WI,P198
+WEST INDIES vs UGANDA,West Indies,5,Sherfane Rutherford,b Cosmas Kyewuta,22,16,2,1,137.5,sherfane rutherford,WI,P201
+WEST INDIES vs UGANDA,West Indies,6,Russell,not out,30,17,6,0,176.47,andre russell,WI,P204
+WEST INDIES vs UGANDA,West Indies,7,Romario Shepherd,not out,5,5,0,0,100,romario shepherd,WI,P205
+WEST INDIES vs UGANDA,Uganda,1,Roger Mukasa,lbw b Akeal Hosein,0,2,0,0,0,roger mukasa,UGA,P222
+WEST INDIES vs UGANDA,Uganda,2,Simon Ssesazi,c Alzarri Joseph b Romario Shepherd,4,3,1,0,133.33,simon ssesazi,UGA,P216
+WEST INDIES vs UGANDA,Uganda,3,Robinson Obuya,b Russell,6,8,1,0,75,robinson obuya,UGA,P214
+WEST INDIES vs UGANDA,Uganda,4,Alpesh Ramjani,lbw b Akeal Hosein,5,6,1,0,83.33,alpesh ramjani,UGA,P220
+WEST INDIES vs UGANDA,Uganda,5,Kenneth Waiswa,lbw b Akeal Hosein,1,10,0,0,10,kenneth waiswa,UGA,P218
+WEST INDIES vs UGANDA,Uganda,6,Riazat Ali Shah,b Akeal Hosein,3,8,0,0,37.5,riazat ali shah,UGA,P219
+WEST INDIES vs UGANDA,Uganda,7,Dinesh Nakrani,b Akeal Hosein,0,2,0,0,0,dinesh nakrani,UGA,P217
+WEST INDIES vs UGANDA,Uganda,8,Brian Masaba (c),c Pooran b Alzarri Joseph,1,4,0,0,25,brian masaba,UGA,P223
+WEST INDIES vs UGANDA,Uganda,9,Juma Miyagi,not out,13,20,0,0,65,juma miyagi,UGA,P226
+WEST INDIES vs UGANDA,Uganda,10,Cosmas Kyewuta,lbw b Motie,1,6,0,0,16.67,cosmas kyewuta,UGA,P225
+WEST INDIES vs UGANDA,Uganda,11,Frank Nsubuga,b Alzarri Joseph,0,3,0,0,0,frank nsubuga,UGA,P227
+INDIA vs PAKISTAN,India,1,Rohit (c),c Haris Rauf b Shaheen Afridi,13,12,1,1,108.33,rohit sharma,IND,P1
+INDIA vs PAKISTAN,India,2,Kohli,c Usman Khan b Naseem Shah,4,3,1,0,133.33,virat kohli,IND,P3
+INDIA vs PAKISTAN,India,3,Pant,c Babar Azam b Amir,42,31,6,0,135.48,rishabh pant,IND,P9
+INDIA vs PAKISTAN,India,4,Axar,b Naseem Shah,20,18,2,1,111.11,axar patel,IND,P8
+INDIA vs PAKISTAN,India,5,Suryakumar Yadav,c Amir b Haris Rauf,7,8,1,0,87.5,suryakumar yadav,IND,P4
+INDIA vs PAKISTAN,India,6,Shivam Dube,c and b Naseem Shah,3,9,0,0,33.33,shivam dube,IND,P6
+INDIA vs PAKISTAN,India,7,Hardik Pandya,c Iftikhar Ahmed b Haris Rauf,7,12,1,0,58.33,hardik pandya,IND,P5
+INDIA vs PAKISTAN,India,8,Ravindra Jadeja,c Imad Wasim b Amir,0,1,0,0,0,ravindra jadeja,IND,P7
+INDIA vs PAKISTAN,India,9,Arshdeep Singh,run out (Babar Azam/Rizwan),9,13,1,0,69.23,arshdeep singh,IND,P13
+INDIA vs PAKISTAN,India,10,Bumrah,c Imad Wasim b Haris Rauf,0,1,0,0,0,jasprit bumrah,IND,P14
+INDIA vs PAKISTAN,India,11,Siraj,not out,7,7,0,0,100,mohammed siraj,IND,P15
+INDIA vs PAKISTAN,Pakistan,1,Mohammad Rizwan,b Bumrah,31,44,1,1,70.45,mohammad rizwan,PAK,P297
+INDIA vs PAKISTAN,Pakistan,2,Babar Azam (c),c Suryakumar Yadav b Bumrah,13,10,2,0,130,babar azam,PAK,P290
+INDIA vs PAKISTAN,Pakistan,3,Usman Khan,lbw b Axar,13,15,1,0,86.67,usman khan,PAK,P298
+INDIA vs PAKISTAN,Pakistan,4,Fakhar Zaman,c Pant b Hardik Pandya,13,8,1,1,162.5,fakhar zaman,PAK,P291
+INDIA vs PAKISTAN,Pakistan,5,Imad Wasim,c Pant b Arshdeep Singh,15,23,1,0,65.22,imad wasim,PAK,P294
+INDIA vs PAKISTAN,Pakistan,6,Shadab Khan,c Pant b Hardik Pandya,4,7,0,0,57.14,shadab khan,PAK,P295
+INDIA vs PAKISTAN,Pakistan,7,Iftikhar Ahmed,c Arshdeep Singh b Bumrah,5,9,0,0,55.56,iftikhar ahmed,PAK,P292
+INDIA vs PAKISTAN,Pakistan,8,Shaheen Afridi,not out,0,1,0,0,0,shaheen afridi,PAK,P304
+INDIA vs PAKISTAN,Pakistan,9,Naseem Shah,not out,10,4,2,0,250,naseem shah,PAK,P303
+OMAN vs SCOTLAND,Oman,1,Pratik Athavale,c Brandon McMullen b Chris Greaves,54,40,5,2,135,pratik athavale,OMN,P115
+OMAN vs SCOTLAND,Oman,2,Naseem Khushi,c Mark Watt b Christopher Sole,10,9,0,1,111.11,naseem khushi,OMN,P116
+OMAN vs SCOTLAND,Oman,3,Aqib Ilyas (c),lbw b Safyaan Sharif,16,6,2,1,266.67,aqib ilyas,OMN,P110
+OMAN vs SCOTLAND,Oman,4,Zeeshan Maqsood,c Matthew Cross b Mark Watt,3,4,0,0,75,zeeshan maqsood,OMN,P111
+OMAN vs SCOTLAND,Oman,5,Khalid Kail,run out (Christopher Sole/Mark Watt),5,7,0,0,71.43,khalid kail,OMN,P109
+OMAN vs SCOTLAND,Oman,6,Ayaan Khan,not out,41,39,4,0,105.13,ayaan khan,OMN,P113
+OMAN vs SCOTLAND,Oman,7,Mehran Khan,c Matthew Cross b Safyaan Sharif,13,10,2,0,130,mehran khan,OMN,P108
+OMAN vs SCOTLAND,Oman,8,Rafiullah,c Safyaan Sharif b Wheal,0,3,0,0,0,rafiullah,OMN,P112
+OMAN vs SCOTLAND,Oman,9,Shakeel Ahmed,not out,3,2,0,0,150,shakeel ahmed,OMN,P117
+OMAN vs SCOTLAND,Scotland,1,George Munsey,c Shakeel Ahmed b Mehran Khan,41,20,2,4,205,george munsey,SCO,P92
+OMAN vs SCOTLAND,Scotland,2,Michael Jones,c Mehran Khan b Bilal Khan,16,13,1,2,123.08,michael jones,SCO,P91
+OMAN vs SCOTLAND,Scotland,3,Brandon McMullen,not out,61,31,9,2,196.77,brandon mcmullen,SCO,P96
+OMAN vs SCOTLAND,Scotland,4,Richie Berrington (c),b Aqib Ilyas,13,7,1,1,185.71,richie berrington,SCO,P94
+OMAN vs SCOTLAND,Scotland,5,Matthew Cross,not out,15,8,0,2,187.5,matthew cross,SCO,P98
+SOUTH AFRICA vs BANGLADESH,South Africa,1,de Kock,b Tanzim Hasan Sakib,18,11,1,2,163.64,quinton de kock,RSA,P125
+SOUTH AFRICA vs BANGLADESH,South Africa,2,Reeza Hendricks,lbw b Tanzim Hasan Sakib,0,1,0,0,0,reeza hendricks,RSA,P122
+SOUTH AFRICA vs BANGLADESH,South Africa,3,Markram (c),b Taskin Ahmed,4,8,1,0,50,aiden markram,RSA,P121
+SOUTH AFRICA vs BANGLADESH,South Africa,4,Tristan Stubbs,c Shakib b Tanzim Hasan Sakib,0,5,0,0,0,tristan stubbs,RSA,P128
+SOUTH AFRICA vs BANGLADESH,South Africa,5,Klaasen,b Taskin Ahmed,46,44,2,3,104.55,heinrich klaasen,RSA,P126
+SOUTH AFRICA vs BANGLADESH,South Africa,6,David Miller,b Rishad Hossain,29,38,1,1,76.32,david miller,RSA,P123
+SOUTH AFRICA vs BANGLADESH,South Africa,7,Marco Jansen,not out,5,5,0,0,100,marco jansen,RSA,P124
+SOUTH AFRICA vs BANGLADESH,South Africa,8,Maharaj,not out,4,8,0,0,50,keshav maharaj,RSA,P132
+SOUTH AFRICA vs BANGLADESH,Bangladesh,1,Tanzid Hasan,c de Kock b Rabada,9,9,2,0,100,tanzid hasan tamim,BAN,P277
+SOUTH AFRICA vs BANGLADESH,Bangladesh,2,Najmul Hossain Shanto (c),c Markram b Nortje,14,23,0,1,60.87,najmul hossain shanto,BAN,P275
+SOUTH AFRICA vs BANGLADESH,Bangladesh,3,Litton Das,c David Miller b Maharaj,9,13,1,0,69.23,litton das,BAN,P282
+SOUTH AFRICA vs BANGLADESH,Bangladesh,4,Shakib Al Hasan,c Markram b Nortje,3,4,0,0,75,shakib al hasan,BAN,P279
+SOUTH AFRICA vs BANGLADESH,Bangladesh,5,Towhid Hridoy,lbw b Rabada,37,34,2,2,108.82,towhid hridoy,BAN,P278
+SOUTH AFRICA vs BANGLADESH,Bangladesh,6,Mahmudullah,c Markram b Maharaj,20,27,2,0,74.07,mahmudullah,BAN,P280
+SOUTH AFRICA vs BANGLADESH,Bangladesh,7,Jaker Ali,c Markram b Maharaj,8,9,0,0,88.89,jaker ali,BAN,P283
+SOUTH AFRICA vs BANGLADESH,Bangladesh,8,Rishad Hossain,not out,0,1,0,0,0,rishad hossain,BAN,P286
+SOUTH AFRICA vs BANGLADESH,Bangladesh,9,Taskin Ahmed,not out,1,1,0,0,100,taskin ahmed,BAN,P284
+CANADA vs PAKISTAN,Canada,1,Aaron Johnson,b Naseem Shah,52,44,4,4,118.18,aaron johnson,CAN,P46
+CANADA vs PAKISTAN,Canada,2,Navneet Dhaliwal,b Amir,4,7,1,0,57.14,navneet dhaliwal,CAN,P51
+CANADA vs PAKISTAN,Canada,3,Pargat Singh,c Fakhar Zaman b Shaheen Afridi,2,6,0,0,33.33,pargat singh,CAN,P49
+CANADA vs PAKISTAN,Canada,4,Nicholas Kirton,run out (Imad Wasim),1,6,0,0,16.67,nicholas kirton,CAN,P48
+CANADA vs PAKISTAN,Canada,5,Shreyas Movva,c Rizwan b Haris Rauf,2,9,0,0,22.22,shreyas movva,CAN,P55
+CANADA vs PAKISTAN,Canada,6,Ravinderpal Singh,c Fakhar Zaman b Haris Rauf,0,2,0,0,0,ravinderpal singh,CAN,P47
+CANADA vs PAKISTAN,Canada,7,Saad Bin Zafar (c),c Rizwan b Amir,10,21,1,0,47.62,saad bin zafar,CAN,P54
+CANADA vs PAKISTAN,Canada,8,Kaleem Sana,not out,13,14,0,1,92.86,kaleem sana,CAN,P58
+CANADA vs PAKISTAN,Canada,9,Dillon Heyliger,not out,9,11,1,0,81.82,dilon heyliger,CAN,P56
+CANADA vs PAKISTAN,Pakistan,1,Mohammad Rizwan,not out,53,53,2,1,100,mohammad rizwan,PAK,P297
+CANADA vs PAKISTAN,Pakistan,2,Saim Ayub,c Shreyas Movva b Dillon Heyliger,6,12,0,0,50,saim ayub,PAK,P293
+CANADA vs PAKISTAN,Pakistan,3,Babar Azam (c),c Shreyas Movva b Dillon Heyliger,33,33,1,1,100,babar azam,PAK,P290
+CANADA vs PAKISTAN,Pakistan,4,Fakhar Zaman,c (sub)Dilpreet Bajwa b J Gordon,4,6,0,0,66.67,fakhar zaman,PAK,P291
+CANADA vs PAKISTAN,Pakistan,5,Usman Khan,not out,2,1,0,0,200,usman khan,PAK,P298
+NAMIBIA vs AUSTRALIA,Namibia,1,Michael van Lingen,c Maxwell b Hazlewood,10,10,2,0,100,michael van lingen,NAM,P250
+NAMIBIA vs AUSTRALIA,Namibia,2,Niko Davin,c Maxwell b Hazlewood,2,7,0,0,28.57,nikolaas davin,NAM,P244
+NAMIBIA vs AUSTRALIA,Namibia,3,Jan Frylinck,c Mitchell Marsh b Cummins,1,6,0,0,16.67,jan frylinck,NAM,P248
+NAMIBIA vs AUSTRALIA,Namibia,4,Gerhard Erasmus (c),c Maxwell b Stoinis,36,43,4,1,83.72,gerhard erasmus,NAM,P246
+NAMIBIA vs AUSTRALIA,Namibia,5,Smit,lbw b Nathan Ellis,3,9,0,0,33.33,jj smit,NAM,P251
+NAMIBIA vs AUSTRALIA,Namibia,6,Zane Green,lbw b Zampa,1,4,0,0,25,zane green,NAM,P252
+NAMIBIA vs AUSTRALIA,Namibia,7,Wiese,c Hazlewood b Zampa,1,7,0,0,14.29,david wiese,NAM,P249
+NAMIBIA vs AUSTRALIA,Namibia,8,Trumpelmann,c Maxwell b Zampa,7,7,0,1,100,ruben trumpelmann,NAM,P254
+NAMIBIA vs AUSTRALIA,Namibia,9,Bernard Scholtz,b Zampa,0,2,0,0,0,bernard scholtz,NAM,P258
+NAMIBIA vs AUSTRALIA,Namibia,10,Jack Brassell,not out,2,3,0,0,66.67,jack brassell,NAM,P255
+NAMIBIA vs AUSTRALIA,Namibia,11,Ben Shikongo,c Tim David b Stoinis,0,4,0,0,0,ben shikongo,NAM,P256
+NAMIBIA vs AUSTRALIA,Australia,1,David Warner,c Trumpelmann b Wiese,20,8,3,1,250,david warner,AUS,P78
+NAMIBIA vs AUSTRALIA,Australia,2,Travis Head,not out,34,17,5,2,200,travis head,AUS,P77
+NAMIBIA vs AUSTRALIA,Australia,3,Mitchell Marsh (c),not out,18,9,3,1,200,mitchell marsh,AUS,P79
+UNITED STATES OF AMERICA vs INDIA,United States Of America,1,Shayan Jahangir,lbw b Arshdeep Singh,0,1,0,0,0,shayan jahangir,USA,P71
+UNITED STATES OF AMERICA vs INDIA,United States Of America,2,Steven Taylor,b Axar,24,30,0,2,80,steven taylor,USA,P64
+UNITED STATES OF AMERICA vs INDIA,United States Of America,3,Andries Gous,c Hardik Pandya b Arshdeep Singh,2,5,0,0,40,andries gous,USA,P70
+UNITED STATES OF AMERICA vs INDIA,United States Of America,4,Aaron Jones (c),c Siraj b Hardik Pandya,11,22,0,1,50,aaron jones,USA,P61
+UNITED STATES OF AMERICA vs INDIA,United States Of America,5,NR Kumar,c Siraj b Arshdeep Singh,27,23,2,1,117.39,nr kumar,USA,P62
+UNITED STATES OF AMERICA vs INDIA,United States Of America,6,CJ Anderson,c Pant b Hardik Pandya,15,12,1,1,125,cj anderson,USA,P65
+UNITED STATES OF AMERICA vs INDIA,United States Of America,7,Harmeet Singh,c Pant b Arshdeep Singh,10,10,0,1,100,harmeet singh,USA,P66
+UNITED STATES OF AMERICA vs INDIA,United States Of America,8,van Schalkwyk,not out,11,10,1,0,110,van schalkwyk,USA,P68
+UNITED STATES OF AMERICA vs INDIA,United States Of America,9,Jasdeep Singh,run out (Pant/Siraj),2,7,0,0,28.57,jasdeep singh,USA,P73
+UNITED STATES OF AMERICA vs INDIA,India,1,Rohit Sharma (c),c Harmeet Singh b Netravalkar,3,6,0,0,50,rohit sharma,IND,P1
+UNITED STATES OF AMERICA vs INDIA,India,2,Virat Kohli,c Andries Gous b Netravalkar,0,1,0,0,0,virat kohli,IND,P3
+UNITED STATES OF AMERICA vs INDIA,India,3,Rishabh Pant,b Ali Khan,18,20,1,1,90,rishabh pant,IND,P9
+UNITED STATES OF AMERICA vs INDIA,India,4,Suryakumar Yadav,not out,50,49,2,2,102.04,suryakumar yadav,IND,P4
+UNITED STATES OF AMERICA vs INDIA,India,5,Shivam Dube,not out,31,35,1,1,88.57,shivam dube,IND,P6
+WEST INDIES vs NEW ZEALAND,West Indies,1,Brandon King,c Conway b Neesham,9,12,0,1,75,brandon king,WI,P200
+WEST INDIES vs NEW ZEALAND,West Indies,2,J Charles,b Boult,0,5,0,0,0,johnson charles,WI,P207
+WEST INDIES vs NEW ZEALAND,West Indies,3,Pooran,c Conway b Southee,17,12,3,0,141.67,nicholas pooran,WI,P208
+WEST INDIES vs NEW ZEALAND,West Indies,4,Roston Chase,c Rachin Ravindra b Lockie Ferguson,0,3,0,0,0,roston chase,WI,P203
+WEST INDIES vs NEW ZEALAND,West Indies,5,Rovman Powell (c),c Conway b Southee,1,5,0,0,20,rovman powell,WI,P198
+WEST INDIES vs NEW ZEALAND,West Indies,6,Sherfane Rutherford,not out,68,39,2,6,174.36,sherfane rutherford,WI,P201
+WEST INDIES vs NEW ZEALAND,West Indies,7,Akeal Hosein,c Neesham b Santner,15,17,0,1,88.24,akeal hosein,WI,P212
+WEST INDIES vs NEW ZEALAND,West Indies,8,Russell,c Lockie Ferguson b Boult,14,7,2,1,200,andre russell,WI,P204
+WEST INDIES vs NEW ZEALAND,West Indies,9,Romario Shepherd,lbw b Lockie Ferguson,13,13,0,1,100,romario shepherd,WI,P205
+WEST INDIES vs NEW ZEALAND,West Indies,10,Alzarri Joseph,b Boult,6,6,1,0,100,alzarri joseph,WI,P210
+WEST INDIES vs NEW ZEALAND,West Indies,11,Motie,not out,0,1,0,0,0,gudakesh motie,WI,P206
+WEST INDIES vs NEW ZEALAND,New Zealand,1,Devon Conway,c Roston Chase b Akeal Hosein,5,8,0,0,62.5,devon conway,NZ,P160
+WEST INDIES vs NEW ZEALAND,New Zealand,2,Finn Allen,c Russell b Alzarri Joseph,26,23,3,1,113.04,finn allen,NZ,P152
+WEST INDIES vs NEW ZEALAND,New Zealand,3,Rachin Ravindra,c Russell b Motie,10,13,0,0,76.92,rachin ravindra,NZ,P158
+WEST INDIES vs NEW ZEALAND,New Zealand,4,Kane Williamson (c),c Pooran b Motie,1,2,0,0,50,kane williamson,NZ,P151
+WEST INDIES vs NEW ZEALAND,New Zealand,5,Daryl Mitchell,b Motie,12,13,1,0,92.31,daryl mitchell,NZ,P156
+WEST INDIES vs NEW ZEALAND,New Zealand,6,Glenn Phillips,c Rovman Powell b Alzarri Joseph,40,33,3,2,121.21,glenn phillips,NZ,P154
+WEST INDIES vs NEW ZEALAND,New Zealand,7,James Neesham,c Brandon King b Alzarri Joseph,10,11,0,1,90.91,james neesham,NZ,P157
+WEST INDIES vs NEW ZEALAND,New Zealand,8,Mitchell Santner,not out,21,12,0,3,175,mitchell santner,NZ,P159
+WEST INDIES vs NEW ZEALAND,New Zealand,9,Tim Southee,c and b Alzarri Joseph,0,1,0,0,0,tim southee,NZ,P165
+WEST INDIES vs NEW ZEALAND,New Zealand,10,Trent Boult,c Roston Chase b Russell,7,4,0,1,175,trent boult,NZ,P161
+WEST INDIES vs NEW ZEALAND,New Zealand,11,Lockie Ferguson,not out,0,0,0,0,0,lockie ferguson,NZ,P162
+BANGLADESH vs NETHERLANDS,Bangladesh,1,Tanzid Hasan,c Bas de Leede b van Meekeren,35,26,5,1,134.62,tanzid hasan tamim,BAN,P277
+BANGLADESH vs NETHERLANDS,Bangladesh,2,Shanto (c),c Vikramjit Singh b Aryan Dutt,1,3,0,0,33.33,najmul hossain shanto,BAN,P275
+BANGLADESH vs NETHERLANDS,Bangladesh,3,Litton Das,c Sybrand Engelbrecht b Aryan Dutt,1,2,0,0,50,litton das,BAN,P282
+BANGLADESH vs NETHERLANDS,Bangladesh,4,Shakib,not out,64,46,9,0,139.13,shakib al hasan,BAN,P279
+BANGLADESH vs NETHERLANDS,Bangladesh,5,Towhid Hridoy,b Tim Pringle,9,15,0,0,60,towhid hridoy,BAN,P278
+BANGLADESH vs NETHERLANDS,Bangladesh,6,Mahmudullah,c Sybrand Engelbrecht b van Meekeren,25,21,2,2,119.05,mahmudullah,BAN,P280
+BANGLADESH vs NETHERLANDS,Bangladesh,7,Jaker Ali,not out,14,7,3,0,200,jaker ali,BAN,P283
+BANGLADESH vs NETHERLANDS,Netherlands,1,Michael Levitt,c Towhid Hridoy b Taskin Ahmed,18,16,2,1,112.5,michael levitt,NED,P264
+BANGLADESH vs NETHERLANDS,Netherlands,2,Max ODowd,c and b Tanzim Hasan Sakib,12,16,3,0,75,max odowd,NED,P260
+BANGLADESH vs NETHERLANDS,Netherlands,3,Vikramjit Singh,st Litton Das b Mahmudullah,26,16,0,3,162.5,vikramjit singh,NED,P262
+BANGLADESH vs NETHERLANDS,Netherlands,4,Sybrand Engelbrecht,c Tanzim Hasan Sakib b Rishad Hossain,33,22,3,1,150,sybrand engelbrecht,NED,P263
+BANGLADESH vs NETHERLANDS,Netherlands,5,Scott Edwards (c & wk),c Jaker Ali b Mustafizur,25,23,3,0,108.7,scott edwards,NED,P268
+BANGLADESH vs NETHERLANDS,Netherlands,6,Bas de Leede,st Litton Das b Rishad Hossain,0,2,0,0,0,bas de leede,NED,P265
+BANGLADESH vs NETHERLANDS,Netherlands,7,Logan van Beek,c and b Rishad Hossain,2,3,0,0,66.67,logan van beek,NED,P270
+BANGLADESH vs NETHERLANDS,Netherlands,8,Tim Pringle,b Taskin Ahmed,1,10,0,0,10,tim pringle,NED,P266
+BANGLADESH vs NETHERLANDS,Netherlands,9,Aryan Dutt,not out,15,12,1,1,125,aryan dutt,NED,P271
+OMAN vs ENGLAND,Oman,1,Pratik Athavale,c Salt b Jofra Archer,5,3,1,0,166.67,pratik athavale,OMN,P115
+OMAN vs ENGLAND,Oman,2,Kashyap,c Livingstone b Mark Wood,9,16,0,1,56.25,kashyap prajapati,OMN,P106
+OMAN vs ENGLAND,Oman,3,Aqib Ilyas (c),c Will Jacks b Jofra Archer,8,10,1,0,80,aqib ilyas,OMN,P110
+OMAN vs ENGLAND,Oman,4,Zeeshan Maqsood,c and b Mark Wood,1,5,0,0,20,zeeshan maqsood,OMN,P111
+OMAN vs ENGLAND,Oman,5,Khalid Kail,st Jos Buttler b Adil Rashid,1,3,0,0,33.33,khalid kail,OMN,P109
+OMAN vs ENGLAND,Oman,6,Ayaan Khan,b Mark Wood,1,5,0,0,20,ayaan khan,OMN,P113
+OMAN vs ENGLAND,Oman,7,Shoaib Khan,c Jos Buttler b Jofra Archer,11,23,1,0,47.83,shoaib khan,OMN,P107
+OMAN vs ENGLAND,Oman,8,Mehran Khan,c Moeen b Adil Rashid,0,2,0,0,0,mehran khan,OMN,P108
+OMAN vs ENGLAND,Oman,9,Fayyaz Butt,b Adil Rashid,2,7,0,0,28.57,fayyaz butt,OMN,P119
+OMAN vs ENGLAND,Oman,10,Kaleemullah,b Adil Rashid,5,5,1,0,100,kaleemullah,OMN,P120
+OMAN vs ENGLAND,Oman,11,Bilal Khan,not out,0,1,0,0,0,bilal khan,OMN,P118
+OMAN vs ENGLAND,England,1,Philip Salt,b Bilal Khan,12,3,0,2,400,philip salt,ENG,P39
+OMAN vs ENGLAND,England,2,Jos Buttler (c & wk),not out,24,8,4,1,300,jos buttler,ENG,P37
+OMAN vs ENGLAND,England,3,Will Jacks,c Kashyap b Kaleemullah,5,7,1,0,71.43,will jacks,ENG,P34
+OMAN vs ENGLAND,England,4,Jonny Bairstow,not out,8,2,2,0,400,jonny bairstow,ENG,P38
+PAPUA NEW GUINEA vs AFGHANISTAN,Papua New Guinea,1,Tony Ura,b Naveen-ul-Haq,11,18,1,0,61.11,tony ura,PNG,P237
+PAPUA NEW GUINEA vs AFGHANISTAN,Papua New Guinea,2,Assad Vala (c),run out (Fazalhaq Farooqi/Gurbaz),3,2,0,0,150,assad vala,PNG,P232
+PAPUA NEW GUINEA vs AFGHANISTAN,Papua New Guinea,3,Lega Siaka,c Gurbaz b Fazalhaq Farooqi,0,1,0,0,0,lega siaka,PNG,P231
+PAPUA NEW GUINEA vs AFGHANISTAN,Papua New Guinea,4,Sese Bau,c Gurbaz b Fazalhaq Farooqi,0,1,0,0,0,sese bau,PNG,P234
+PAPUA NEW GUINEA vs AFGHANISTAN,Papua New Guinea,5,Hiri Hiri,b Naveen-ul-Haq,1,3,0,0,33.33,hiri hiri,PNG,P229
+PAPUA NEW GUINEA vs AFGHANISTAN,Papua New Guinea,6,Chad Soper,run out (Noor Ahmad/Rashid Khan),9,26,0,0,34.62,chad soper,PNG,P239
+PAPUA NEW GUINEA vs AFGHANISTAN,Papua New Guinea,7,Kiplin Doriga,lbw b Noor Ahmad,27,32,2,0,84.38,kiplin doriga,PNG,P236
+PAPUA NEW GUINEA vs AFGHANISTAN,Papua New Guinea,8,Norman Vanua,run out (Rashid Khan),0,7,0,0,0,norman vanua,PNG,P242
+PAPUA NEW GUINEA vs AFGHANISTAN,Papua New Guinea,9,Alei Nao,c Rashid Khan b Fazalhaq Farooqi,13,19,2,0,68.42,alei nao,PNG,P238
+PAPUA NEW GUINEA vs AFGHANISTAN,Papua New Guinea,10,John Kariko,not out,4,7,1,0,57.14,john kariko,PNG,P240
+PAPUA NEW GUINEA vs AFGHANISTAN,Papua New Guinea,11,Semo Kamea,run out (Gurbaz),2,3,0,0,66.67,semo kamea,PNG,P243
+PAPUA NEW GUINEA vs AFGHANISTAN,Afghanistan,1,Rahmanullah Gurbaz,b Alei Nao,11,7,1,1,157.14,rahmanullah gurbaz,AFG,P175
+PAPUA NEW GUINEA vs AFGHANISTAN,Afghanistan,2,Ibrahim Zadran,b Semo Kamea,0,7,0,0,0,ibrahim zadran,AFG,P166
+PAPUA NEW GUINEA vs AFGHANISTAN,Afghanistan,3,Gulbadin Naib,not out,49,36,4,2,136.11,gulbadin naib,AFG,P169
+PAPUA NEW GUINEA vs AFGHANISTAN,Afghanistan,4,Azmatullah Omarzai,b Norman Vanua,13,18,1,0,72.22,azmatullah omarzai,AFG,P170
+PAPUA NEW GUINEA vs AFGHANISTAN,Afghanistan,5,Mohammad Nabi,not out,16,23,1,0,69.57,mohammad nabi,AFG,P171
+SOUTH AFRICA vs NEPAL,South Africa,1,Reeza Hendricks,c and b Dipendra Singh,43,49,5,1,87.76,reeza hendricks,RSA,P122
+SOUTH AFRICA vs NEPAL,South Africa,2,de Kock,c and b Dipendra Singh,10,11,1,0,90.91,quinton de kock,RSA,P125
+SOUTH AFRICA vs NEPAL,South Africa,3,Markram (c),b Kushal Bhurtel,15,22,2,0,68.18,aiden markram,RSA,P121
+SOUTH AFRICA vs NEPAL,South Africa,4,Klaasen,c Karan KC b Kushal Bhurtel,3,5,0,0,60,heinrich klaasen,RSA,P126
+SOUTH AFRICA vs NEPAL,South Africa,5,David Miller,c Lamichhane b Dipendra Singh,7,10,0,0,70,david miller,RSA,P123
+SOUTH AFRICA vs NEPAL,South Africa,6,Tristan Stubbs,not out,27,18,2,1,150,tristan stubbs,RSA,P128
+SOUTH AFRICA vs NEPAL,South Africa,7,Marco Jansen,c Anil Sah b Kushal Bhurtel,1,4,0,0,25,marco jansen,RSA,P124
+SOUTH AFRICA vs NEPAL,South Africa,8,Rabada,st Aasif Sheikh b Kushal Bhurtel,0,1,0,0,0,kagiso rabada,RSA,P134
+SOUTH AFRICA vs NEPAL,Nepal,1,Kushal Bhurtel,b Shamsi,13,21,1,1,61.9,kushal bhurtel,NEP,P182
+SOUTH AFRICA vs NEPAL,Nepal,2,Aasif Sheikh,b Shamsi,42,49,4,1,85.71,aasif sheikh,NEP,P192
+SOUTH AFRICA vs NEPAL,Nepal,3,Rohit Paudel (c),b Shamsi,0,2,0,0,0,rohit paudel,NEP,P184
+SOUTH AFRICA vs NEPAL,Nepal,4,Anil Sah,c Marco Jansen b Markram,27,24,3,1,112.5,anil sah,NEP,P186
+SOUTH AFRICA vs NEPAL,Nepal,5,Dipendra Singh Airee,c de Kock b Shamsi,6,11,0,0,54.55,dipendra singh airee,NEP,P185
+SOUTH AFRICA vs NEPAL,Nepal,6,Kushal Malla,b Nortje,1,3,0,0,33.33,kushal malla,NEP,P187
+SOUTH AFRICA vs NEPAL,Nepal,7,Gulsan Jha,run out (Klaasen),6,6,1,0,100,gulsan jha,NEP,P194
+SOUTH AFRICA vs NEPAL,Nepal,8,Sompal Kami,not out,8,4,0,1,200,sompal kami,NEP,P189
+UGANDA vs NEW ZEALAND,Uganda,1,Ronak Patel,c Conway b Santner,2,20,0,0,10,ronak patel,UGA,P215
+UGANDA vs NEW ZEALAND,Uganda,2,Simon Ssesazi,lbw b Boult,0,1,0,0,0,simon ssesazi,UGA,P216
+UGANDA vs NEW ZEALAND,Uganda,3,Robinson Obuya,b Boult,0,1,0,0,0,robinson obuya,UGA,P214
+UGANDA vs NEW ZEALAND,Uganda,4,Alpesh Ramjani,lbw b Southee,0,6,0,0,0,alpesh ramjani,UGA,P220
+UGANDA vs NEW ZEALAND,Uganda,5,K Waiswa,b Lockie Ferguson,11,18,2,0,61.11,kenneth waiswa,UGA,P218
+UGANDA vs NEW ZEALAND,Uganda,6,Riazat Ali Shah,c Conway b Rachin Ravindra,2,13,0,0,15.38,riazat ali shah,UGA,P219
+UGANDA vs NEW ZEALAND,Uganda,7,Dinesh Nakrani,c Glenn Phillips b Rachin Ravindra,4,13,0,0,30.77,dinesh nakrani,UGA,P217
+UGANDA vs NEW ZEALAND,Uganda,8,Masaba (c),not out,3,20,0,0,15,brian masaba,UGA,P223
+UGANDA vs NEW ZEALAND,Uganda,9,Achelam,lbw b Southee,9,13,1,0,69.23,fred achelam,UGA,P221
+UGANDA vs NEW ZEALAND,Uganda,10,Juma Miyagi,lbw b Southee,0,1,0,0,0,juma miyagi,UGA,P226
+UGANDA vs NEW ZEALAND,Uganda,11,Cosmas Kyewuta,c Daryl Mitchell b Santner,1,6,0,0,16.67,cosmas kyewuta,UGA,P225
+UGANDA vs NEW ZEALAND,New Zealand,1,Finn Allen,c Achelam b Riazat Ali Shah,9,17,1,0,52.94,finn allen,NZ,P152
+UGANDA vs NEW ZEALAND,New Zealand,2,Devon Conway,not out,22,15,4,0,146.67,devon conway,NZ,P160
+UGANDA vs NEW ZEALAND,New Zealand,3,Rachin Ravindra,not out,1,1,0,0,100,rachin ravindra,NZ,P158
+ENGLAND vs NAMIBIA,England,1,Salt,c Zane Green b Wiese,11,8,2,0,137.5,philip salt,ENG,P39
+ENGLAND vs NAMIBIA,England,2,Jos Buttler (c & wk),b Trumpelmann,0,4,0,0,0,jos buttler,ENG,P37
+ENGLAND vs NAMIBIA,England,3,Bairstow,c Zane Green b Bernard Scholtz,31,18,3,2,172.22,jonny bairstow,ENG,P38
+ENGLAND vs NAMIBIA,England,4,Harry Brook,not out,47,20,4,2,235,harry brook,ENG,P31
+ENGLAND vs NAMIBIA,England,5,Moeen,c Niko Davin b Trumpelmann,16,6,0,2,266.67,moeen ali,ENG,P33
+ENGLAND vs NAMIBIA,England,6,Livingstone,run out (Trumpelmann/Zane Green),13,4,0,2,325,liam livingstone,ENG,P35
+ENGLAND vs NAMIBIA,Namibia,1,Michael van Lingen,c Harry Brook b Chris Jordan,33,29,1,3,113.79,michael van lingen,NAM,P250
+ENGLAND vs NAMIBIA,Namibia,2,Nikolaas Davin,retd out,18,16,1,1,112.5,nikolaas davin,NAM,P244
+ENGLAND vs NAMIBIA,Namibia,3,David Wiese,c Harry Brook b Jofra Archer,27,12,2,2,225,david wiese,NAM,P249
+ENGLAND vs NAMIBIA,Namibia,4,Gerhard Erasmus (c),not out,1,3,0,0,33.33,gerhard erasmus,NAM,P246
+ENGLAND vs NAMIBIA,Namibia,5,JJ Smit,not out,0,1,0,0,0,jj smit,NAM,P251
+SCOTLAND vs AUSTRALIA,Scotland,1,Munsey,c Nathan Ellis b Maxwell,35,23,2,3,152.17,george munsey,SCO,P92
+SCOTLAND vs AUSTRALIA,Scotland,2,Michael Jones,b Agar,2,3,0,0,66.67,michael jones,SCO,P91
+SCOTLAND vs AUSTRALIA,Scotland,3,Brandon McMullen,c Mitchell Starc b Zampa,60,34,2,6,176.47,brandon mcmullen,SCO,P96
+SCOTLAND vs AUSTRALIA,Scotland,4,Berrington (c),not out,42,31,1,2,135.48,richie berrington,SCO,P94
+SCOTLAND vs AUSTRALIA,Scotland,5,Matthew Cross,c Agar b Maxwell,18,11,1,1,163.64,matthew cross,SCO,P98
+SCOTLAND vs AUSTRALIA,Scotland,6,Michael Leask,c Mitchell Starc b Nathan Ellis,5,8,0,0,62.5,michael leask,SCO,P95
+SCOTLAND vs AUSTRALIA,Scotland,7,Chris Greaves,not out,9,10,0,0,90,chris greaves,SCO,P100
+SCOTLAND vs AUSTRALIA,Australia,1,Travis Head,c Michael Jones b Safyaan Sharif,68,49,5,4,138.78,travis head,AUS,P77
+SCOTLAND vs AUSTRALIA,Australia,2,David Warner,c Berrington b Wheal,1,4,0,0,25,david warner,AUS,P78
+SCOTLAND vs AUSTRALIA,Australia,3,Mitchell Marsh (c),c (sub)Charlie Tear b Safyaan Sharif,8,9,1,0,88.89,mitchell marsh,AUS,P79
+SCOTLAND vs AUSTRALIA,Australia,4,Glenn Maxwell,b Mark Watt,11,8,0,1,137.5,glenn maxwell,AUS,P81
+SCOTLAND vs AUSTRALIA,Australia,5,Marcus Stoinis,b Mark Watt,59,29,9,2,203.45,marcus stoinis,AUS,P82
+SCOTLAND vs AUSTRALIA,Australia,6,Tim David,not out,24,14,2,1,171.43,tim david,AUS,P76
+SCOTLAND vs AUSTRALIA,Australia,7,Matthew Wade,not out,4,5,0,0,80,matthew wade,AUS,P85
+IRELAND vs PAKISTAN,Ireland,1,Balbirnie,b Shaheen Afridi,0,3,0,0,0,andrew balbirnie,IRE,P17
+IRELAND vs PAKISTAN,Ireland,2,Stirling (c),c Rizwan b Amir,1,2,0,0,50,paul stirling,IRE,P19
+IRELAND vs PAKISTAN,Ireland,3,Lorcan Tucker,c Rizwan b Shaheen Afridi,2,2,0,0,100,lorcan tucker,IRE,P24
+IRELAND vs PAKISTAN,Ireland,4,Harry Tector,lbw b Shaheen Afridi,0,6,0,0,0,harry tector,IRE,P18
+IRELAND vs PAKISTAN,Ireland,5,Curtis Campher,c Saim Ayub b Haris Rauf,7,14,1,0,50,curtis campher,IRE,P21
+IRELAND vs PAKISTAN,Ireland,6,Dockrell,c and b Amir,11,10,2,0,110,george dockrell,IRE,P22
+IRELAND vs PAKISTAN,Ireland,7,Delany,c Shadab Khan b Imad Wasim,31,19,1,3,163.16,gareth delany,IRE,P20
+IRELAND vs PAKISTAN,Ireland,8,Mark Adair,c Shaheen Afridi b Imad Wasim,15,19,2,0,78.95,mark adair,IRE,P25
+IRELAND vs PAKISTAN,Ireland,9,Barry McCarthy,b Imad Wasim,2,7,0,0,28.57,barry mccarthy,IRE,P28
+IRELAND vs PAKISTAN,Ireland,10,Joshua Little,not out,22,18,2,1,122.22,joshua little,IRE,P27
+IRELAND vs PAKISTAN,Ireland,11,Benjamin White,not out,5,20,0,0,25,benjamin white,IRE,P30
+IRELAND vs PAKISTAN,Pakistan,1,Mohammad Rizwan,c Mark Adair b Barry McCarthy,17,16,3,0,106.25,mohammad rizwan,PAK,P297
+IRELAND vs PAKISTAN,Pakistan,2,Saim Ayub,c Lorcan Tucker b Mark Adair,17,17,2,1,100,saim ayub,PAK,P293
+IRELAND vs PAKISTAN,Pakistan,3,Babar Azam (c),not out,32,34,2,0,94.12,babar azam,PAK,P290
+IRELAND vs PAKISTAN,Pakistan,4,Fakhar Zaman,c (sub)Ross Adair b Curtis Campher,5,9,0,0,55.56,fakhar zaman,PAK,P291
+IRELAND vs PAKISTAN,Pakistan,5,Usman Khan,c Harry Tector b Barry McCarthy,2,3,0,0,66.67,usman khan,PAK,P298
+IRELAND vs PAKISTAN,Pakistan,6,Shadab Khan,c Lorcan Tucker b Barry McCarthy,0,2,0,0,0,shadab khan,PAK,P295
+IRELAND vs PAKISTAN,Pakistan,7,Imad Wasim,c Harry Tector b Curtis Campher,4,6,1,0,66.67,imad wasim,PAK,P294
+IRELAND vs PAKISTAN,Pakistan,8,Abbas Afridi,c (sub)Ross Adair b Benjamin White,17,21,1,1,80.95,abbas afridi,PAK,P301
+IRELAND vs PAKISTAN,Pakistan,9,Shaheen Afridi,not out,13,5,0,2,260,shaheen afridi,PAK,P304
+BANGLADESH vs NEPAL,Bangladesh,1,Tanzid Hasan,c and b Sompal Kami,0,1,0,0,0,tanzid hasan tamim,BAN,P277
+BANGLADESH vs NEPAL,Bangladesh,2,Litton Das,c Aasif Sheikh b Sompal Kami,10,12,1,0,83.33,litton das,BAN,P282
+BANGLADESH vs NEPAL,Bangladesh,3,Shanto (c),b Dipendra Singh,4,5,0,0,80,najmul hossain shanto,BAN,P275
+BANGLADESH vs NEPAL,Bangladesh,4,Shakib,lbw b Rohit Paudel,17,22,2,0,77.27,shakib al hasan,BAN,P279
+BANGLADESH vs NEPAL,Bangladesh,5,Towhid Hridoy,c Lamichhane b Rohit Paudel,9,7,2,0,128.57,towhid hridoy,BAN,P278
+BANGLADESH vs NEPAL,Bangladesh,6,Mahmudullah,run out (Gulsan Jha/Lamichhane),13,13,2,0,100,mahmudullah,BAN,P280
+BANGLADESH vs NEPAL,Bangladesh,7,Jaker Ali,b Lamichhane,12,26,0,0,46.15,jaker ali,BAN,P283
+BANGLADESH vs NEPAL,Bangladesh,8,Tanzim Hasan Sakib,b Lamichhane,3,5,0,0,60,tanzim hasan sakib,BAN,P289
+BANGLADESH vs NEPAL,Bangladesh,9,Rishad Hossain,c Anil Sah b Dipendra Singh,13,7,1,1,185.71,rishad hossain,BAN,P286
+BANGLADESH vs NEPAL,Bangladesh,10,Taskin Ahmed,not out,12,15,2,0,80,taskin ahmed,BAN,P284
+BANGLADESH vs NEPAL,Bangladesh,11,Mustafizur,run out (Rohit Paudel/Dipendra Singh),3,4,0,0,75,mustafizur rahman,BAN,P287
+BANGLADESH vs NEPAL,Nepal,1,Kushal Bhurtel,b Tanzim Hasan Sakib,4,8,1,0,50,kushal bhurtel,NEP,P182
+BANGLADESH vs NEPAL,Nepal,2,Aasif Sheikh,c Shakib b Mustafizur,17,14,4,0,121.43,aasif sheikh,NEP,P192
+BANGLADESH vs NEPAL,Nepal,3,Anil Sah,c Shanto b Tanzim Hasan Sakib,0,2,0,0,0,anil sah,NEP,P186
+BANGLADESH vs NEPAL,Nepal,4,Rohit Paudel (c),c Rishad Hossain b Tanzim Hasan Sakib,1,6,0,0,16.67,rohit paudel,NEP,P184
+BANGLADESH vs NEPAL,Nepal,5,Sundeep Jora,c Rishad Hossain b Tanzim Hasan Sakib,1,8,0,0,12.5,sundeep jora,NEP,P183
+BANGLADESH vs NEPAL,Nepal,6,Kushal Malla,c Shanto b Mustafizur,27,40,1,1,67.5,kushal malla,NEP,P187
+BANGLADESH vs NEPAL,Nepal,7,Dipendra Singh Airee,c Litton Das b Mustafizur,25,31,2,1,80.65,dipendra singh airee,NEP,P185
+BANGLADESH vs NEPAL,Nepal,8,Gulsan Jha,c Towhid Hridoy b Taskin Ahmed,0,4,0,0,0,gulsan jha,NEP,P194
+BANGLADESH vs NEPAL,Nepal,9,Sompal Kami,st Litton Das b Shakib,0,2,0,0,0,sompal kami,NEP,P189
+BANGLADESH vs NEPAL,Nepal,10,Sandeep Lamichhane,not out,0,0,0,0,0,sandeep lamichhane,NEP,P197
+BANGLADESH vs NEPAL,Nepal,11,Abinash Bohara,lbw b Shakib,0,1,0,0,0,abinash bohara,NEP,P195
+SRI LANKA vs NETHERLANDS,Sri Lanka,1,Pathum Nissanka,c Sybrand Engelbrecht b Kingma,0,2,0,0,0,pathum nissanka,SL,P136
+SRI LANKA vs NETHERLANDS,Sri Lanka,2,Kusal Mendis,c Sybrand Engelbrecht b Aryan Dutt,46,29,5,0,158.62,kusal mendis,SL,P144
+SRI LANKA vs NETHERLANDS,Sri Lanka,3,Kamindu Mendis,c van Beek b van Meekeren,17,20,1,1,85,kamindu mendis,SL,P140
+SRI LANKA vs NETHERLANDS,Sri Lanka,4,Dhananjaya de Silva,c Bas de Leede b Tim Pringle,34,26,3,1,130.77,dhananjaya de silva,SL,P138
+SRI LANKA vs NETHERLANDS,Sri Lanka,5,Asalanka,c Bas de Leede b van Beek,46,21,1,5,219.05,charith asalanka,SL,P137
+SRI LANKA vs NETHERLANDS,Sri Lanka,6,Mathews,not out,30,15,1,2,200,angelo mathews,SL,P139
+SRI LANKA vs NETHERLANDS,Sri Lanka,7,Shanaka,c Edwards b van Beek,0,1,0,0,0,dasun shanaka,SL,P141
+SRI LANKA vs NETHERLANDS,Sri Lanka,8,W Hasaranga (c),not out,20,6,1,2,333.33,wanindu hasaranga,SL,P142
+SRI LANKA vs NETHERLANDS,Netherlands,1,Michael Levitt,st Kusal Mendis b M Theekshana,31,23,2,3,134.78,michael levitt,NED,P264
+SRI LANKA vs NETHERLANDS,Netherlands,2,Max ODowd,c Kamindu Mendis b N Thushara,11,8,0,1,137.5,max odowd,NED,P260
+SRI LANKA vs NETHERLANDS,Netherlands,3,Vikramjit Singh,c Kamindu Mendis b Shanaka,7,10,0,0,70,vikramjit singh,NED,P262
+SRI LANKA vs NETHERLANDS,Netherlands,4,Sybrand Engelbrecht,c Asalanka b Matheesha Pathirana,11,9,0,1,122.22,sybrand engelbrecht,NED,P263
+SRI LANKA vs NETHERLANDS,Netherlands,5,Scott Edwards (c & wk),c M Theekshana b N Thushara,31,24,2,1,129.17,scott edwards,NED,P268
+SRI LANKA vs NETHERLANDS,Netherlands,6,Bas de Leede,c Asalanka b W Hasaranga,3,5,0,0,60,bas de leede,NED,P265
+SRI LANKA vs NETHERLANDS,Netherlands,7,Logan van Beek,run out (Kusal Mendis),0,1,0,0,0,logan van beek,NED,P270
+SRI LANKA vs NETHERLANDS,Netherlands,8,Tim Pringle,st Kusal Mendis b W Hasaranga,2,4,0,0,50,tim pringle,NED,P266
+SRI LANKA vs NETHERLANDS,Netherlands,9,Aryan Dutt,b Matheesha Pathirana,10,8,1,0,125,aryan dutt,NED,P271
+SRI LANKA vs NETHERLANDS,Netherlands,10,Paul van Meekeren,lbw b N Thushara,3,8,0,0,37.5,paul van meekeren,NED,P272
+SRI LANKA vs NETHERLANDS,Netherlands,11,Vivian Kingma,not out,1,1,0,0,100,vivian kingma,NED,P273
+PAPUA NEW GUINEA vs NEW ZEALAND,Papua New Guinea,1,Tony Ura,c Glenn Phillips b Southee,1,2,0,0,50,tony ura,PNG,P237
+PAPUA NEW GUINEA vs NEW ZEALAND,Papua New Guinea,2,Assad Vala (c),c Daryl Mitchell b Lockie Ferguson,6,16,1,0,37.5,assad vala,PNG,P232
+PAPUA NEW GUINEA vs NEW ZEALAND,Papua New Guinea,3,Charles Amini,lbw b Lockie Ferguson,17,25,2,0,68,charles amini,PNG,P233
+PAPUA NEW GUINEA vs NEW ZEALAND,Papua New Guinea,4,Sese Bau,c Finn Allen b Santner,12,27,1,0,44.44,sese bau,PNG,P234
+PAPUA NEW GUINEA vs NEW ZEALAND,Papua New Guinea,5,Hiri Hiri,b Boult,7,11,1,0,63.64,hiri hiri,PNG,P229
+PAPUA NEW GUINEA vs NEW ZEALAND,Papua New Guinea,6,Chad Soper,b Lockie Ferguson,1,6,0,0,16.67,chad soper,PNG,P239
+PAPUA NEW GUINEA vs NEW ZEALAND,Papua New Guinea,7,Kiplin Doriga,b Southee,5,7,1,0,71.43,kiplin doriga,PNG,P236
+PAPUA NEW GUINEA vs NEW ZEALAND,Papua New Guinea,8,Norman Vanua,c Daryl Mitchell b Boult,14,13,1,1,107.69,norman vanua,PNG,P242
+PAPUA NEW GUINEA vs NEW ZEALAND,Papua New Guinea,9,Alei Nao,c Daryl Mitchell b Ish Sodhi,3,7,0,0,42.86,alei nao,PNG,P238
+PAPUA NEW GUINEA vs NEW ZEALAND,Papua New Guinea,10,Kabua Morea,st Conway b Ish Sodhi,0,3,0,0,0,kabua morea,PNG,P241
+PAPUA NEW GUINEA vs NEW ZEALAND,Papua New Guinea,11,Semo Kamea,not out,1,1,0,0,100,semo kamea,PNG,P243
+PAPUA NEW GUINEA vs NEW ZEALAND,New Zealand,1,Finn Allen,c Kiplin Doriga b Kabua Morea,0,2,0,0,0,finn allen,NZ,P152
+PAPUA NEW GUINEA vs NEW ZEALAND,New Zealand,2,Devon Conway,lbw b Semo Kamea,35,32,2,3,109.38,devon conway,NZ,P160
+PAPUA NEW GUINEA vs NEW ZEALAND,New Zealand,3,Rachin Ravindra,c Semo Kamea b Kabua Morea,6,11,0,0,54.55,rachin ravindra,NZ,P158
+PAPUA NEW GUINEA vs NEW ZEALAND,New Zealand,4,Kane Williamson (c),not out,18,17,2,0,105.88,kane williamson,NZ,P151
+PAPUA NEW GUINEA vs NEW ZEALAND,New Zealand,5,Daryl Mitchell,not out,19,12,3,0,158.33,daryl mitchell,NZ,P156
+WEST INDIES vs AFGHANISTAN,West Indies,1,Brandon King,b Azmatullah,7,6,1,0,116.67,brandon king,WI,P200
+WEST INDIES vs AFGHANISTAN,West Indies,2,J Charles,c Gulbadin b Naveen-ul-Haq,43,27,8,0,159.26,johnson charles,WI,P207
+WEST INDIES vs AFGHANISTAN,West Indies,3,Pooran,run out (Azmatullah),98,53,6,8,184.91,nicholas pooran,WI,P208
+WEST INDIES vs AFGHANISTAN,West Indies,4,Shai Hope,c Najibullah b Gulbadin,25,17,0,2,147.06,shai hope,WI,P209
+WEST INDIES vs AFGHANISTAN,West Indies,5,Rovman Powell (c),c (sub)Nangeyalia Kharote b Gulbadin,26,15,1,2,173.33,rovman powell,WI,P198
+WEST INDIES vs AFGHANISTAN,West Indies,6,Russell,not out,3,3,0,0,100,andre russell,WI,P204
+WEST INDIES vs AFGHANISTAN,West Indies,7,Sherfane Rutherford,not out,1,1,0,0,100,sherfane rutherford,WI,P201
+WEST INDIES vs AFGHANISTAN,Afghanistan,1,Rahmanullah Gurbaz,c Russell b Akeal Hosein,0,3,0,0,0,rahmanullah gurbaz,AFG,P175
+WEST INDIES vs AFGHANISTAN,Afghanistan,2,Ibrahim Zadran,c J Charles b Obed McCoy,38,28,5,1,135.71,ibrahim zadran,AFG,P166
+WEST INDIES vs AFGHANISTAN,Afghanistan,3,Gulbadin Naib,lbw b Motie,7,10,1,0,70,gulbadin naib,AFG,P169
+WEST INDIES vs AFGHANISTAN,Afghanistan,4,Azmatullah Omarzai,c Rovman Powell b Akeal Hosein,23,19,1,1,121.05,azmatullah omarzai,AFG,P170
+WEST INDIES vs AFGHANISTAN,Afghanistan,5,Najibullah Zadran,c J Charles b Obed McCoy,0,2,0,0,0,najibullah zadran,AFG,P167
+WEST INDIES vs AFGHANISTAN,Afghanistan,6,Mohammad Nabi,b Obed McCoy,1,4,0,0,25,mohammad nabi,AFG,P171
+WEST INDIES vs AFGHANISTAN,Afghanistan,7,Karim Janat,run out (Brandon King/Akeal Hosein),14,9,0,1,155.56,karim janat,AFG,P173
+WEST INDIES vs AFGHANISTAN,Afghanistan,8,Rashid Khan (c),c Rovman Powell b Russell,18,11,2,1,163.64,rashid khan,AFG,P172
+WEST INDIES vs AFGHANISTAN,Afghanistan,9,Noor Ahmad,c Sherfane Rutherford b Motie,2,4,0,0,50,noor ahmad,AFG,P178
+WEST INDIES vs AFGHANISTAN,Afghanistan,10,Naveen-ul-Haq,c Pooran b Alzarri Joseph,4,6,1,0,66.67,naveen-ul-haq,AFG,P179
+WEST INDIES vs AFGHANISTAN,Afghanistan,11,Fazalhaq Farooqi,not out,0,2,0,0,0,fazalhaq farooqi,AFG,P180
+SOUTH AFRICA vs UNITED STATES OF AMERICA,South Africa,1,de Kock,c Shayan Jahangir b Harmeet Singh,74,40,7,5,185,quinton de kock,RSA,P125
+SOUTH AFRICA vs UNITED STATES OF AMERICA,South Africa,2,Reeza Hendricks,c CJ Anderson b Netravalkar,11,11,0,1,100,reeza hendricks,RSA,P122
+SOUTH AFRICA vs UNITED STATES OF AMERICA,South Africa,3,Markram (c),c Ali Khan b Netravalkar,46,32,4,1,143.75,aiden markram,RSA,P121
+SOUTH AFRICA vs UNITED STATES OF AMERICA,South Africa,4,David Miller,c and b Harmeet Singh,0,1,0,0,0,david miller,RSA,P123
+SOUTH AFRICA vs UNITED STATES OF AMERICA,South Africa,5,Klaasen,not out,36,22,0,3,163.64,heinrich klaasen,RSA,P126
+SOUTH AFRICA vs UNITED STATES OF AMERICA,South Africa,6,Tristan Stubbs,not out,20,16,2,0,125,tristan stubbs,RSA,P128
+SOUTH AFRICA vs UNITED STATES OF AMERICA,United States Of America,1,Steven Taylor,c Klaasen b Rabada,24,14,4,1,171.43,steven taylor,USA,P64
+SOUTH AFRICA vs UNITED STATES OF AMERICA,United States Of America,2,Andries Gous,not out,80,47,5,5,170.21,andries gous,USA,P70
+SOUTH AFRICA vs UNITED STATES OF AMERICA,United States Of America,3,Nitish Kumar,c Tristan Stubbs b Rabada,8,6,0,1,133.33,nitish kumar,USA,P62
+SOUTH AFRICA vs UNITED STATES OF AMERICA,United States Of America,4,Aaron Jones (c),c de Kock b Maharaj,0,5,0,0,0,aaron jones,USA,P61
+SOUTH AFRICA vs UNITED STATES OF AMERICA,United States Of America,5,Corey Anderson,b Nortje,12,12,0,1,100,corey anderson,USA,P65
+SOUTH AFRICA vs UNITED STATES OF AMERICA,United States Of America,6,Shayan Jahangir,lbw b Shamsi,3,9,0,0,33.33,shayan jahangir,USA,P71
+SOUTH AFRICA vs UNITED STATES OF AMERICA,United States Of America,7,Harmeet Singh,c Tristan Stubbs b Rabada,38,22,2,3,172.73,harmeet singh,USA,P66
+SOUTH AFRICA vs UNITED STATES OF AMERICA,United States Of America,8,Jasdeep Singh,not out,2,6,0,0,33.33,jasdeep singh,USA,P73
+WEST INDIES vs ENGLAND,West Indies,1,Brandon King,retd hurt,23,13,3,1,176.92,brandon king,WI,P200
+WEST INDIES vs ENGLAND,West Indies,2,J Charles,c Harry Brook b Moeen,38,34,4,1,111.76,johnson charles,WI,P207
+WEST INDIES vs ENGLAND,West Indies,3,Pooran,c Jos Buttler b Jofra Archer,36,32,4,1,112.5,nicholas pooran,WI,P208
+WEST INDIES vs ENGLAND,West Indies,4,Rovman Powell (c),c Mark Wood b Livingstone,36,17,0,5,211.76,rovman powell,WI,P198
+WEST INDIES vs ENGLAND,West Indies,5,Russell,c Salt b Adil Rashid,1,2,0,0,50,andre russell,WI,P204
+WEST INDIES vs ENGLAND,West Indies,6,Sherfane Rutherford,not out,28,15,1,2,186.67,sherfane rutherford,WI,P201
+WEST INDIES vs ENGLAND,West Indies,7,Romario Shepherd,not out,5,7,1,0,71.43,romario shepherd,WI,P205
+WEST INDIES vs ENGLAND,England,1,Philip Salt,not out,87,47,7,5,185.11,philip salt,ENG,P39
+WEST INDIES vs ENGLAND,England,2,Jos Buttler (c & wk),lbw b Roston Chase,25,22,2,0,113.64,jos buttler,ENG,P37
+WEST INDIES vs ENGLAND,England,3,Moeen Ali,c J Charles b Russell,13,10,2,0,130,moeen ali,ENG,P33
+WEST INDIES vs ENGLAND,England,4,Jonny Bairstow,not out,48,26,5,2,184.62,jonny bairstow,ENG,P38
+INDIA vs AFGHANISTAN,India,1,Rohit (c),c Rashid Khan b Fazalhaq Farooqi,8,13,1,0,61.54,rohit sharma,IND,P1
+INDIA vs AFGHANISTAN,India,2,Kohli,c Nabi b Rashid Khan,24,24,0,1,100,virat kohli,IND,P3
+INDIA vs AFGHANISTAN,India,3,Pant,lbw b Rashid Khan,20,11,4,0,181.82,rishabh pant,IND,P9
+INDIA vs AFGHANISTAN,India,4,Suryakumar Yadav,c Nabi b Fazalhaq Farooqi,53,28,5,3,189.29,suryakumar yadav,IND,P4
+INDIA vs AFGHANISTAN,India,5,Shivam Dube,lbw b Rashid Khan,10,7,0,1,142.86,shivam dube,IND,P6
+INDIA vs AFGHANISTAN,India,6,Hardik Pandya,c Azmatullah b Naveen-ul-Haq,32,24,3,2,133.33,hardik pandya,IND,P5
+INDIA vs AFGHANISTAN,India,7,Ravindra Jadeja,c Gulbadin b Fazalhaq Farooqi,7,5,1,0,140,ravindra jadeja,IND,P7
+INDIA vs AFGHANISTAN,India,8,Axar,run out (Gurbaz/Naveen-ul-Haq),12,6,2,0,200,axar patel,IND,P8
+INDIA vs AFGHANISTAN,India,9,Arshdeep Singh,not out,2,2,0,0,100,arshdeep singh,IND,P13
+INDIA vs AFGHANISTAN,Afghanistan,1,Rahmanullah Gurbaz,c Pant b Bumrah,11,8,1,1,137.5,rahmanullah gurbaz,AFG,P175
+INDIA vs AFGHANISTAN,Afghanistan,2,Hazratullah Zazai,c Ravindra Jadeja b Bumrah,2,4,0,0,50,hazratullah zazai,AFG,P168
+INDIA vs AFGHANISTAN,Afghanistan,3,Ibrahim Zadran,c Rohit b Axar,8,11,1,0,72.73,ibrahim zadran,AFG,P166
+INDIA vs AFGHANISTAN,Afghanistan,4,Gulbadin Naib,c Pant b Kuldeep Yadav,17,21,1,1,80.95,gulbadin naib,AFG,P169
+INDIA vs AFGHANISTAN,Afghanistan,5,Azmatullah Omarzai,c Axar b Ravindra Jadeja,26,20,2,1,130,azmatullah omarzai,AFG,P170
+INDIA vs AFGHANISTAN,Afghanistan,6,Najibullah Zadran,c Arshdeep Singh b Bumrah,19,17,0,2,111.76,najibullah zadran,AFG,P167
+INDIA vs AFGHANISTAN,Afghanistan,7,Mohammad Nabi,c Ravindra Jadeja b Kuldeep Yadav,14,14,0,1,100,mohammad nabi,AFG,P171
+INDIA vs AFGHANISTAN,Afghanistan,8,Rashid Khan (c),c Ravindra Jadeja b Arshdeep Singh,2,6,0,0,33.33,rashid khan,AFG,P172
+INDIA vs AFGHANISTAN,Afghanistan,9,Noor Ahmad,c Rohit b Arshdeep Singh,12,18,1,1,66.67,noor ahmad,AFG,P178
+INDIA vs AFGHANISTAN,Afghanistan,10,Naveen-ul-Haq,c Pant b Arshdeep Singh,0,1,0,0,0,naveen-ul-haq,AFG,P179
+INDIA vs AFGHANISTAN,Afghanistan,11,Fazalhaq Farooqi,not out,4,1,1,0,400,fazalhaq farooqi,AFG,P180
+BANGLADESH vs AUSTRALIA,Bangladesh,1,Tanzid Hasan,b Mitchell Starc,0,3,0,0,0,tanzid hasan tamim,BAN,P277
+BANGLADESH vs AUSTRALIA,Bangladesh,2,Litton Das,b Zampa,16,25,2,0,64,litton das,BAN,P282
+BANGLADESH vs AUSTRALIA,Bangladesh,3,Shanto (c),lbw b Zampa,41,36,5,1,113.89,najmul hossain shanto,BAN,P275
+BANGLADESH vs AUSTRALIA,Bangladesh,4,Rishad Hossain,c Zampa b Maxwell,2,4,0,0,50,rishad hossain,BAN,P286
+BANGLADESH vs AUSTRALIA,Bangladesh,5,Towhid Hridoy,c Hazlewood b Cummins,40,28,2,2,142.86,towhid hridoy,BAN,P278
+BANGLADESH vs AUSTRALIA,Bangladesh,6,Shakib,c and b Stoinis,8,10,0,0,80,shakib al hasan,BAN,P279
+BANGLADESH vs AUSTRALIA,Bangladesh,7,Mahmudullah,b Cummins,2,3,0,0,66.67,mahmudullah,BAN,P280
+BANGLADESH vs AUSTRALIA,Bangladesh,8,Mahedi Hasan,c Zampa b Cummins,0,1,0,0,0,mahedi hasan,BAN,P281
+BANGLADESH vs AUSTRALIA,Bangladesh,9,Taskin Ahmed,not out,13,7,1,0,185.71,taskin ahmed,BAN,P284
+BANGLADESH vs AUSTRALIA,Bangladesh,10,Tanzim Hasan Sakib,not out,4,3,0,0,133.33,tanzim hasan sakib,BAN,P289
+BANGLADESH vs AUSTRALIA,Australia,1,David Warner,not out,53,35,5,3,151.43,david warner,AUS,P78
+BANGLADESH vs AUSTRALIA,Australia,2,Travis Head,b Rishad Hossain,31,21,3,2,147.62,travis head,AUS,P77
+BANGLADESH vs AUSTRALIA,Australia,3,Mitchell Marsh (c),lbw b Rishad Hossain,1,6,0,0,16.67,mitchell marsh,AUS,P79
+BANGLADESH vs AUSTRALIA,Australia,4,Glenn Maxwell,not out,14,6,1,1,233.33,glenn maxwell,AUS,P81
+SOUTH AFRICA vs ENGLAND,South Africa,1,Reeza Hendricks,c Harry Brook b Moeen,19,25,1,0,76,reeza hendricks,RSA,P122
+SOUTH AFRICA vs ENGLAND,South Africa,2,de Kock,c Jos Buttler b Jofra Archer,65,38,4,4,171.05,quinton de kock,RSA,P125
+SOUTH AFRICA vs ENGLAND,South Africa,3,Klaasen,run out (Jos Buttler),8,13,1,0,61.54,heinrich klaasen,RSA,P126
+SOUTH AFRICA vs ENGLAND,South Africa,4,David Miller,c Harry Brook b Jofra Archer,43,28,4,2,153.57,david miller,RSA,P123
+SOUTH AFRICA vs ENGLAND,South Africa,5,Markram (c),b Adil Rashid,1,2,0,0,50,aiden markram,RSA,P121
+SOUTH AFRICA vs ENGLAND,South Africa,6,Tristan Stubbs,not out,12,11,1,0,109.09,tristan stubbs,RSA,P128
+SOUTH AFRICA vs ENGLAND,South Africa,7,Marco Jansen,c Sam Curran b Jofra Archer,0,1,0,0,0,marco jansen,RSA,P124
+SOUTH AFRICA vs ENGLAND,South Africa,8,Maharaj,not out,5,2,1,0,250,keshav maharaj,RSA,P132
+SOUTH AFRICA vs ENGLAND,England,1,Philip Salt,c Reeza Hendricks b Rabada,11,8,1,1,137.5,philip salt,ENG,P39
+SOUTH AFRICA vs ENGLAND,England,2,Jos Buttler (c & wk),c Klaasen b Maharaj,17,20,1,0,85,jos buttler,ENG,P37
+SOUTH AFRICA vs ENGLAND,England,3,Jonny Bairstow,c Nortje b Maharaj,16,20,1,0,80,jonny bairstow,ENG,P38
+SOUTH AFRICA vs ENGLAND,England,4,Moeen Ali,c Maharaj b Ottneil Baartman,9,10,0,0,90,moeen ali,ENG,P33
+SOUTH AFRICA vs ENGLAND,England,5,Harry Brook,c Markram b Nortje,53,37,7,0,143.24,harry brook,ENG,P31
+SOUTH AFRICA vs ENGLAND,England,6,Liam Livingstone,c Tristan Stubbs b Rabada,33,17,3,2,194.12,liam livingstone,ENG,P35
+SOUTH AFRICA vs ENGLAND,England,7,Sam Curran,not out,10,7,1,0,142.86,sam curran,ENG,P36
+SOUTH AFRICA vs ENGLAND,England,8,Jofra Archer,not out,1,2,0,0,50,jofra archer,ENG,P40
+UNITED STATES OF AMERICA vs WEST INDIES,United States Of America,1,Steven Taylor,c Roston Chase b Russell,2,7,0,0,28.57,steven taylor,USA,P64
+UNITED STATES OF AMERICA vs WEST INDIES,United States Of America,2,Andries Gous,c Shai Hope b Alzarri Joseph,29,16,3,1,181.25,andries gous,USA,P70
+UNITED STATES OF AMERICA vs WEST INDIES,United States Of America,3,NR Kumar,lbw b Motie,20,19,2,0,105.26,nr kumar,USA,P62
+UNITED STATES OF AMERICA vs WEST INDIES,United States Of America,4,Aaron Jones (c),b Roston Chase,11,11,0,1,100,aaron jones,USA,P61
+UNITED STATES OF AMERICA vs WEST INDIES,United States Of America,5,CJ Anderson,lbw b Roston Chase,7,15,0,0,46.67,cj anderson,USA,P65
+UNITED STATES OF AMERICA vs WEST INDIES,United States Of America,6,Milind Kumar,run out (Motie/Russell),19,21,1,0,90.48,milind kumar,USA,P63
+UNITED STATES OF AMERICA vs WEST INDIES,United States Of America,7,Harmeet Singh,c J Charles b Roston Chase,0,1,0,0,0,harmeet singh,USA,P66
+UNITED STATES OF AMERICA vs WEST INDIES,United States Of America,8,van Schalkwyk,c J Charles b Russell,18,17,3,0,105.88,van schalkwyk,USA,P68
+UNITED STATES OF AMERICA vs WEST INDIES,United States Of America,9,Nosthush Kenjige,c Pooran b Alzarri Joseph,1,3,0,0,33.33,nosthush kenjige,USA,P74
+UNITED STATES OF AMERICA vs WEST INDIES,United States Of America,10,Ali Khan,not out,14,6,1,1,233.33,ali khan,USA,P72
+UNITED STATES OF AMERICA vs WEST INDIES,United States Of America,11,Netravalkar,c Rovman Powell b Russell,0,4,0,0,0,netravalkar,USA,P75
+UNITED STATES OF AMERICA vs WEST INDIES,West Indies,1,Shai Hope,not out,82,39,4,8,210.26,shai hope,WI,P209
+UNITED STATES OF AMERICA vs WEST INDIES,West Indies,2,Johnson Charles,c Milind Kumar b Harmeet Singh,15,14,2,0,107.14,johnson charles,WI,P207
+UNITED STATES OF AMERICA vs WEST INDIES,West Indies,3,Nicholas Pooran,not out,27,12,1,3,225,nicholas pooran,WI,P208
+INDIA vs BANGLADESH,India,1,Rohit (c),c Jaker Ali b Shakib,23,11,3,1,209.09,rohit sharma,IND,P1
+INDIA vs BANGLADESH,India,2,Kohli,b Tanzim Hasan Sakib,37,28,1,3,132.14,virat kohli,IND,P3
+INDIA vs BANGLADESH,India,3,Pant,c Tanzim Hasan Sakib b Rishad Hossain,36,24,4,2,150,rishabh pant,IND,P9
+INDIA vs BANGLADESH,India,4,Suryakumar Yadav,c Litton Das b Tanzim Hasan Sakib,6,2,0,1,300,suryakumar yadav,IND,P4
+INDIA vs BANGLADESH,India,5,Shivam Dube,b Rishad Hossain,34,24,0,3,141.67,shivam dube,IND,P6
+INDIA vs BANGLADESH,India,6,Hardik Pandya,not out,50,27,4,3,185.19,hardik pandya,IND,P5
+INDIA vs BANGLADESH,India,7,Axar,not out,3,5,0,0,60,axar patel,IND,P8
+INDIA vs BANGLADESH,Bangladesh,1,Litton Das,c Suryakumar Yadav b Hardik Pandya,13,10,1,1,130,litton das,BAN,P282
+INDIA vs BANGLADESH,Bangladesh,2,Tanzid Hasan,lbw b Kuldeep Yadav,29,31,4,0,93.55,tanzid hasan tamim,BAN,P277
+INDIA vs BANGLADESH,Bangladesh,3,Najmul Hossain Shanto (c),c Arshdeep Singh b Bumrah,40,32,1,3,125,najmul hossain shanto,BAN,P275
+INDIA vs BANGLADESH,Bangladesh,4,Towhid Hridoy,lbw b Kuldeep Yadav,4,6,0,0,66.67,towhid hridoy,BAN,P278
+INDIA vs BANGLADESH,Bangladesh,5,Shakib Al Hasan,c Rohit b Kuldeep Yadav,11,7,1,1,157.14,shakib al hasan,BAN,P279
+INDIA vs BANGLADESH,Bangladesh,6,Mahmudullah,c Axar b Arshdeep Singh,13,15,1,0,86.67,mahmudullah,BAN,P280
+INDIA vs BANGLADESH,Bangladesh,7,Jaker Ali,c Kohli b Arshdeep Singh,1,4,0,0,25,jaker ali,BAN,P283
+INDIA vs BANGLADESH,Bangladesh,8,Rishad Hossain,c Rohit b Bumrah,24,10,1,3,240,rishad hossain,BAN,P286
+INDIA vs BANGLADESH,Bangladesh,9,Mahedi Hasan,not out,5,4,1,0,125,mahedi hasan,BAN,P281
+INDIA vs BANGLADESH,Bangladesh,10,Tanzim Hasan Sakib,not out,1,1,0,0,100,tanzim hasan sakib,BAN,P289
+AFGHANISTAN vs AUSTRALIA,Afghanistan,1,Gurbaz,c Warner b Stoinis,60,49,4,4,122.45,rahmanullah gurbaz,AFG,P175
+AFGHANISTAN vs AUSTRALIA,Afghanistan,2,Ibrahim Zadran,c Mitchell Marsh b Zampa,51,48,6,0,106.25,ibrahim zadran,AFG,P166
+AFGHANISTAN vs AUSTRALIA,Afghanistan,3,Azmatullah,b Zampa,2,3,0,0,66.67,azmatullah omarzai,AFG,P170
+AFGHANISTAN vs AUSTRALIA,Afghanistan,4,Karim Janat,c Tim David b Cummins,13,9,0,1,144.44,karim janat,AFG,P173
+AFGHANISTAN vs AUSTRALIA,Afghanistan,5,Rashid Khan (c),c Tim David b Cummins,2,5,0,0,40,rashid khan,AFG,P172
+AFGHANISTAN vs AUSTRALIA,Afghanistan,6,Nabi,not out,10,4,2,0,250,mohammad nabi,AFG,P171
+AFGHANISTAN vs AUSTRALIA,Afghanistan,7,Gulbadin,c Maxwell b Cummins,0,1,0,0,0,gulbadin naib,AFG,P169
+AFGHANISTAN vs AUSTRALIA,Afghanistan,8,Nangeyalia Kharote,not out,1,1,0,0,100,nangeyalia kharote,AFG,P174
+AFGHANISTAN vs AUSTRALIA,Australia,1,Travis Head,b Naveen-ul-Haq,0,3,0,0,0,travis head,AUS,P77
+AFGHANISTAN vs AUSTRALIA,Australia,2,David Warner,c Noor Ahmad b Nabi,3,8,0,0,37.5,david warner,AUS,P78
+AFGHANISTAN vs AUSTRALIA,Australia,3,Mitchell Marsh (c),c Nabi b Naveen-ul-Haq,12,9,2,0,133.33,mitchell marsh,AUS,P79
+AFGHANISTAN vs AUSTRALIA,Australia,4,Glenn Maxwell,c Noor Ahmad b Gulbadin,59,41,6,3,143.9,glenn maxwell,AUS,P81
+AFGHANISTAN vs AUSTRALIA,Australia,5,Marcus Stoinis,c Gurbaz b Gulbadin,11,17,1,0,64.71,marcus stoinis,AUS,P82
+AFGHANISTAN vs AUSTRALIA,Australia,6,Tim David,lbw b Gulbadin,2,4,0,0,50,tim david,AUS,P76
+AFGHANISTAN vs AUSTRALIA,Australia,7,Matthew Wade,c Karim Janat b Rashid Khan,5,7,0,0,71.43,matthew wade,AUS,P85
+AFGHANISTAN vs AUSTRALIA,Australia,8,Pat Cummins,b Gulbadin,3,9,0,0,33.33,pat cummins,AUS,P86
+AFGHANISTAN vs AUSTRALIA,Australia,9,Ashton Agar,c Gulbadin b Naveen-ul-Haq,2,5,0,0,40,ashton agar,AUS,P83
+AFGHANISTAN vs AUSTRALIA,Australia,10,Adam Zampa,c Nabi b Azmatullah,9,7,1,0,128.57,adam zampa,AUS,P90
+AFGHANISTAN vs AUSTRALIA,Australia,11,Josh Hazlewood,not out,5,7,0,0,71.43,josh hazlewood,AUS,P88
+UNITED STATES OF AMERICA vs ENGLAND,United States Of America,1,Steven Taylor,c Moeen b Sam Curran,12,13,2,0,92.31,steven taylor,USA,P64
+UNITED STATES OF AMERICA vs ENGLAND,United States Of America,2,Andries Gous,c Salt b R Topley,8,5,0,1,160,andries gous,USA,P70
+UNITED STATES OF AMERICA vs ENGLAND,United States Of America,3,NR Kumar,b Adil Rashid,30,24,1,2,125,nr kumar,USA,P62
+UNITED STATES OF AMERICA vs ENGLAND,United States Of America,4,Aaron Jones (c),b Adil Rashid,10,16,2,0,62.5,aaron jones,USA,P61
+UNITED STATES OF AMERICA vs ENGLAND,United States Of America,5,CJ Anderson,c Harry Brook b Chris Jordan,29,28,0,1,103.57,cj anderson,USA,P65
+UNITED STATES OF AMERICA vs ENGLAND,United States Of America,6,Milind Kumar,c Jos Buttler b Livingstone,4,6,0,0,66.67,milind kumar,USA,P63
+UNITED STATES OF AMERICA vs ENGLAND,United States Of America,7,Harmeet Singh,c Chris Jordan b Sam Curran,21,17,2,1,123.53,harmeet singh,USA,P66
+UNITED STATES OF AMERICA vs ENGLAND,United States Of America,8,van Schalkwyk,not out,0,0,0,0,0,van schalkwyk,USA,P68
+UNITED STATES OF AMERICA vs ENGLAND,United States Of America,9,Ali Khan,b Chris Jordan,0,2,0,0,0,ali khan,USA,P72
+UNITED STATES OF AMERICA vs ENGLAND,United States Of America,10,Nosthush Kenjige,lbw b Chris Jordan,0,1,0,0,0,nosthush kenjige,USA,P74
+UNITED STATES OF AMERICA vs ENGLAND,United States Of America,11,Netravalkar,b Chris Jordan,0,1,0,0,0,netravalkar,USA,P75
+UNITED STATES OF AMERICA vs ENGLAND,England,1,Philip Salt,not out,25,21,2,0,119.05,philip salt,ENG,P39
+UNITED STATES OF AMERICA vs ENGLAND,England,2,Jos Buttler (c & wk),not out,83,38,6,7,218.42,jos buttler,ENG,P37
+WEST INDIES vs SOUTH AFRICA,West Indies,1,K Mayers,c Tristan Stubbs b Shamsi,35,34,3,2,102.94,kyle mayers,WI,P202
+WEST INDIES vs SOUTH AFRICA,West Indies,2,Shai Hope,c Tristan Stubbs b Marco Jansen,0,1,0,0,0,shai hope,WI,P209
+WEST INDIES vs SOUTH AFRICA,West Indies,3,Pooran,c Marco Jansen b Markram,1,3,0,0,33.33,nicholas pooran,WI,P208
+WEST INDIES vs SOUTH AFRICA,West Indies,4,Roston Chase,c Rabada b Shamsi,52,42,3,2,123.81,roston chase,WI,P203
+WEST INDIES vs SOUTH AFRICA,West Indies,5,Rovman Powell (c),st de Kock b Maharaj,1,2,0,0,50,rovman powell,WI,P198
+WEST INDIES vs SOUTH AFRICA,West Indies,6,Sherfane Rutherford,c Markram b Shamsi,0,4,0,0,0,sherfane rutherford,WI,P201
+WEST INDIES vs SOUTH AFRICA,West Indies,7,Russell,run out (Nortje),15,9,0,2,166.67,andre russell,WI,P204
+WEST INDIES vs SOUTH AFRICA,West Indies,8,Akeal Hosein,c and b Rabada,6,11,1,0,54.55,akeal hosein,WI,P212
+WEST INDIES vs SOUTH AFRICA,West Indies,9,Alzarri Joseph,not out,11,7,0,1,157.14,alzarri joseph,WI,P210
+WEST INDIES vs SOUTH AFRICA,West Indies,10,Motie,not out,4,7,1,0,57.14,gudakesh motie,WI,P206
+WEST INDIES vs SOUTH AFRICA,South Africa,1,Quinton de Kock,c Sherfane Rutherford b Russell,12,7,3,0,171.43,quinton de kock,RSA,P125
+WEST INDIES vs SOUTH AFRICA,South Africa,2,Reeza Hendricks,c Pooran b Russell,0,1,0,0,0,reeza hendricks,RSA,P122
+WEST INDIES vs SOUTH AFRICA,South Africa,3,Aiden Markram (c),c K Mayers b Alzarri Joseph,18,15,2,0,120,aiden markram,RSA,P121
+WEST INDIES vs SOUTH AFRICA,South Africa,4,Tristan Stubbs,c K Mayers b Roston Chase,29,27,4,0,107.41,tristan stubbs,RSA,P128
+WEST INDIES vs SOUTH AFRICA,South Africa,5,Heinrich Klaasen,c Pooran b Alzarri Joseph,22,10,3,1,220,heinrich klaasen,RSA,P126
+WEST INDIES vs SOUTH AFRICA,South Africa,6,David Miller,b Roston Chase,4,14,0,0,28.57,david miller,RSA,P123
+WEST INDIES vs SOUTH AFRICA,South Africa,7,Marco Jansen,not out,21,14,1,1,150,marco jansen,RSA,P124
+WEST INDIES vs SOUTH AFRICA,South Africa,8,Keshav Maharaj,c Alzarri Joseph b Roston Chase,2,6,0,0,33.33,keshav maharaj,RSA,P132
+WEST INDIES vs SOUTH AFRICA,South Africa,9,Kagiso Rabada,not out,5,3,1,0,166.67,kagiso rabada,RSA,P134
+INDIA vs AUSTRALIA,India,1,Rohit (c),b Mitchell Starc,92,41,7,8,224.39,rohit sharma,IND,P1
+INDIA vs AUSTRALIA,India,2,Kohli,c Tim David b Hazlewood,0,5,0,0,0,virat kohli,IND,P3
+INDIA vs AUSTRALIA,India,3,Pant,c Hazlewood b Stoinis,15,14,1,1,107.14,rishabh pant,IND,P9
+INDIA vs AUSTRALIA,India,4,Suryakumar Yadav,c Wade b Mitchell Starc,31,16,3,2,193.75,suryakumar yadav,IND,P4
+INDIA vs AUSTRALIA,India,5,Shivam Dube,c Warner b Stoinis,28,22,2,1,127.27,shivam dube,IND,P6
+INDIA vs AUSTRALIA,India,6,Hardik Pandya,not out,27,17,1,2,158.82,hardik pandya,IND,P5
+INDIA vs AUSTRALIA,India,7,Ravindra Jadeja,not out,9,5,0,1,180,ravindra jadeja,IND,P7
+INDIA vs AUSTRALIA,Australia,1,David Warner,c Suryakumar Yadav b Arshdeep Singh,6,6,1,0,100,david warner,AUS,P78
+INDIA vs AUSTRALIA,Australia,2,Travis Head,c Rohit b Bumrah,76,43,9,4,176.74,travis head,AUS,P77
+INDIA vs AUSTRALIA,Australia,3,Mitchell Marsh (c),c Axar b Kuldeep Yadav,37,28,3,2,132.14,mitchell marsh,AUS,P79
+INDIA vs AUSTRALIA,Australia,4,Glenn Maxwell,b Kuldeep Yadav,20,12,2,1,166.67,glenn maxwell,AUS,P81
+INDIA vs AUSTRALIA,Australia,5,Marcus Stoinis,c Hardik Pandya b Axar,2,4,0,0,50,marcus stoinis,AUS,P82
+INDIA vs AUSTRALIA,Australia,6,Tim David,c Bumrah b Arshdeep Singh,15,11,1,1,136.36,tim david,AUS,P76
+INDIA vs AUSTRALIA,Australia,7,Matthew Wade,c Kuldeep Yadav b Arshdeep Singh,1,2,0,0,50,matthew wade,AUS,P85
+INDIA vs AUSTRALIA,Australia,8,Pat Cummins,not out,11,7,0,1,157.14,pat cummins,AUS,P86
+INDIA vs AUSTRALIA,Australia,9,Mitchell Starc,not out,4,7,0,0,57.14,mitchell starc,AUS,P89
+AFGHANISTAN vs BANGLADESH,Afghanistan,1,Gurbaz,c Soumya Sarkar b Rishad Hossain,43,55,3,1,78.18,rahmanullah gurbaz,AFG,P175
+AFGHANISTAN vs BANGLADESH,Afghanistan,2,Ibrahim Zadran,c Tanzim Hasan Sakib b Rishad Hossain,18,29,1,0,62.07,ibrahim zadran,AFG,P166
+AFGHANISTAN vs BANGLADESH,Afghanistan,3,Azmatullah,c Litton Das b Mustafizur,10,12,0,0,83.33,azmatullah omarzai,AFG,P170
+AFGHANISTAN vs BANGLADESH,Afghanistan,4,Gulbadin,c Soumya Sarkar b Rishad Hossain,4,3,1,0,133.33,gulbadin naib,AFG,P169
+AFGHANISTAN vs BANGLADESH,Afghanistan,5,Nabi,c Shanto b Taskin Ahmed,1,5,0,0,20,mohammad nabi,AFG,P171
+AFGHANISTAN vs BANGLADESH,Afghanistan,6,Karim Janat,not out,7,6,1,0,116.67,karim janat,AFG,P173
+AFGHANISTAN vs BANGLADESH,Afghanistan,7,Rashid Khan (c),not out,19,10,0,3,190,rashid khan,AFG,P172
+AFGHANISTAN vs BANGLADESH,Bangladesh,1,Litton Das,not out,54,49,5,1,110.2,litton das,BAN,P282
+AFGHANISTAN vs BANGLADESH,Bangladesh,2,Tanzid Hasan,lbw b Fazalhaq Farooqi,0,3,0,0,0,tanzid hasan tamim,BAN,P277
+AFGHANISTAN vs BANGLADESH,Bangladesh,3,Najmul Hossain Shanto (c),c Nabi b Naveen-ul-Haq,5,5,1,0,100,najmul hossain shanto,BAN,P275
+AFGHANISTAN vs BANGLADESH,Bangladesh,4,Shakib Al Hasan,c and b Naveen-ul-Haq,0,1,0,0,0,shakib al hasan,BAN,P279
+AFGHANISTAN vs BANGLADESH,Bangladesh,5,Soumya Sarkar,b Rashid Khan,10,10,1,0,100,soumya sarkar,BAN,P276
+AFGHANISTAN vs BANGLADESH,Bangladesh,6,Towhid Hridoy,c Ibrahim Zadran b Rashid Khan,14,9,2,0,155.56,towhid hridoy,BAN,P278
+AFGHANISTAN vs BANGLADESH,Bangladesh,7,Mahmudullah,c (sub)Mohammad Ishaq b Rashid Khan,6,9,1,0,66.67,mahmudullah,BAN,P280
+AFGHANISTAN vs BANGLADESH,Bangladesh,8,Rishad Hossain,b Rashid Khan,0,1,0,0,0,rishad hossain,BAN,P286
+AFGHANISTAN vs BANGLADESH,Bangladesh,9,Tanzim Hasan Sakib,c Nabi b Gulbadin,3,10,0,0,30,tanzim hasan sakib,BAN,P289
+AFGHANISTAN vs BANGLADESH,Bangladesh,10,Taskin Ahmed,b Naveen-ul-Haq,2,9,0,0,22.22,taskin ahmed,BAN,P284
+AFGHANISTAN vs BANGLADESH,Bangladesh,11,Mustafizur Rahman,lbw b Naveen-ul-Haq,0,1,0,0,0,mustafizur rahman,BAN,P287
+AFGHANISTAN vs SOUTH AFRICA,Afghanistan,1,Gurbaz,c Reeza Hendricks b Marco Jansen,0,3,0,0,0,rahmanullah gurbaz,AFG,P175
+AFGHANISTAN vs SOUTH AFRICA,Afghanistan,2,Ibrahim Zadran,b Rabada,2,5,0,0,40,ibrahim zadran,AFG,P166
+AFGHANISTAN vs SOUTH AFRICA,Afghanistan,3,Gulbadin,b Marco Jansen,9,8,2,0,112.5,gulbadin naib,AFG,P169
+AFGHANISTAN vs SOUTH AFRICA,Afghanistan,4,Azmatullah,c Tristan Stubbs b Nortje,10,12,2,0,83.33,azmatullah omarzai,AFG,P170
+AFGHANISTAN vs SOUTH AFRICA,Afghanistan,5,Nabi,b Rabada,0,3,0,0,0,mohammad nabi,AFG,P171
+AFGHANISTAN vs SOUTH AFRICA,Afghanistan,6,Nangeyalia Kharote,c de Kock b Marco Jansen,2,7,0,0,28.57,nangeyalia kharote,AFG,P174
+AFGHANISTAN vs SOUTH AFRICA,Afghanistan,7,Karim Janat,lbw b Shamsi,8,13,1,0,61.54,karim janat,AFG,P173
+AFGHANISTAN vs SOUTH AFRICA,Afghanistan,8,Rashid Khan (c),b Nortje,8,8,2,0,100,rashid khan,AFG,P172
+AFGHANISTAN vs SOUTH AFRICA,Afghanistan,9,Noor Ahmad,lbw b Shamsi,0,2,0,0,0,noor ahmad,AFG,P178
+AFGHANISTAN vs SOUTH AFRICA,Afghanistan,10,Naveen-ul-Haq,lbw b Shamsi,2,8,0,0,25,naveen-ul-haq,AFG,P179
+AFGHANISTAN vs SOUTH AFRICA,Afghanistan,11,Fazalhaq Farooqi,not out,2,2,0,0,100,fazalhaq farooqi,AFG,P180
+AFGHANISTAN vs SOUTH AFRICA,South Africa,1,Quinton de Kock,b Fazalhaq Farooqi,5,8,1,0,62.5,quinton de kock,RSA,P125
+AFGHANISTAN vs SOUTH AFRICA,South Africa,2,Reeza Hendricks,not out,29,25,3,1,116,reeza hendricks,RSA,P122
+AFGHANISTAN vs SOUTH AFRICA,South Africa,3,Aiden Markram (c),not out,23,21,4,0,109.52,aiden markram,RSA,P121
+INDIA vs ENGLAND,India,1,Rohit (c),b Adil Rashid,57,39,6,2,146.15,rohit sharma,IND,P1
+INDIA vs ENGLAND,India,2,Kohli,b R Topley,9,9,0,1,100,virat kohli,IND,P3
+INDIA vs ENGLAND,India,3,Pant,c Bairstow b Sam Curran,4,6,0,0,66.67,rishabh pant,IND,P9
+INDIA vs ENGLAND,India,4,Suryakumar Yadav,c Chris Jordan b Jofra Archer,47,36,4,2,130.56,suryakumar yadav,IND,P4
+INDIA vs ENGLAND,India,5,Hardik Pandya,c Sam Curran b Chris Jordan,23,13,1,2,176.92,hardik pandya,IND,P5
+INDIA vs ENGLAND,India,6,Ravindra Jadeja,not out,17,9,2,0,188.89,ravindra jadeja,IND,P7
+INDIA vs ENGLAND,India,7,Shivam Dube,c Jos Buttler b Chris Jordan,0,1,0,0,0,shivam dube,IND,P6
+INDIA vs ENGLAND,India,8,Axar,c Salt b Chris Jordan,10,6,0,1,166.67,axar patel,IND,P8
+INDIA vs ENGLAND,India,9,Arshdeep Singh,not out,1,1,0,0,100,arshdeep singh,IND,P13
+INDIA vs ENGLAND,England,1,Philip Salt,b Bumrah,5,8,0,0,62.5,philip salt,ENG,P39
+INDIA vs ENGLAND,England,2,Jos Buttler (c & wk),c Pant b Axar,23,15,4,0,153.33,jos buttler,ENG,P37
+INDIA vs ENGLAND,England,3,Moeen Ali,st Pant b Axar,8,10,0,0,80,moeen ali,ENG,P33
+INDIA vs ENGLAND,England,4,Jonny Bairstow,b Axar,0,3,0,0,0,jonny bairstow,ENG,P38
+INDIA vs ENGLAND,England,5,Harry Brook,b Kuldeep Yadav,25,19,3,0,131.58,harry brook,ENG,P31
+INDIA vs ENGLAND,England,6,Sam Curran,lbw b Kuldeep Yadav,2,4,0,0,50,sam curran,ENG,P36
+INDIA vs ENGLAND,England,7,Liam Livingstone,run out (Kuldeep Yadav/Axar),11,16,0,0,68.75,liam livingstone,ENG,P35
+INDIA vs ENGLAND,England,8,Chris Jordan,lbw b Kuldeep Yadav,1,5,0,0,20,chris jordan,ENG,P42
+INDIA vs ENGLAND,England,9,Jofra Archer,lbw b Bumrah,21,15,1,2,140,jofra archer,ENG,P40
+INDIA vs ENGLAND,England,10,Adil Rashid,run out (Suryakumar Yadav),2,2,0,0,100,adil rashid,ENG,P43
+INDIA vs ENGLAND,England,11,Reece Topley,not out,3,3,0,0,100,reece topley,ENG,P44
+INDIA vs SOUTH AFRICA,India,1,Rohit (c),c Klaasen b Maharaj,9,5,2,0,180,rohit sharma,IND,P1
+INDIA vs SOUTH AFRICA,India,2,Kohli,c Rabada b Marco Jansen,76,59,6,2,128.81,virat kohli,IND,P3
+INDIA vs SOUTH AFRICA,India,3,Pant,c de Kock b Maharaj,0,2,0,0,0,rishabh pant,IND,P9
+INDIA vs SOUTH AFRICA,India,4,Suryakumar Yadav,c Klaasen b Rabada,3,4,0,0,75,suryakumar yadav,IND,P4
+INDIA vs SOUTH AFRICA,India,5,Axar,run out (de Kock),47,31,1,4,151.61,axar patel,IND,P8
+INDIA vs SOUTH AFRICA,India,6,Shivam Dube,c David Miller b Nortje,27,16,3,1,168.75,shivam dube,IND,P6
+INDIA vs SOUTH AFRICA,India,7,Hardik Pandya,not out,5,2,1,0,250,hardik pandya,IND,P5
+INDIA vs SOUTH AFRICA,India,8,Ravindra Jadeja,c Maharaj b Nortje,2,2,0,0,100,ravindra jadeja,IND,P7
+INDIA vs SOUTH AFRICA,South Africa,1,Reeza Hendricks,b Bumrah,4,5,1,0,80,reeza hendricks,RSA,P122
+INDIA vs SOUTH AFRICA,South Africa,2,Quinton de Kock,c Kuldeep Yadav b Arshdeep Singh,39,31,4,1,125.81,quinton de kock,RSA,P125
+INDIA vs SOUTH AFRICA,South Africa,3,Aiden Markram (c),c Pant b Arshdeep Singh,4,5,1,0,80,aiden markram,RSA,P121
+INDIA vs SOUTH AFRICA,South Africa,4,Tristan Stubbs,b Axar,31,21,3,1,147.62,tristan stubbs,RSA,P128
+INDIA vs SOUTH AFRICA,South Africa,5,Heinrich Klaasen,c Pant b Hardik Pandya,52,27,2,5,192.59,heinrich klaasen,RSA,P126
+INDIA vs SOUTH AFRICA,South Africa,6,David Miller,c Suryakumar Yadav b Hardik Pandya,21,17,1,1,123.53,david miller,RSA,P123
+INDIA vs SOUTH AFRICA,South Africa,7,Marco Jansen,b Bumrah,2,4,0,0,50,marco jansen,RSA,P124
+INDIA vs SOUTH AFRICA,South Africa,8,Keshav Maharaj,not out,2,7,0,0,28.57,keshav maharaj,RSA,P132
+INDIA vs SOUTH AFRICA,South Africa,9,Kagiso Rabada,c Suryakumar Yadav b Hardik Pandya,4,3,1,0,133.33,kagiso rabada,RSA,P134
+INDIA vs SOUTH AFRICA,South Africa,10,Anrich Nortje,not out,1,1,0,0,100,anrich nortje,RSA,P133

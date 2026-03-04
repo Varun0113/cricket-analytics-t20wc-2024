@@ -1,0 +1,305 @@
+player_id,image,player_name,team,role,batting_style,bowling_style,role_clean,batting_style_clean,bowling_arm,bowling_type,player_name_clean
+P1,https://static.cricbuzz.com/a/img/v1/i1/c616514/rohit-sharma.jpg?d=low&p=gthumb,Rohit Sharma,India,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,rohit sharma
+P2,https://static.cricbuzz.com/a/img/v1/i1/c591942/yashasvi-jaiswal.jpg?d=low&p=gthumb,Yashasvi Jaiswal,India,Batsman,Left Handed Bat,Right-arm legbreak,bat,LHB,Right,legbreak,yashasvi jaiswal
+P3,https://static.cricbuzz.com/a/img/v1/i1/c616517/virat-kohli.jpg?d=low&p=gthumb,Virat Kohli,India,Batsman,Right Handed Bat,Right-arm medium,bat,RHB,Right,medium,virat kohli
+P4,https://static.cricbuzz.com/a/img/v1/i1/c352481/suryakumar-yadav.jpg?d=low&p=gthumb,Suryakumar Yadav,India,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,suryakumar yadav
+P5,https://static.cricbuzz.com/a/img/v1/i1/c616519/hardik-pandya.jpg?d=low&p=gthumb,Hardik Pandya,India,Batting Allrounder,Right Handed Bat,Right-arm fast-medium,ar,RHB,Right,fast-medium,hardik pandya
+P6,https://static.cricbuzz.com/a/img/v1/i1/c593805/shivam-dube.jpg?d=low&p=gthumb,Shivam Dube,India,Batting Allrounder,Left Handed Bat,Right-arm medium,ar,LHB,Right,medium,shivam dube
+P7,https://static.cricbuzz.com/a/img/v1/i1/c616520/ravindra-jadeja.jpg?d=low&p=gthumb,Ravindra Jadeja,India,Bowling Allrounder,Left Handed Bat,Left-arm orthodox,ar,LHB,Left,orthodox,ravindra jadeja
+P8,https://static.cricbuzz.com/a/img/v1/i1/c616521/axar-patel.jpg?d=low&p=gthumb,Axar Patel,India,Bowling Allrounder,Left Handed Bat,Left-arm orthodox,ar,LHB,Left,orthodox,axar patel
+P9,https://static.cricbuzz.com/a/img/v1/i1/c616524/rishabh-pant.jpg?d=low&p=gthumb,Rishabh Pant WK-,India,WK-Batsman,Left Handed Bat,,wk,LHB,,,rishabh pant
+P10,https://static.cricbuzz.com/a/img/v1/i1/c226289/sanju-samson.jpg?d=low&p=gthumb,Sanju Samson WK-,India,WK-Batsman,Right Handed Bat,,wk,RHB,,,sanju samson
+P11,https://static.cricbuzz.com/a/img/v1/i1/c616525/kuldeep-yadav.jpg?d=low&p=gthumb,Kuldeep Yadav,India,Bowler,Left Handed Bat,Left-arm wrist-spin,bowl,LHB,Left,,kuldeep yadav
+P12,https://static.cricbuzz.com/a/img/v1/i1/c244981/yuzvendra-chahal.jpg?d=low&p=gthumb,Yuzvendra Chahal,India,Bowler,Right Handed Bat,Right-arm legbreak,bowl,RHB,Right,legbreak,yuzvendra chahal
+P13,https://static.cricbuzz.com/a/img/v1/i1/c616527/arshdeep-singh.jpg?d=low&p=gthumb,Arshdeep Singh,India,Bowler,Left Handed Bat,Left-arm fast-medium,bowl,LHB,Left,fast-medium,arshdeep singh
+P14,https://static.cricbuzz.com/a/img/v1/i1/c591949/jasprit-bumrah.jpg?d=low&p=gthumb,Jasprit Bumrah,India,Bowler,Right Handed Bat,Right-arm fast,bowl,RHB,Right,fast,jasprit bumrah
+P15,https://static.cricbuzz.com/a/img/v1/i1/c591952/mohammed-siraj.jpg?d=low&p=gthumb,Mohammed Siraj,India,Bowler,Right Handed Bat,Right-arm fast,bowl,RHB,Right,fast,mohammed siraj
+P16,https://static.cricbuzz.com/a/img/v1/i1/c182026/ross-adair.jpg?d=low&p=gthumb,Ross Adair,Ireland,Batsman,Right Handed Bat,Left-arm orthodox,bat,RHB,Left,orthodox,ross adair
+P17,https://static.cricbuzz.com/a/img/v1/i1/c244616/andrew-balbirnie.jpg?d=low&p=gthumb,Andrew Balbirnie,Ireland,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,andrew balbirnie
+P18,https://static.cricbuzz.com/a/img/v1/i1/c244641/harry-tector.jpg?d=low&p=gthumb,Harry Tector,Ireland,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,harry tector
+P19,https://static.cricbuzz.com/a/img/v1/i1/c244652/paul-stirling.jpg?d=low&p=gthumb,Paul Stirling,Ireland,Batting Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,paul stirling
+P20,https://static.cricbuzz.com/a/img/v1/i1/c244628/gareth-delany.jpg?d=low&p=gthumb,Gareth Delany,Ireland,Batting Allrounder,Right Handed Bat,Right-arm legbreak,ar,RHB,Right,legbreak,gareth delany
+P21,https://static.cricbuzz.com/a/img/v1/i1/c244625/curtis-campher.jpg?d=low&p=gthumb,Curtis Campher,Ireland,Bowling Allrounder,Right Handed Bat,Right-arm medium,ar,RHB,Right,medium,curtis campher
+P22,https://static.cricbuzz.com/a/img/v1/i1/c244638/george-dockrell.jpg?d=low&p=gthumb,George Dockrell,Ireland,Bowling Allrounder,Right Handed Bat,Left-arm orthodox,ar,RHB,Left,orthodox,george dockrell
+P23,https://static.cricbuzz.com/a/img/v1/i1/c182026/neil-rock.jpg?d=low&p=gthumb,Neil Rock WK-,Ireland,WK-Batsman,Left Handed Bat,,wk,LHB,,,neil rock
+P24,https://static.cricbuzz.com/a/img/v1/i1/c244650/lorcan-tucker.jpg?d=low&p=gthumb,Lorcan Tucker WK-,Ireland,WK-Batsman,Right Handed Bat,,wk,RHB,,,lorcan tucker
+P25,https://static.cricbuzz.com/a/img/v1/i1/c244651/mark-adair.jpg?d=low&p=gthumb,Mark Adair,Ireland,Bowler,Right Handed Bat,Right-arm fast,bowl,RHB,Right,fast,mark adair
+P26,https://static.cricbuzz.com/a/img/v1/i1/c182026/graham-hume.jpg?d=low&p=gthumb,Graham Hume,Ireland,Bowler,Left Handed Bat,Right-arm fast-medium,bowl,LHB,Right,fast-medium,graham hume
+P27,https://static.cricbuzz.com/a/img/v1/i1/c244649/joshua-little.jpg?d=low&p=gthumb,Joshua Little,Ireland,Bowler,Right Handed Bat,Left-arm fast-medium,bowl,RHB,Left,fast-medium,joshua little
+P28,https://static.cricbuzz.com/a/img/v1/i1/c244623/barry-mccarthy.jpg?d=low&p=gthumb,Barry McCarthy,Ireland,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,barry mccarthy
+P29,https://static.cricbuzz.com/a/img/v1/i1/c191068/craig-young.jpg?d=low&p=gthumb,Craig Young,Ireland,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,craig young
+P30,https://static.cricbuzz.com/a/img/v1/i1/c182026/benjamin-white.jpg?d=low&p=gthumb,Benjamin White,Ireland,Bowler,Right Handed Bat,Right-arm legbreak,bowl,RHB,Right,legbreak,benjamin white
+P31,https://static.cricbuzz.com/a/img/v1/i1/c717793/harry-brook.jpg?d=low&p=gthumb,Harry Brook,England,Batsman,Right Handed Bat,Right-arm medium,bat,RHB,Right,medium,harry brook
+P32,https://static.cricbuzz.com/a/img/v1/i1/c717790/ben-duckett.jpg?d=low&p=gthumb,Ben Duckett,England,Batsman,Left Handed Bat,Right-arm offbreak,bat,LHB,Right,offbreak,ben duckett
+P33,https://static.cricbuzz.com/a/img/v1/i1/c597794/moeen-ali.jpg?d=low&p=gthumb,Moeen Ali,England,Batting Allrounder,Left Handed Bat,Right-arm offbreak,ar,LHB,Right,offbreak,moeen ali
+P34,https://static.cricbuzz.com/a/img/v1/i1/c594344/will-jacks.jpg?d=low&p=gthumb,Will Jacks,England,Batting Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,will jacks
+P35,https://static.cricbuzz.com/a/img/v1/i1/c617405/liam-livingstone.jpg?d=low&p=gthumb,Liam Livingstone,England,Batting Allrounder,Right Handed Bat,Right-arm legbreak,ar,RHB,Right,legbreak,liam livingstone
+P36,https://static.cricbuzz.com/a/img/v1/i1/c655387/sam-curran.jpg?d=low&p=gthumb,Sam Curran,England,Bowling Allrounder,Left Handed Bat,Left-arm fast-medium,ar,LHB,Left,fast-medium,sam curran
+P37,https://static.cricbuzz.com/a/img/v1/i1/c617407/jos-buttler.jpg?d=low&p=gthumb,Jos Buttler,England,WK-Batsman,Right Handed Bat,,wk,RHB,,,jos buttler
+P38,https://static.cricbuzz.com/a/img/v1/i1/c351851/jonny-bairstow.jpg?d=low&p=gthumb,Jonny Bairstow WK-,England,WK-Batsman,Right Handed Bat,Right-arm medium,wk,RHB,Right,medium,jonny bairstow
+P39,https://static.cricbuzz.com/a/img/v1/i1/c617408/philip-salt.jpg?d=low&p=gthumb,Philip Salt WK-,England,WK-Batsman,Right Handed Bat,Right-arm offbreak,wk,RHB,Right,offbreak,philip salt
+P40,https://static.cricbuzz.com/a/img/v1/i1/c617429/jofra-archer.jpg?d=low&p=gthumb,Jofra Archer,England,Bowler,Right Handed Bat,Right-arm fast,bowl,RHB,Right,fast,jofra archer
+P41,https://static.cricbuzz.com/a/img/v1/i1/c380064/tom-hartley.jpg?d=low&p=gthumb,Tom Hartley,England,Bowler,Left Handed Bat,Left-arm orthodox,bowl,LHB,Left,orthodox,tom hartley
+P42,https://static.cricbuzz.com/a/img/v1/i1/c244783/chris-jordan.jpg?d=low&p=gthumb,Chris Jordan,England,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,chris jordan
+P43,https://static.cricbuzz.com/a/img/v1/i1/c617413/adil-rashid.jpg?d=low&p=gthumb,Adil Rashid,England,Bowler,Right Handed Bat,Right-arm legbreak,bowl,RHB,Right,legbreak,adil rashid
+P44,https://static.cricbuzz.com/a/img/v1/i1/c627475/reece-topley.jpg?d=low&p=gthumb,Reece Topley,England,Bowler,Right Handed Bat,Left-arm fast-medium,bowl,RHB,Left,fast-medium,reece topley
+P45,https://static.cricbuzz.com/a/img/v1/i1/c617415/mark-wood.jpg?d=low&p=gthumb,Mark Wood,England,Bowler,Right Handed Bat,Right-arm fast,bowl,RHB,Right,fast,mark wood
+P46,https://static.cricbuzz.com/a/img/v1/i1/c182026/aaron-johnson.jpg?d=low&p=gthumb,Aaron Johnson,Canada,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,aaron johnson
+P47,https://static.cricbuzz.com/a/img/v1/i1/c182026/ravinderpal-singh.jpg?d=low&p=gthumb,Ravinderpal Singh,Canada,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,ravinderpal singh
+P48,https://static.cricbuzz.com/a/img/v1/i1/c182026/nicholas-kirton.jpg?d=low&p=gthumb,Nicholas Kirton,Canada,Batting Allrounder,Left Handed Bat,,ar,LHB,,,nicholas kirton
+P49,https://static.cricbuzz.com/a/img/v1/i1/c182026/pargat-singh.jpg?d=low&p=gthumb,Pargat Singh,Canada,Batting Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,pargat singh
+P50,https://static.cricbuzz.com/a/img/v1/i1/c157111/junaid-siddiqui.jpg?d=low&p=gthumb,Junaid Siddiqui,Canada,Batting Allrounder,Right Handed Bat,Right-arm legbreak,ar,RHB,Right,legbreak,junaid siddiqui
+P51,https://static.cricbuzz.com/a/img/v1/i1/c182026/navneet-dhaliwal.jpg?d=low&p=gthumb,Navneet Dhaliwal,Canada,Batting Allrounder,Right Handed Bat,Right-arm fast-medium,ar,RHB,Right,fast-medium,navneet dhaliwal
+P52,https://static.cricbuzz.com/a/img/v1/i1/c182026/rayyan-pathan.jpg?d=low&p=gthumb,Rayyan Pathan,Canada,Batting Allrounder,Right Handed Bat,Right-arm fast-medium,ar,RHB,Right,fast-medium,rayyan pathan
+P53,https://static.cricbuzz.com/a/img/v1/i1/c182026/dilpreet-bajwa.jpg?d=low&p=gthumb,Dilpreet Bajwa,Canada,Bowling Allrounder,Right Handed Bat,Right-arm medium,ar,RHB,Right,medium,dilpreet bajwa
+P54,https://static.cricbuzz.com/a/img/v1/i1/c182026/saad-bin-zafar.jpg?d=low&p=gthumb,Saad Bin Zafar,Canada,Bowling Allrounder,Left Handed Bat,Left-arm orthodox,ar,LHB,Left,orthodox,saad bin zafar
+P55,https://static.cricbuzz.com/a/img/v1/i1/c182026/shreyas-movva.jpg?d=low&p=gthumb,Shreyas Movva WK-,Canada,WK-Batsman,Right Handed Bat,,wk,RHB,,,shreyas movva
+P56,https://static.cricbuzz.com/a/img/v1/i1/c182026/dilon-heyliger.jpg?d=low&p=gthumb,Dilon Heyliger,Canada,Bowler,Right Handed Bat,Right-arm medium,bowl,RHB,Right,medium,dilon heyliger
+P57,https://static.cricbuzz.com/a/img/v1/i1/c157994/jeremy-gordon.jpg?d=low&p=gthumb,Jeremy Gordon,Canada,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,jeremy gordon
+P58,https://static.cricbuzz.com/a/img/v1/i1/c182026/kaleem-sana.jpg?d=low&p=gthumb,Kaleem Sana,Canada,Bowler,Right Handed Bat,Left-arm fast-medium,bowl,RHB,Left,fast-medium,kaleem sana
+P59,https://static.cricbuzz.com/a/img/v1/i1/c155655/nikhil-dutta.jpg?d=low&p=gthumb,Nikhil Dutta,Canada,Bowler,Right Handed Bat,Right-arm offbreak,bowl,RHB,Right,offbreak,nikhil dutta
+P60,https://static.cricbuzz.com/a/img/v1/i1/c156279/rishiv-ragav-joshi.jpg?d=low&p=gthumb,Rishiv Ragav Joshi,Canada,Bowler,Right Handed Bat,Left-arm fast-medium,bowl,RHB,Left,fast-medium,rishiv ragav joshi
+P61,https://static.cricbuzz.com/a/img/v1/i1/c182026/aaron-jones.jpg?d=low&p=gthumb,Aaron Jones,United States,Batsman,Right Handed Bat,Right-arm legbreak,bat,RHB,Right,legbreak,aaron jones
+P62,https://static.cricbuzz.com/a/img/v1/i1/c156268/nitish-kumar.jpg?d=low&p=gthumb,Nitish Kumar,United States,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,nitish kumar
+P63,https://static.cricbuzz.com/a/img/v1/i1/c182026/milind-kumar.jpg?d=low&p=gthumb,Milind Kumar,United States,Batting Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,milind kumar
+P64,https://static.cricbuzz.com/a/img/v1/i1/c157038/steven-taylor.jpg?d=low&p=gthumb,Steven Taylor,United States,Batting Allrounder,Left Handed Bat,Right-arm offbreak,ar,LHB,Right,offbreak,steven taylor
+P65,https://static.cricbuzz.com/a/img/v1/i1/c156103/corey-anderson.jpg?d=low&p=gthumb,Corey Anderson,United States,Batting Allrounder,Left Handed Bat,Left-arm fast-medium,ar,LHB,Left,fast-medium,corey anderson
+P66,https://static.cricbuzz.com/a/img/v1/i1/c156177/harmeet-singh.jpg?d=low&p=gthumb,Harmeet Singh,United States,Bowling Allrounder,Left Handed Bat,Left-arm orthodox,ar,LHB,Left,orthodox,harmeet singh
+P67,https://static.cricbuzz.com/a/img/v1/i1/c182026/nisarg-patel.jpg?d=low&p=gthumb,Nisarg Patel,United States,Bowling Allrounder,Right Handed Bat,Left-arm orthodox,ar,RHB,Left,orthodox,nisarg patel
+P68,https://static.cricbuzz.com/a/img/v1/i1/c182026/shadley-van-schalkwyk.jpg?d=low&p=gthumb,Shadley van Schalkwyk,United States,Bowling Allrounder,Left Handed Bat,Right-arm fast-medium,ar,LHB,Right,fast-medium,shadley van schalkwyk
+P69,https://static.cricbuzz.com/a/img/v1/i1/c182026/monank-patel.jpg?d=low&p=gthumb,Monank Patel,United States,WK-Batsman,Right Handed Bat,,wk,RHB,,,monank patel
+P70,https://static.cricbuzz.com/a/img/v1/i1/c182026/andries-gous.jpg?d=low&p=gthumb,Andries Gous WK-,United States,WK-Batsman,Right Handed Bat,,wk,RHB,,,andries gous
+P71,https://static.cricbuzz.com/a/img/v1/i1/c182026/shayan-jahangir.jpg?d=low&p=gthumb,Shayan Jahangir WK-,United States,WK-Batsman,Right Handed Bat,Right-arm medium,wk,RHB,Right,medium,shayan jahangir
+P72,https://static.cricbuzz.com/a/img/v1/i1/c599389/ali-khan.jpg?d=low&p=gthumb,Ali Khan,United States,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,ali khan
+P73,https://static.cricbuzz.com/a/img/v1/i1/c182026/jasdeep-singh.jpg?d=low&p=gthumb,Jasdeep Singh,United States,Bowler,Right Handed Bat,Right-arm medium,bowl,RHB,Right,medium,jasdeep singh
+P74,https://static.cricbuzz.com/a/img/v1/i1/c182026/nosthush-kenjige.jpg?d=low&p=gthumb,Nosthush Kenjige,United States,Bowler,Right Handed Bat,Left-arm orthodox,bowl,RHB,Left,orthodox,nosthush kenjige
+P75,https://static.cricbuzz.com/a/img/v1/i1/c152616/saurabh-netravalkar.jpg?d=low&p=gthumb,Saurabh Netravalkar,United States,Bowler,Right Handed Bat,Left-arm fast-medium,bowl,RHB,Left,fast-medium,saurabh netravalkar
+P76,https://static.cricbuzz.com/a/img/v1/i1/c594298/tim-david.jpg?d=low&p=gthumb,Tim David,Australia,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,tim david
+P77,https://static.cricbuzz.com/a/img/v1/i1/c619876/travis-head.jpg?d=low&p=gthumb,Travis Head,Australia,Batsman,Left Handed Bat,Right-arm offbreak,bat,LHB,Right,offbreak,travis head
+P78,https://static.cricbuzz.com/a/img/v1/i1/c352449/david-warner.jpg?d=low&p=gthumb,David Warner,Australia,Batsman,Left Handed Bat,,bat,LHB,,,david warner
+P79,https://static.cricbuzz.com/a/img/v1/i1/c352452/mitchell-marsh.jpg?d=low&p=gthumb,Mitchell Marsh,Australia,Batting Allrounder,Right Handed Bat,Right-arm fast-medium,ar,RHB,Right,fast-medium,mitchell marsh
+P80,https://static.cricbuzz.com/a/img/v1/i1/c352451/cameron-green.jpg?d=low&p=gthumb,Cameron Green,Australia,Batting Allrounder,Right Handed Bat,Right-arm fast-medium,ar,RHB,Right,fast-medium,cameron green
+P81,https://static.cricbuzz.com/a/img/v1/i1/c619879/glenn-maxwell.jpg?d=low&p=gthumb,Glenn Maxwell,Australia,Batting Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,glenn maxwell
+P82,https://static.cricbuzz.com/a/img/v1/i1/c352453/marcus-stoinis.jpg?d=low&p=gthumb,Marcus Stoinis,Australia,Batting Allrounder,Right Handed Bat,Right-arm medium,ar,RHB,Right,medium,marcus stoinis
+P83,https://static.cricbuzz.com/a/img/v1/i1/c244781/ashton-agar.jpg?d=low&p=gthumb,Ashton Agar,Australia,Bowling Allrounder,Left Handed Bat,Left-arm orthodox,ar,LHB,Left,orthodox,ashton agar
+P84,https://static.cricbuzz.com/a/img/v1/i1/c619881/josh-inglis.jpg?d=low&p=gthumb,Josh Inglis WK-,Australia,WK-Batsman,Right Handed Bat,,wk,RHB,,,josh inglis
+P85,https://static.cricbuzz.com/a/img/v1/i1/c244799/matthew-wade.jpg?d=low&p=gthumb,Matthew Wade WK-,Australia,WK-Batsman,Left Handed Bat,,wk,LHB,,,matthew wade
+P86,https://static.cricbuzz.com/a/img/v1/i1/c352460/pat-cummins.jpg?d=low&p=gthumb,Pat Cummins,Australia,Bowler,Right Handed Bat,Right-arm fast,bowl,RHB,Right,fast,pat cummins
+P87,https://static.cricbuzz.com/a/img/v1/i1/c619885/nathan-ellis.jpg?d=low&p=gthumb,Nathan Ellis,Australia,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,nathan ellis
+P88,https://static.cricbuzz.com/a/img/v1/i1/c352459/josh-hazlewood.jpg?d=low&p=gthumb,Josh Hazlewood,Australia,Bowler,Left Handed Bat,Right-arm fast-medium,bowl,LHB,Right,fast-medium,josh hazlewood
+P89,https://static.cricbuzz.com/a/img/v1/i1/c352462/mitchell-starc.jpg?d=low&p=gthumb,Mitchell Starc,Australia,Bowler,Left Handed Bat,Left-arm fast,bowl,LHB,Left,fast,mitchell starc
+P90,https://static.cricbuzz.com/a/img/v1/i1/c619887/adam-zampa.jpg?d=low&p=gthumb,Adam Zampa,Australia,Bowler,Right Handed Bat,Right-arm legbreak,bowl,RHB,Right,legbreak,adam zampa
+P91,https://static.cricbuzz.com/a/img/v1/i1/c244693/michael-jones.jpg?d=low&p=gthumb,Michael Jones,Scotland,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,michael jones
+P92,https://static.cricbuzz.com/a/img/v1/i1/c244688/george-munsey.jpg?d=low&p=gthumb,George Munsey,Scotland,Batsman,Left Handed Bat,,bat,LHB,,,george munsey
+P93,https://static.cricbuzz.com/a/img/v1/i1/c182026/ollie-hairs.jpg?d=low&p=gthumb,Ollie Hairs,Scotland,Batsman,Left Handed Bat,Right-arm offbreak,bat,LHB,Right,offbreak,ollie hairs
+P94,https://static.cricbuzz.com/a/img/v1/i1/c244691/richie-berrington.jpg?d=low&p=gthumb,Richie Berrington,Scotland,Batting Allrounder,Right Handed Bat,Right-arm fast-medium,ar,RHB,Right,fast-medium,richie berrington
+P95,https://static.cricbuzz.com/a/img/v1/i1/c244692/michael-leask.jpg?d=low&p=gthumb,Michael Leask,Scotland,Batting Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,michael leask
+P96,https://static.cricbuzz.com/a/img/v1/i1/c244683/brandon-mcmullen.jpg?d=low&p=gthumb,Brandon McMullen,Scotland,Batting Allrounder,Right Handed Bat,Right-arm medium,ar,RHB,Right,medium,brandon mcmullen
+P97,https://static.cricbuzz.com/a/img/v1/i1/c182026/jack-jarvis.jpg?d=low&p=gthumb,Jack Jarvis,Scotland,Bowling Allrounder,Right Handed Bat,Right-arm fast-medium,ar,RHB,Right,fast-medium,jack jarvis
+P98,https://static.cricbuzz.com/a/img/v1/i1/c244690/matthew-cross.jpg?d=low&p=gthumb,Matthew Cross WK-,Scotland,WK-Batsman,Right Handed Bat,,wk,RHB,,,matthew cross
+P99,https://static.cricbuzz.com/a/img/v1/i1/c182026/charlie-tear.jpg?d=low&p=gthumb,Charlie Tear WK-,Scotland,WK-Batsman,Right Handed Bat,,wk,RHB,,,charlie tear
+P100,https://static.cricbuzz.com/a/img/v1/i1/c244682/chris-greaves.jpg?d=low&p=gthumb,Chris Greaves,Scotland,Bowler,Right Handed Bat,Right-arm legbreak,bowl,RHB,Right,legbreak,chris greaves
+P101,https://static.cricbuzz.com/a/img/v1/i1/c244694/safyaan-sharif.jpg?d=low&p=gthumb,Safyaan Sharif,Scotland,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,safyaan sharif
+P102,https://static.cricbuzz.com/a/img/v1/i1/c244684/christopher-sole.jpg?d=low&p=gthumb,Christopher Sole,Scotland,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,christopher sole
+P103,https://static.cricbuzz.com/a/img/v1/i1/c244687/mark-watt.jpg?d=low&p=gthumb,Mark Watt,Scotland,Bowler,Left Handed Bat,Left-arm orthodox,bowl,LHB,Left,orthodox,mark watt
+P104,https://static.cricbuzz.com/a/img/v1/i1/c244685/brad-wheal.jpg?d=low&p=gthumb,Brad Wheal,Scotland,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,brad wheal
+P105,https://static.cricbuzz.com/a/img/v1/i1/c182026/brad-currie.jpg?d=low&p=gthumb,Brad Currie,Scotland,Bowler,Right Handed Bat,Left-arm fast-medium,bowl,RHB,Left,fast-medium,brad currie
+P106,https://static.cricbuzz.com/a/img/v1/i1/c182026/kashyap-prajapati.jpg?d=low&p=gthumb,Kashyap Prajapati,Oman,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,kashyap prajapati
+P107,https://static.cricbuzz.com/a/img/v1/i1/c182026/shoaib-khan.jpg?d=low&p=gthumb,Shoaib Khan,Oman,Batsman,Right Handed Bat,Right-arm medium,bat,RHB,Right,medium,shoaib khan
+P108,https://static.cricbuzz.com/a/img/v1/i1/c154944/mehran-khan.jpg?d=low&p=gthumb,Mehran Khan,Oman,Batsman,Right Handed Bat,Right-arm medium,bat,RHB,Right,medium,mehran khan
+P109,https://static.cricbuzz.com/a/img/v1/i1/c182026/khalid-kail.jpg?d=low&p=gthumb,Khalid Kail,Oman,Batsman,Right Handed Bat,,bat,RHB,,,khalid kail
+P110,https://static.cricbuzz.com/a/img/v1/i1/c182026/aqib-ilyas.jpg?d=low&p=gthumb,Aqib Ilyas,Oman,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,aqib ilyas
+P111,https://static.cricbuzz.com/a/img/v1/i1/c182026/zeeshan-maqsood.jpg?d=low&p=gthumb,Zeeshan Maqsood,Oman,Batting Allrounder,Left Handed Bat,Left-arm orthodox,ar,LHB,Left,orthodox,zeeshan maqsood
+P112,https://static.cricbuzz.com/a/img/v1/i1/c182026/rafiullah.jpg?d=low&p=gthumb,Rafiullah,Oman,Batting Allrounder,Right Handed Bat,Right-arm medium,ar,RHB,Right,medium,rafiullah
+P113,https://static.cricbuzz.com/a/img/v1/i1/c182026/ayaan-khan.jpg?d=low&p=gthumb,Ayaan Khan,Oman,Bowling Allrounder,Left Handed Bat,Left-arm orthodox,ar,LHB,Left,orthodox,ayaan khan
+P114,https://static.cricbuzz.com/a/img/v1/i1/c182026/mohammad-nadeem.jpg?d=low&p=gthumb,Mohammad Nadeem,Oman,Bowling Allrounder,Right Handed Bat,Right-arm fast-medium,ar,RHB,Right,fast-medium,mohammad nadeem
+P115,https://static.cricbuzz.com/a/img/v1/i1/c182026/pratik-athavale.jpg?d=low&p=gthumb,Pratik Athavale WK-,Oman,WK-Batsman,Right Handed Bat,Right-arm offbreak,wk,RHB,Right,offbreak,pratik athavale
+P116,https://static.cricbuzz.com/a/img/v1/i1/c182026/naseem-khushi.jpg?d=low&p=gthumb,Naseem Khushi WK-,Oman,WK-Batsman,Right Handed Bat,,wk,RHB,,,naseem khushi
+P117,https://static.cricbuzz.com/a/img/v1/i1/c182026/shakeel-ahmed.jpg?d=low&p=gthumb,Shakeel Ahmed,Oman,Bowler,Left Handed Bat,Left-arm orthodox,bowl,LHB,Left,orthodox,shakeel ahmed
+P118,https://static.cricbuzz.com/a/img/v1/i1/c154943/bilal-khan.jpg?d=low&p=gthumb,Bilal Khan,Oman,Bowler,Left Handed Bat,Left-arm fast-medium,bowl,LHB,Left,fast-medium,bilal khan
+P119,https://static.cricbuzz.com/a/img/v1/i1/c182026/fayyaz-butt.jpg?d=low&p=gthumb,Fayyaz Butt,Oman,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,fayyaz butt
+P120,https://static.cricbuzz.com/a/img/v1/i1/c182026/kaleemullah.jpg?d=low&p=gthumb,Kaleemullah,Oman,Bowler,Right Handed Bat,Right-arm medium,bowl,RHB,Right,medium,kaleemullah
+P121,https://static.cricbuzz.com/a/img/v1/i1/c619858/aiden-markram.jpg?d=low&p=gthumb,Aiden Markram,South Africa,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,aiden markram
+P122,https://static.cricbuzz.com/a/img/v1/i1/c594193/reeza-hendricks.jpg?d=low&p=gthumb,Reeza Hendricks,South Africa,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,reeza hendricks
+P123,https://static.cricbuzz.com/a/img/v1/i1/c619861/david-miller.jpg?d=low&p=gthumb,David Miller,South Africa,Batsman,Left Handed Bat,,bat,LHB,,,david miller
+P124,https://static.cricbuzz.com/a/img/v1/i1/c619862/marco-jansen.jpg?d=low&p=gthumb,Marco Jansen,South Africa,Bowling Allrounder,Right Handed Bat,Left-arm fast,ar,RHB,Left,fast,marco jansen
+P125,https://static.cricbuzz.com/a/img/v1/i1/c594326/quinton-de-kock.jpg?d=low&p=gthumb,Quinton de Kock WK-,South Africa,WK-Batsman,Left Handed Bat,,wk,LHB,,,quinton de kock
+P126,https://static.cricbuzz.com/a/img/v1/i1/c619866/heinrich-klaasen.jpg?d=low&p=gthumb,Heinrich Klaasen WK-,South Africa,WK-Batsman,Right Handed Bat,Right-arm offbreak,wk,RHB,Right,offbreak,heinrich klaasen
+P127,https://static.cricbuzz.com/a/img/v1/i1/c619865/ryan-rickelton.jpg?d=low&p=gthumb,Ryan Rickelton WK-,South Africa,WK-Batsman,Left Handed Bat,,wk,LHB,,,ryan rickelton
+P128,https://static.cricbuzz.com/a/img/v1/i1/c619868/tristan-stubbs.jpg?d=low&p=gthumb,Tristan Stubbs WK-,South Africa,WK-Batsman,Right Handed Bat,Right-arm offbreak,wk,RHB,Right,offbreak,tristan stubbs
+P129,https://static.cricbuzz.com/a/img/v1/i1/c597835/ottneil-baartman.jpg?d=low&p=gthumb,Ottneil Baartman,South Africa,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,ottneil baartman
+P130,https://static.cricbuzz.com/a/img/v1/i1/c597795/gerald-coetzee.jpg?d=low&p=gthumb,Gerald Coetzee,South Africa,Bowler,Right Handed Bat,Right-arm fast,bowl,RHB,Right,fast,gerald coetzee
+P131,https://static.cricbuzz.com/a/img/v1/i1/c244752/bjorn-fortuin.jpg?d=low&p=gthumb,Bjorn Fortuin,South Africa,Bowler,Right Handed Bat,Left-arm orthodox,bowl,RHB,Left,orthodox,bjorn fortuin
+P132,https://static.cricbuzz.com/a/img/v1/i1/c619870/keshav-maharaj.jpg?d=low&p=gthumb,Keshav Maharaj,South Africa,Bowler,Right Handed Bat,Left-arm orthodox,bowl,RHB,Left,orthodox,keshav maharaj
+P133,https://static.cricbuzz.com/a/img/v1/i1/c244754/anrich-nortje.jpg?d=low&p=gthumb,Anrich Nortje,South Africa,Bowler,Right Handed Bat,Right-arm fast,bowl,RHB,Right,fast,anrich nortje
+P134,https://static.cricbuzz.com/a/img/v1/i1/c619869/kagiso-rabada.jpg?d=low&p=gthumb,Kagiso Rabada,South Africa,Bowler,Left Handed Bat,Right-arm fast,bowl,LHB,Right,fast,kagiso rabada
+P135,https://static.cricbuzz.com/a/img/v1/i1/c619871/tabraiz-shamsi.jpg?d=low&p=gthumb,Tabraiz Shamsi,South Africa,Bowler,Right Handed Bat,Left-arm wrist-spin,bowl,RHB,Left,,tabraiz shamsi
+P136,https://static.cricbuzz.com/a/img/v1/i1/c351889/pathum-nissanka.jpg?d=low&p=gthumb,Pathum Nissanka,Sri Lanka,Batsman,Right Handed Bat,,bat,RHB,,,pathum nissanka
+P137,https://static.cricbuzz.com/a/img/v1/i1/c351873/charith-asalanka.jpg?d=low&p=gthumb,Charith Asalanka,Sri Lanka,Batting Allrounder,Left Handed Bat,Right-arm offbreak,ar,LHB,Right,offbreak,charith asalanka
+P138,https://static.cricbuzz.com/a/img/v1/i1/c351878/dhananjaya-de-silva.jpg?d=low&p=gthumb,Dhananjaya de Silva,Sri Lanka,Batting Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,dhananjaya de silva
+P139,https://static.cricbuzz.com/a/img/v1/i1/c170706/angelo-mathews.jpg?d=low&p=gthumb,Angelo Mathews,Sri Lanka,Batting Allrounder,Right Handed Bat,Right-arm fast-medium,ar,RHB,Right,fast-medium,angelo mathews
+P140,https://static.cricbuzz.com/a/img/v1/i1/c717697/kamindu-mendis.jpg?d=low&p=gthumb,Kamindu Mendis,Sri Lanka,Batting Allrounder,Left Handed Bat,Right-arm offbreak,ar,LHB,Right,offbreak,kamindu mendis
+P141,https://static.cricbuzz.com/a/img/v1/i1/c351876/dasun-shanaka.jpg?d=low&p=gthumb,Dasun Shanaka,Sri Lanka,Batting Allrounder,Right Handed Bat,Right-arm medium,ar,RHB,Right,medium,dasun shanaka
+P142,https://static.cricbuzz.com/a/img/v1/i1/c244676/wanindu-hasaranga.jpg?d=low&p=gthumb,Wanindu Hasaranga,Sri Lanka,Bowling Allrounder,Right Handed Bat,Right-arm legbreak,ar,RHB,Right,legbreak,wanindu hasaranga
+P143,https://static.cricbuzz.com/a/img/v1/i1/c351882/dunith-wellalage.jpg?d=low&p=gthumb,Dunith Wellalage,Sri Lanka,Bowling Allrounder,Left Handed Bat,Left-arm orthodox,ar,LHB,Left,orthodox,dunith wellalage
+P144,https://static.cricbuzz.com/a/img/v1/i1/c594291/kusal-mendis.jpg?d=low&p=gthumb,Kusal Mendis WK-,Sri Lanka,WK-Batsman,Right Handed Bat,,wk,RHB,,,kusal mendis
+P145,https://static.cricbuzz.com/a/img/v1/i1/c351890/sadeera-samarawickrama.jpg?d=low&p=gthumb,Sadeera Samarawickrama WK-,Sri Lanka,WK-Batsman,Right Handed Bat,,wk,RHB,,,sadeera samarawickrama
+P146,https://static.cricbuzz.com/a/img/v1/i1/c244665/dushmantha-chameera.jpg?d=low&p=gthumb,Dushmantha Chameera,Sri Lanka,Bowler,Right Handed Bat,Right-arm fast,bowl,RHB,Right,fast,dushmantha chameera
+P147,https://static.cricbuzz.com/a/img/v1/i1/c351880/dilshan-madushanka.jpg?d=low&p=gthumb,Dilshan Madushanka,Sri Lanka,Bowler,Right Handed Bat,Left-arm fast-medium,bowl,RHB,Left,fast-medium,dilshan madushanka
+P148,https://static.cricbuzz.com/a/img/v1/i1/c351888/matheesha-pathirana.jpg?d=low&p=gthumb,Matheesha Pathirana,Sri Lanka,Bowler,Right Handed Bat,Right-arm fast,bowl,RHB,Right,fast,matheesha pathirana
+P149,https://static.cricbuzz.com/a/img/v1/i1/c594214/maheesh-theekshana.jpg?d=low&p=gthumb,Maheesh Theekshana,Sri Lanka,Bowler,Right Handed Bat,Right-arm offbreak,bowl,RHB,Right,offbreak,maheesh theekshana
+P150,https://static.cricbuzz.com/a/img/v1/i1/c226338/nuwan-thushara.jpg?d=low&p=gthumb,Nuwan Thushara,Sri Lanka,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,nuwan thushara
+P151,https://static.cricbuzz.com/a/img/v1/i1/c616418/kane-williamson.jpg?d=low&p=gthumb,Kane Williamson,New Zealand,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,kane williamson
+P152,https://static.cricbuzz.com/a/img/v1/i1/c594254/finn-allen.jpg?d=low&p=gthumb,Finn Allen,New Zealand,Batsman,Right Handed Bat,,bat,RHB,,,finn allen
+P153,https://static.cricbuzz.com/a/img/v1/i1/c616435/mark-chapman.jpg?d=low&p=gthumb,Mark Chapman,New Zealand,Batsman,Left Handed Bat,Left-arm orthodox,bat,LHB,Left,orthodox,mark chapman
+P154,https://static.cricbuzz.com/a/img/v1/i1/c616433/glenn-phillips.jpg?d=low&p=gthumb,Glenn Phillips,New Zealand,Batting Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,glenn phillips
+P155,https://static.cricbuzz.com/a/img/v1/i1/c616430/michael-bracewell.jpg?d=low&p=gthumb,Michael Bracewell,New Zealand,Batting Allrounder,Left Handed Bat,Right-arm offbreak,ar,LHB,Right,offbreak,michael bracewell
+P156,https://static.cricbuzz.com/a/img/v1/i1/c616424/daryl-mitchell.jpg?d=low&p=gthumb,Daryl Mitchell,New Zealand,Batting Allrounder,Right Handed Bat,Right-arm medium,ar,RHB,Right,medium,daryl mitchell
+P157,https://static.cricbuzz.com/a/img/v1/i1/c597793/james-neesham.jpg?d=low&p=gthumb,James Neesham,New Zealand,Batting Allrounder,Left Handed Bat,Right-arm fast-medium,ar,LHB,Right,fast-medium,james neesham
+P158,https://static.cricbuzz.com/a/img/v1/i1/c655385/rachin-ravindra.jpg?d=low&p=gthumb,Rachin Ravindra,New Zealand,Batting Allrounder,Left Handed Bat,Left-arm orthodox,ar,LHB,Left,orthodox,rachin ravindra
+P159,https://static.cricbuzz.com/a/img/v1/i1/c616427/mitchell-santner.jpg?d=low&p=gthumb,Mitchell Santner,New Zealand,Bowling Allrounder,Left Handed Bat,Left-arm orthodox,ar,LHB,Left,orthodox,mitchell santner
+P160,https://static.cricbuzz.com/a/img/v1/i1/c616434/devon-conway.jpg?d=low&p=gthumb,Devon Conway,New Zealand,WK-Batsman,Left Handed Bat,Right-arm medium,wk,LHB,Right,medium,devon conway
+P161,https://static.cricbuzz.com/a/img/v1/i1/c351612/trent-boult.jpg?d=low&p=gthumb,Trent Boult,New Zealand,Bowler,Right Handed Bat,Left-arm fast-medium,bowl,RHB,Left,fast-medium,trent boult
+P162,https://static.cricbuzz.com/a/img/v1/i1/c616422/lockie-ferguson.jpg?d=low&p=gthumb,Lockie Ferguson,New Zealand,Bowler,Right Handed Bat,Right-arm fast,bowl,RHB,Right,fast,lockie ferguson
+P163,https://static.cricbuzz.com/a/img/v1/i1/c616431/matt-henry.jpg?d=low&p=gthumb,Matt Henry,New Zealand,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,matt henry
+P164,https://static.cricbuzz.com/a/img/v1/i1/c351602/ish-sodhi.jpg?d=low&p=gthumb,Ish Sodhi,New Zealand,Bowler,Right Handed Bat,Right-arm legbreak,bowl,RHB,Right,legbreak,ish sodhi
+P165,https://static.cricbuzz.com/a/img/v1/i1/c601546/tim-southee.jpg?d=low&p=gthumb,Tim Southee,New Zealand,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,tim southee
+P166,https://static.cricbuzz.com/a/img/v1/i1/c616547/ibrahim-zadran.jpg?d=low&p=gthumb,Ibrahim Zadran,Afghanistan,Batsman,Right Handed Bat,Right-arm fast-medium,bat,RHB,Right,fast-medium,ibrahim zadran
+P167,https://static.cricbuzz.com/a/img/v1/i1/c352434/najibullah-zadran.jpg?d=low&p=gthumb,Najibullah Zadran,Afghanistan,Batsman,Left Handed Bat,Right-arm offbreak,bat,LHB,Right,offbreak,najibullah zadran
+P168,https://static.cricbuzz.com/a/img/v1/i1/c244750/hazratullah-zazai.jpg?d=low&p=gthumb,Hazratullah Zazai,Afghanistan,Batsman,Left Handed Bat,Left-arm orthodox,bat,LHB,Left,orthodox,hazratullah zazai
+P169,https://static.cricbuzz.com/a/img/v1/i1/c616548/gulbadin-naib.jpg?d=low&p=gthumb,Gulbadin Naib,Afghanistan,Batting Allrounder,Right Handed Bat,Right-arm fast-medium,ar,RHB,Right,fast-medium,gulbadin naib
+P170,https://static.cricbuzz.com/a/img/v1/i1/c616549/azmatullah-omarzai.jpg?d=low&p=gthumb,Azmatullah Omarzai,Afghanistan,Bowling Allrounder,Right Handed Bat,Right-arm fast-medium,ar,RHB,Right,fast-medium,azmatullah omarzai
+P171,https://static.cricbuzz.com/a/img/v1/i1/c616550/mohammad-nabi.jpg?d=low&p=gthumb,Mohammad Nabi,Afghanistan,Bowling Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,mohammad nabi
+P172,https://static.cricbuzz.com/a/img/v1/i1/c616553/rashid-khan.jpg?d=low&p=gthumb,Rashid Khan,Afghanistan,Bowling Allrounder,Right Handed Bat,Right-arm legbreak,ar,RHB,Right,legbreak,rashid khan
+P173,https://static.cricbuzz.com/a/img/v1/i1/c226321/karim-janat.jpg?d=low&p=gthumb,Karim Janat,Afghanistan,Bowling Allrounder,Right Handed Bat,Right-arm fast-medium,ar,RHB,Right,fast-medium,karim janat
+P174,https://static.cricbuzz.com/a/img/v1/i1/c616554/nangeyalia-kharote.jpg?d=low&p=gthumb,Nangeyalia Kharote,Afghanistan,Bowling Allrounder,Left Handed Bat,Left-arm orthodox,ar,LHB,Left,orthodox,nangeyalia kharote
+P175,https://static.cricbuzz.com/a/img/v1/i1/c616556/rahmanullah-gurbaz.jpg?d=low&p=gthumb,Rahmanullah Gurbaz WK-,Afghanistan,WK-Batsman,Right Handed Bat,,wk,RHB,,,rahmanullah gurbaz
+P176,https://static.cricbuzz.com/a/img/v1/i1/c182026/mohammad-ishaq.jpg?d=low&p=gthumb,Mohammad Ishaq WK-,Afghanistan,WK-Batsman,Right Handed Bat,,wk,RHB,,,mohammad ishaq
+P177,https://static.cricbuzz.com/a/img/v1/i1/c352446/mujeeb-ur-rahman.jpg?d=low&p=gthumb,Mujeeb Ur Rahman,Afghanistan,Bowler,Right Handed Bat,Right-arm offbreak,bowl,RHB,Right,offbreak,mujeeb ur rahman
+P178,https://static.cricbuzz.com/a/img/v1/i1/c616569/noor-ahmad.jpg?d=low&p=gthumb,Noor Ahmad,Afghanistan,Bowler,Right Handed Bat,Left-arm wrist-spin,bowl,RHB,Left,,noor ahmad
+P179,https://static.cricbuzz.com/a/img/v1/i1/c352447/naveen-ul-haq.jpg?d=low&p=gthumb,Naveen-ul-Haq,Afghanistan,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,naveen-ul-haq
+P180,https://static.cricbuzz.com/a/img/v1/i1/c616558/fazalhaq-farooqi.jpg?d=low&p=gthumb,Fazalhaq Farooqi,Afghanistan,Bowler,Right Handed Bat,Left-arm fast-medium,bowl,RHB,Left,fast-medium,fazalhaq farooqi
+P181,https://static.cricbuzz.com/a/img/v1/i1/c616563/fareed-ahmad-malik.jpg?d=low&p=gthumb,Fareed Ahmad Malik,Afghanistan,Bowler,Left Handed Bat,Left-arm fast-medium,bowl,LHB,Left,fast-medium,fareed ahmad malik
+P182,https://static.cricbuzz.com/a/img/v1/i1/c182026/kushal-bhurtel.jpg?d=low&p=gthumb,Kushal Bhurtel,Nepal,Batsman,Right Handed Bat,Right-arm legbreak,bat,RHB,Right,legbreak,kushal bhurtel
+P183,https://static.cricbuzz.com/a/img/v1/i1/c182026/sundeep-jora.jpg?d=low&p=gthumb,Sundeep Jora,Nepal,Batsman,Right Handed Bat,,bat,RHB,,,sundeep jora
+P184,https://static.cricbuzz.com/a/img/v1/i1/c182026/rohit-paudel.jpg?d=low&p=gthumb,Rohit Paudel,Nepal,Batting Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,rohit paudel
+P185,https://static.cricbuzz.com/a/img/v1/i1/c182026/dipendra-singh-airee.jpg?d=low&p=gthumb,Dipendra Singh Airee,Nepal,Batting Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,dipendra singh airee
+P186,https://static.cricbuzz.com/a/img/v1/i1/c155391/anil-sah.jpg?d=low&p=gthumb,Anil Sah,Nepal,Batting Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,anil sah
+P187,https://static.cricbuzz.com/a/img/v1/i1/c350320/kushal-malla.jpg?d=low&p=gthumb,Kushal Malla,Nepal,Batting Allrounder,Left Handed Bat,Left-arm orthodox,ar,LHB,Left,orthodox,kushal malla
+P188,https://static.cricbuzz.com/a/img/v1/i1/c155374/karan-kc.jpg?d=low&p=gthumb,Karan KC,Nepal,Bowling Allrounder,Right Handed Bat,Right-arm medium,ar,RHB,Right,medium,karan kc
+P189,https://static.cricbuzz.com/a/img/v1/i1/c155415/sompal-kami.jpg?d=low&p=gthumb,Sompal Kami,Nepal,Bowling Allrounder,Right Handed Bat,Right-arm fast-medium,ar,RHB,Right,fast-medium,sompal kami
+P190,https://static.cricbuzz.com/a/img/v1/i1/c182026/pratis-gc.jpg?d=low&p=gthumb,Pratis GC,Nepal,Bowling Allrounder,Right Handed Bat,Left-arm medium,ar,RHB,Left,medium,pratis gc
+P191,https://static.cricbuzz.com/a/img/v1/i1/c182026/kamal-singh-airee.jpg?d=low&p=gthumb,Kamal Singh Airee,Nepal,Bowling Allrounder,Right Handed Bat,Right-arm medium,ar,RHB,Right,medium,kamal singh airee
+P192,https://static.cricbuzz.com/a/img/v1/i1/c182026/aasif-sheikh.jpg?d=low&p=gthumb,Aasif Sheikh WK-,Nepal,WK-Batsman,Right Handed Bat,Right-arm medium,wk,RHB,Right,medium,aasif sheikh
+P193,https://static.cricbuzz.com/a/img/v1/i1/c155384/lalit-rajbanshi.jpg?d=low&p=gthumb,Lalit Rajbanshi,Nepal,Bowler,Right Handed Bat,Left-arm orthodox,bowl,RHB,Left,orthodox,lalit rajbanshi
+P194,https://static.cricbuzz.com/a/img/v1/i1/c182026/gulsan-jha.jpg?d=low&p=gthumb,Gulsan Jha,Nepal,Bowler,Left Handed Bat,Right-arm medium,bowl,LHB,Right,medium,gulsan jha
+P195,https://static.cricbuzz.com/a/img/v1/i1/c182026/abinash-bohara.jpg?d=low&p=gthumb,Abinash Bohara,Nepal,Bowler,Right Handed Bat,Right-arm medium,bowl,RHB,Right,medium,abinash bohara
+P196,https://static.cricbuzz.com/a/img/v1/i1/c182026/sagar-dhakal.jpg?d=low&p=gthumb,Sagar Dhakal,Nepal,Bowler,Right Handed Bat,Left-arm orthodox,bowl,RHB,Left,orthodox,sagar dhakal
+P197,https://static.cricbuzz.com/a/img/v1/i1/c226314/sandeep-lamichhane.jpg?d=low&p=gthumb,Sandeep Lamichhane,Nepal,Bowler,Right Handed Bat,Right-arm legbreak,bowl,RHB,Right,legbreak,sandeep lamichhane
+P198,https://static.cricbuzz.com/a/img/v1/i1/c244832/rovman-powell.jpg?d=low&p=gthumb,Rovman Powell,West Indies,Batsman,Right Handed Bat,Right-arm fast-medium,bat,RHB,Right,fast-medium,rovman powell
+P199,https://static.cricbuzz.com/a/img/v1/i1/c171232/shimron-hetmyer.jpg?d=low&p=gthumb,Shimron Hetmyer,West Indies,Batsman,Left Handed Bat,,bat,LHB,,,shimron hetmyer
+P200,https://static.cricbuzz.com/a/img/v1/i1/c244662/brandon-king.jpg?d=low&p=gthumb,Brandon King,West Indies,Batsman,Right Handed Bat,,bat,RHB,,,brandon king
+P201,https://static.cricbuzz.com/a/img/v1/i1/c594230/sherfane-rutherford.jpg?d=low&p=gthumb,Sherfane Rutherford,West Indies,Batting Allrounder,Left Handed Bat,Right-arm fast-medium,ar,LHB,Right,fast-medium,sherfane rutherford
+P202,https://static.cricbuzz.com/a/img/v1/i1/c244721/kyle-mayers.jpg?d=low&p=gthumb,Kyle Mayers,West Indies,Batting Allrounder,Left Handed Bat,Right-arm medium,ar,LHB,Right,medium,kyle mayers
+P203,https://static.cricbuzz.com/a/img/v1/i1/c593804/roston-chase.jpg?d=low&p=gthumb,Roston Chase,West Indies,Bowling Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,roston chase
+P204,https://static.cricbuzz.com/a/img/v1/i1/c170821/andre-russell.jpg?d=low&p=gthumb,Andre Russell,West Indies,Bowling Allrounder,Right Handed Bat,Right-arm fast,ar,RHB,Right,fast,andre russell
+P205,https://static.cricbuzz.com/a/img/v1/i1/c593798/romario-shepherd.jpg?d=low&p=gthumb,Romario Shepherd,West Indies,Bowling Allrounder,Right Handed Bat,Right-arm fast-medium,ar,RHB,Right,fast-medium,romario shepherd
+P206,https://static.cricbuzz.com/a/img/v1/i1/c599390/gudakesh-motie.jpg?d=low&p=gthumb,Gudakesh Motie,West Indies,Bowling Allrounder,Left Handed Bat,Left-arm orthodox,ar,LHB,Left,orthodox,gudakesh motie
+P207,https://static.cricbuzz.com/a/img/v1/i1/c244679/johnson-charles.jpg?d=low&p=gthumb,Johnson Charles WK-,West Indies,WK-Batsman,Right Handed Bat,,wk,RHB,,,johnson charles
+P208,https://static.cricbuzz.com/a/img/v1/i1/c244722/nicholas-pooran.jpg?d=low&p=gthumb,Nicholas Pooran WK-,West Indies,WK-Batsman,Left Handed Bat,Right-arm offbreak,wk,LHB,Right,offbreak,nicholas pooran
+P209,https://static.cricbuzz.com/a/img/v1/i1/c170814/shai-hope.jpg?d=low&p=gthumb,Shai Hope WK-,West Indies,WK-Batsman,Right Handed Bat,,wk,RHB,,,shai hope
+P210,https://static.cricbuzz.com/a/img/v1/i1/c599386/alzarri-joseph.jpg?d=low&p=gthumb,Alzarri Joseph,West Indies,Bowler,Right Handed Bat,Right-arm fast,bowl,RHB,Right,fast,alzarri joseph
+P211,https://static.cricbuzz.com/a/img/v1/i1/c597839/shamar-joseph.jpg?d=low&p=gthumb,Shamar Joseph,West Indies,Bowler,Left Handed Bat,Right-arm fast,bowl,LHB,Right,fast,shamar joseph
+P212,https://static.cricbuzz.com/a/img/v1/i1/c244660/akeal-hosein.jpg?d=low&p=gthumb,Akeal Hosein,West Indies,Bowler,Left Handed Bat,Left-arm orthodox,bowl,LHB,Left,orthodox,akeal hosein
+P213,https://static.cricbuzz.com/a/img/v1/i1/c244723/obed-mccoy.jpg?d=low&p=gthumb,Obed McCoy,West Indies,Bowler,Left Handed Bat,Left-arm fast-medium,bowl,LHB,Left,fast-medium,obed mccoy
+P214,https://static.cricbuzz.com/a/img/v1/i1/c182026/robinson-obuya.jpg?d=low&p=gthumb,Robinson Obuya,Uganda,Batsman,Right Handed Bat,,bat,RHB,,,robinson obuya
+P215,https://static.cricbuzz.com/a/img/v1/i1/c182026/ronak-patel.jpg?d=low&p=gthumb,Ronak Patel,Uganda,Batsman,Right Handed Bat,Left-arm orthodox,bat,RHB,Left,orthodox,ronak patel
+P216,https://static.cricbuzz.com/a/img/v1/i1/c182026/simon-ssesazi.jpg?d=low&p=gthumb,Simon Ssesazi,Uganda,Batsman,Left Handed Bat,Right-arm medium,bat,LHB,Right,medium,simon ssesazi
+P217,https://static.cricbuzz.com/a/img/v1/i1/c182026/dinesh-nakrani.jpg?d=low&p=gthumb,Dinesh Nakrani,Uganda,Batting Allrounder,Left Handed Bat,Left-arm medium,ar,LHB,Left,medium,dinesh nakrani
+P218,https://static.cricbuzz.com/a/img/v1/i1/c182026/kenneth-waiswa.jpg?d=low&p=gthumb,Kenneth Waiswa,Uganda,Batting Allrounder,Right Handed Bat,Right-arm medium,ar,RHB,Right,medium,kenneth waiswa
+P219,https://static.cricbuzz.com/a/img/v1/i1/c182026/riazat-ali-shah.jpg?d=low&p=gthumb,Riazat Ali Shah,Uganda,Batting Allrounder,Right Handed Bat,Right-arm medium,ar,RHB,Right,medium,riazat ali shah
+P220,https://static.cricbuzz.com/a/img/v1/i1/c182026/alpesh-ramjani.jpg?d=low&p=gthumb,Alpesh Ramjani,Uganda,Bowling Allrounder,Left Handed Bat,Left-arm orthodox,ar,LHB,Left,orthodox,alpesh ramjani
+P221,https://static.cricbuzz.com/a/img/v1/i1/c182026/fred-achelam.jpg?d=low&p=gthumb,Fred Achelam WK-,Uganda,WK-Batsman,Right Handed Bat,,wk,RHB,,,fred achelam
+P222,https://static.cricbuzz.com/a/img/v1/i1/c182026/roger-mukasa.jpg?d=low&p=gthumb,Roger Mukasa WK-,Uganda,WK-Batsman,Right Handed Bat,Right-arm offbreak,wk,RHB,Right,offbreak,roger mukasa
+P223,https://static.cricbuzz.com/a/img/v1/i1/c182026/brian-masaba.jpg?d=low&p=gthumb,Brian Masaba,Uganda,Bowler,Right Handed Bat,Right-arm legbreak,bowl,RHB,Right,legbreak,brian masaba
+P224,https://static.cricbuzz.com/a/img/v1/i1/c182026/bilal-hassan.jpg?d=low&p=gthumb,Bilal Hassan,Uganda,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,bilal hassan
+P225,https://static.cricbuzz.com/a/img/v1/i1/c182026/cosmas-kyewuta.jpg?d=low&p=gthumb,Cosmas Kyewuta,Uganda,Bowler,Right Handed Bat,Right-arm medium,bowl,RHB,Right,medium,cosmas kyewuta
+P226,https://static.cricbuzz.com/a/img/v1/i1/c182026/juma-miyagi.jpg?d=low&p=gthumb,Juma Miyagi,Uganda,Bowler,Right Handed Bat,Right-arm medium,bowl,RHB,Right,medium,juma miyagi
+P227,https://static.cricbuzz.com/a/img/v1/i1/c182026/frank-nsubuga.jpg?d=low&p=gthumb,Frank Nsubuga,Uganda,Bowler,Right Handed Bat,Right-arm offbreak,bowl,RHB,Right,offbreak,frank nsubuga
+P228,https://static.cricbuzz.com/a/img/v1/i1/c182026/henry-ssenyondo.jpg?d=low&p=gthumb,Henry Ssenyondo,Uganda,Bowler,Right Handed Bat,Left-arm orthodox,bowl,RHB,Left,orthodox,henry ssenyondo
+P229,https://static.cricbuzz.com/a/img/v1/i1/c215768/hiri-hiri.jpg?d=low&p=gthumb,Hiri Hiri,Papua New Guinea,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,hiri hiri
+P230,https://static.cricbuzz.com/a/img/v1/i1/c215783/jack-gardner.jpg?d=low&p=gthumb,Jack Gardner,Papua New Guinea,Batsman,Right Handed Bat,,bat,RHB,,,jack gardner
+P231,https://static.cricbuzz.com/a/img/v1/i1/c151642/lega-siaka.jpg?d=low&p=gthumb,Lega Siaka,Papua New Guinea,Batsman,Right Handed Bat,Right-arm fast-medium,bat,RHB,Right,fast-medium,lega siaka
+P232,https://static.cricbuzz.com/a/img/v1/i1/c215724/assad-vala.jpg?d=low&p=gthumb,Assad Vala,Papua New Guinea,Batting Allrounder,Left Handed Bat,Right-arm offbreak,ar,LHB,Right,offbreak,assad vala
+P233,https://static.cricbuzz.com/a/img/v1/i1/c215770/charles-amini.jpg?d=low&p=gthumb,Charles Amini,Papua New Guinea,Batting Allrounder,Left Handed Bat,Right-arm legbreak,ar,LHB,Right,legbreak,charles amini
+P234,https://static.cricbuzz.com/a/img/v1/i1/c215766/sese-bau.jpg?d=low&p=gthumb,Sese Bau,Papua New Guinea,Batting Allrounder,Left Handed Bat,Right-arm offbreak,ar,LHB,Right,offbreak,sese bau
+P235,https://static.cricbuzz.com/a/img/v1/i1/c182026/hila-vare.jpg?d=low&p=gthumb,Hila Vare WK-,Papua New Guinea,WK-Batsman,Left Handed Bat,,wk,LHB,,,hila vare
+P236,https://static.cricbuzz.com/a/img/v1/i1/c215765/kiplin-doriga.jpg?d=low&p=gthumb,Kiplin Doriga WK-,Papua New Guinea,WK-Batsman,Right Handed Bat,,wk,RHB,,,kiplin doriga
+P237,https://static.cricbuzz.com/a/img/v1/i1/c151660/tony-ura.jpg?d=low&p=gthumb,Tony Ura WK-,Papua New Guinea,WK-Batsman,Right Handed Bat,,wk,RHB,,,tony ura
+P238,https://static.cricbuzz.com/a/img/v1/i1/c182026/alei-nao.jpg?d=low&p=gthumb,Alei Nao,Papua New Guinea,Bowler,Right Handed Bat,Right-arm medium,bowl,RHB,Right,medium,alei nao
+P239,https://static.cricbuzz.com/a/img/v1/i1/c215778/chad-soper.jpg?d=low&p=gthumb,Chad Soper,Papua New Guinea,Bowler,Right Handed Bat,Right-arm medium,bowl,RHB,Right,medium,chad soper
+P240,https://static.cricbuzz.com/a/img/v1/i1/c182026/john-kariko.jpg?d=low&p=gthumb,John Kariko,Papua New Guinea,Bowler,Left Handed Bat,,bowl,LHB,,,john kariko
+P241,https://static.cricbuzz.com/a/img/v1/i1/c215782/kabua-morea.jpg?d=low&p=gthumb,Kabua Morea,Papua New Guinea,Bowler,Right Handed Bat,Left-arm medium,bowl,RHB,Left,medium,kabua morea
+P242,https://static.cricbuzz.com/a/img/v1/i1/c215767/norman-vanua.jpg?d=low&p=gthumb,Norman Vanua,Papua New Guinea,Bowler,Right Handed Bat,Right-arm medium,bowl,RHB,Right,medium,norman vanua
+P243,https://static.cricbuzz.com/a/img/v1/i1/c182026/semo-kamea.jpg?d=low&p=gthumb,Semo Kamea,Papua New Guinea,Bowler,Left Handed Bat,Left-arm fast-medium,bowl,LHB,Left,fast-medium,semo kamea
+P244,https://static.cricbuzz.com/a/img/v1/i1/c182026/nikolaas-davin.jpg?d=low&p=gthumb,Nikolaas Davin,Namibia,Batsman,Right Handed Bat,Right-arm legbreak,bat,RHB,Right,legbreak,nikolaas davin
+P245,https://static.cricbuzz.com/a/img/v1/i1/c155059/malan-kruger.jpg?d=low&p=gthumb,Malan Kruger,Namibia,Batsman,Right Handed Bat,,bat,RHB,,,malan kruger
+P246,https://static.cricbuzz.com/a/img/v1/i1/c244631/gerhard-erasmus.jpg?d=low&p=gthumb,Gerhard Erasmus,Namibia,Batting Allrounder,Right Handed Bat,Right-arm legbreak,ar,RHB,Right,legbreak,gerhard erasmus
+P247,https://static.cricbuzz.com/a/img/v1/i1/c182026/dylan-leicher.jpg?d=low&p=gthumb,Dylan Leicher,Namibia,Batting Allrounder,Right Handed Bat,Right-arm medium,ar,RHB,Right,medium,dylan leicher
+P248,https://static.cricbuzz.com/a/img/v1/i1/c244639/jan-frylinck.jpg?d=low&p=gthumb,Jan Frylinck,Namibia,Batting Allrounder,Left Handed Bat,Left-arm fast-medium,ar,LHB,Left,fast-medium,jan frylinck
+P249,https://static.cricbuzz.com/a/img/v1/i1/c244626/david-wiese.jpg?d=low&p=gthumb,David Wiese,Namibia,Batting Allrounder,Right Handed Bat,Right-arm fast-medium,ar,RHB,Right,fast-medium,david wiese
+P250,https://static.cricbuzz.com/a/img/v1/i1/c244637/michael-van-lingen.jpg?d=low&p=gthumb,Michael van Lingen,Namibia,Bowling Allrounder,Left Handed Bat,Left-arm medium,ar,LHB,Left,medium,michael van lingen
+P251,https://static.cricbuzz.com/a/img/v1/i1/c244634/jj-smit.jpg?d=low&p=gthumb,JJ Smit,Namibia,Bowling Allrounder,Right Handed Bat,Left-arm fast-medium,ar,RHB,Left,fast-medium,jj smit
+P252,https://static.cricbuzz.com/a/img/v1/i1/c244648/zane-green.jpg?d=low&p=gthumb,Zane Green WK-,Namibia,WK-Batsman,Left Handed Bat,,wk,LHB,,,zane green
+P253,https://static.cricbuzz.com/a/img/v1/i1/c154712/jp-kotze.jpg?d=low&p=gthumb,JP Kotze WK-,Namibia,WK-Batsman,Left Handed Bat,,wk,LHB,,,jp kotze
+P254,https://static.cricbuzz.com/a/img/v1/i1/c244642/ruben-trumpelmann.jpg?d=low&p=gthumb,Ruben Trumpelmann,Namibia,Bowler,Right Handed Bat,Left-arm fast,bowl,RHB,Left,fast,ruben trumpelmann
+P255,https://static.cricbuzz.com/a/img/v1/i1/c182026/jack-brassell.jpg?d=low&p=gthumb,Jack Brassell,Namibia,Bowler,Right Handed Bat,Right-arm medium,bowl,RHB,Right,medium,jack brassell
+P256,https://static.cricbuzz.com/a/img/v1/i1/c244633/ben-shikongo.jpg?d=low&p=gthumb,Ben Shikongo,Namibia,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,ben shikongo
+P257,https://static.cricbuzz.com/a/img/v1/i1/c244645/tangeni-lungameni.jpg?d=low&p=gthumb,Tangeni Lungameni,Namibia,Bowler,Right Handed Bat,Left-arm medium,bowl,RHB,Left,medium,tangeni lungameni
+P258,https://static.cricbuzz.com/a/img/v1/i1/c244629/bernard-scholtz.jpg?d=low&p=gthumb,Bernard Scholtz,Namibia,Bowler,Right Handed Bat,Left-arm orthodox,bowl,RHB,Left,orthodox,bernard scholtz
+P259,https://static.cricbuzz.com/a/img/v1/i1/c182026/peter-daniel-blignaut.jpg?d=low&p=gthumb,Peter-Daniel Blignaut,Namibia,Bowler,Right Handed Bat,Left-arm orthodox,bowl,RHB,Left,orthodox,peter-daniel blignaut
+P260,https://static.cricbuzz.com/a/img/v1/i1/c352470/max-odowd.jpg?d=low&p=gthumb,Max ODowd,Netherlands,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,max odowd
+P261,https://static.cricbuzz.com/a/img/v1/i1/c352469/teja-nidamanuru.jpg?d=low&p=gthumb,Teja Nidamanuru,Netherlands,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,teja nidamanuru
+P262,https://static.cricbuzz.com/a/img/v1/i1/c352463/vikramjit-singh.jpg?d=low&p=gthumb,Vikramjit Singh,Netherlands,Batsman,Left Handed Bat,Right-arm medium,bat,LHB,Right,medium,vikramjit singh
+P263,https://static.cricbuzz.com/a/img/v1/i1/c352464/sybrand-engelbrecht.jpg?d=low&p=gthumb,Sybrand Engelbrecht,Netherlands,Batting Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,sybrand engelbrecht
+P264,https://static.cricbuzz.com/a/img/v1/i1/c182026/michael-levitt.jpg?d=low&p=gthumb,Michael Levitt,Netherlands,Batting Allrounder,Right Handed Bat,Right-arm fast,ar,RHB,Right,fast,michael levitt
+P265,https://static.cricbuzz.com/a/img/v1/i1/c352467/bas-de-leede.jpg?d=low&p=gthumb,Bas de Leede,Netherlands,Batting Allrounder,Right Handed Bat,Right-arm fast-medium,ar,RHB,Right,fast-medium,bas de leede
+P266,https://static.cricbuzz.com/a/img/v1/i1/c244612/tim-pringle.jpg?d=low&p=gthumb,Tim Pringle,Netherlands,Bowling Allrounder,Right Handed Bat,Left-arm orthodox,ar,RHB,Left,orthodox,tim pringle
+P267,https://static.cricbuzz.com/a/img/v1/i1/c352465/saqib-zulfiqar.jpg?d=low&p=gthumb,Saqib Zulfiqar,Netherlands,Bowling Allrounder,Right Handed Bat,Right-arm legbreak,ar,RHB,Right,legbreak,saqib zulfiqar
+P268,https://static.cricbuzz.com/a/img/v1/i1/c352472/scott-edwards.jpg?d=low&p=gthumb,Scott Edwards,Netherlands,WK-Batsman,Right Handed Bat,,wk,RHB,,,scott edwards
+P269,https://static.cricbuzz.com/a/img/v1/i1/c352473/wesley-barresi.jpg?d=low&p=gthumb,Wesley Barresi WK-,Netherlands,WK-Batsman,Right Handed Bat,Right-arm offbreak,wk,RHB,Right,offbreak,wesley barresi
+P270,https://static.cricbuzz.com/a/img/v1/i1/c352474/logan-van-beek.jpg?d=low&p=gthumb,Logan van Beek,Netherlands,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,logan van beek
+P271,https://static.cricbuzz.com/a/img/v1/i1/c352477/aryan-dutt.jpg?d=low&p=gthumb,Aryan Dutt,Netherlands,Bowler,Right Handed Bat,Right-arm offbreak,bowl,RHB,Right,offbreak,aryan dutt
+P272,https://static.cricbuzz.com/a/img/v1/i1/c352476/paul-van-meekeren.jpg?d=low&p=gthumb,Paul van Meekeren,Netherlands,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,paul van meekeren
+P273,https://static.cricbuzz.com/a/img/v1/i1/c155443/vivian-kingma.jpg?d=low&p=gthumb,Vivian Kingma,Netherlands,Bowler,Right Handed Bat,Right-arm medium,bowl,RHB,Right,medium,vivian kingma
+P274,https://static.cricbuzz.com/a/img/v1/i1/c182026/kyle-klein.jpg?d=low&p=gthumb,Kyle Klein,Netherlands,Bowler,Right Handed Bat,Right-arm medium,bowl,RHB,Right,medium,kyle klein
+P275,https://static.cricbuzz.com/a/img/v1/i1/c616472/najmul-hossain-shanto.jpg?d=low&p=gthumb,Najmul Hossain Shanto,Bangladesh,Batsman,Left Handed Bat,Right-arm offbreak,bat,LHB,Right,offbreak,najmul hossain shanto
+P276,https://static.cricbuzz.com/a/img/v1/i1/c616460/soumya-sarkar.jpg?d=low&p=gthumb,Soumya Sarkar,Bangladesh,Batsman,Left Handed Bat,Right-arm medium,bat,LHB,Right,medium,soumya sarkar
+P277,https://static.cricbuzz.com/a/img/v1/i1/c616469/tanzid-hasan-tamim.jpg?d=low&p=gthumb,Tanzid Hasan Tamim,Bangladesh,Batsman,Left Handed Bat,,bat,LHB,,,tanzid hasan tamim
+P278,https://static.cricbuzz.com/a/img/v1/i1/c616468/towhid-hridoy.jpg?d=low&p=gthumb,Towhid Hridoy,Bangladesh,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,towhid hridoy
+P279,https://static.cricbuzz.com/a/img/v1/i1/c351919/shakib-al-hasan.jpg?d=low&p=gthumb,Shakib Al Hasan,Bangladesh,Batting Allrounder,Left Handed Bat,Left-arm orthodox,ar,LHB,Left,orthodox,shakib al hasan
+P280,https://static.cricbuzz.com/a/img/v1/i1/c616462/mahmudullah.jpg?d=low&p=gthumb,Mahmudullah,Bangladesh,Batting Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,mahmudullah
+P281,https://static.cricbuzz.com/a/img/v1/i1/c351902/mahedi-hasan.jpg?d=low&p=gthumb,Mahedi Hasan,Bangladesh,Batting Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,mahedi hasan
+P282,https://static.cricbuzz.com/a/img/v1/i1/c351896/litton-das.jpg?d=low&p=gthumb,Litton Das WK-,Bangladesh,WK-Batsman,Right Handed Bat,,wk,RHB,,,litton das
+P283,https://static.cricbuzz.com/a/img/v1/i1/c616470/jaker-ali.jpg?d=low&p=gthumb,Jaker Ali WK-,Bangladesh,WK-Batsman,Right Handed Bat,,wk,RHB,,,jaker ali
+P284,https://static.cricbuzz.com/a/img/v1/i1/c616466/taskin-ahmed.jpg?d=low&p=gthumb,Taskin Ahmed,Bangladesh,Bowler,Left Handed Bat,Right-arm fast,bowl,LHB,Right,fast,taskin ahmed
+P285,https://static.cricbuzz.com/a/img/v1/i1/c182026/tanvir-islam.jpg?d=low&p=gthumb,Tanvir Islam,Bangladesh,Bowler,Left Handed Bat,Left-arm orthodox,bowl,LHB,Left,orthodox,tanvir islam
+P286,https://static.cricbuzz.com/a/img/v1/i1/c616457/rishad-hossain.jpg?d=low&p=gthumb,Rishad Hossain,Bangladesh,Bowler,Right Handed Bat,Right-arm legbreak,bowl,RHB,Right,legbreak,rishad hossain
+P287,https://static.cricbuzz.com/a/img/v1/i1/c616463/mustafizur-rahman.jpg?d=low&p=gthumb,Mustafizur Rahman,Bangladesh,Bowler,Left Handed Bat,Left-arm fast-medium,bowl,LHB,Left,fast-medium,mustafizur rahman
+P288,https://static.cricbuzz.com/a/img/v1/i1/c351921/shoriful-islam.jpg?d=low&p=gthumb,Shoriful Islam,Bangladesh,Bowler,Left Handed Bat,Left-arm fast-medium,bowl,LHB,Left,fast-medium,shoriful islam
+P289,https://static.cricbuzz.com/a/img/v1/i1/c616464/tanzim-hasan-sakib.jpg?d=low&p=gthumb,Tanzim Hasan Sakib,Bangladesh,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,tanzim hasan sakib
+P290,https://static.cricbuzz.com/a/img/v1/i1/c616440/babar-azam.jpg?d=low&p=gthumb,Babar Azam,Pakistan,Batsman,Right Handed Bat,Right-arm offbreak,bat,RHB,Right,offbreak,babar azam
+P291,https://static.cricbuzz.com/a/img/v1/i1/c616447/fakhar-zaman.jpg?d=low&p=gthumb,Fakhar Zaman,Pakistan,Batsman,Left Handed Bat,Left-arm orthodox,bat,LHB,Left,orthodox,fakhar zaman
+P292,https://static.cricbuzz.com/a/img/v1/i1/c352421/iftikhar-ahmed.jpg?d=low&p=gthumb,Iftikhar Ahmed,Pakistan,Batting Allrounder,Right Handed Bat,Right-arm offbreak,ar,RHB,Right,offbreak,iftikhar ahmed
+P293,https://static.cricbuzz.com/a/img/v1/i1/c779860/saim-ayub.jpg?d=low&p=gthumb,Saim Ayub,Pakistan,Batting Allrounder,Left Handed Bat,Right-arm offbreak,ar,LHB,Right,offbreak,saim ayub
+P294,https://static.cricbuzz.com/a/img/v1/i1/c170782/imad-wasim.jpg?d=low&p=gthumb,Imad Wasim,Pakistan,Bowling Allrounder,Left Handed Bat,Left-arm orthodox,ar,LHB,Left,orthodox,imad wasim
+P295,https://static.cricbuzz.com/a/img/v1/i1/c352424/shadab-khan.jpg?d=low&p=gthumb,Shadab Khan,Pakistan,Bowling Allrounder,Right Handed Bat,Right-arm legbreak,ar,RHB,Right,legbreak,shadab khan
+P296,https://static.cricbuzz.com/a/img/v1/i1/c182026/azam-khan.jpg?d=low&p=gthumb,Azam Khan WK-,Pakistan,WK-Batsman,Right Handed Bat,,wk,RHB,,,azam khan
+P297,https://static.cricbuzz.com/a/img/v1/i1/c616445/mohammad-rizwan.jpg?d=low&p=gthumb,Mohammad Rizwan WK-,Pakistan,WK-Batsman,Right Handed Bat,,wk,RHB,,,mohammad rizwan
+P298,https://static.cricbuzz.com/a/img/v1/i1/c616437/usman-khan.jpg?d=low&p=gthumb,Usman Khan WK-,Pakistan,WK-Batsman,Right Handed Bat,Right-arm offbreak,wk,RHB,Right,offbreak,usman khan
+P299,https://static.cricbuzz.com/a/img/v1/i1/c616450/abrar-ahmed.jpg?d=low&p=gthumb,Abrar Ahmed,Pakistan,Bowler,Right Handed Bat,Right-arm legbreak,bowl,RHB,Right,legbreak,abrar ahmed
+P300,https://static.cricbuzz.com/a/img/v1/i1/c616449/haris-rauf.jpg?d=low&p=gthumb,Haris Rauf,Pakistan,Bowler,Right Handed Bat,Right-arm fast,bowl,RHB,Right,fast,haris rauf
+P301,https://static.cricbuzz.com/a/img/v1/i1/c582350/abbas-afridi.jpg?d=low&p=gthumb,Abbas Afridi,Pakistan,Bowler,Right Handed Bat,Right-arm fast-medium,bowl,RHB,Right,fast-medium,abbas afridi
+P302,https://static.cricbuzz.com/a/img/v1/i1/c170813/mohammad-amir.jpg?d=low&p=gthumb,Mohammad Amir,Pakistan,Bowler,Left Handed Bat,Left-arm fast-medium,bowl,LHB,Left,fast-medium,mohammad amir
+P303,https://static.cricbuzz.com/a/img/v1/i1/c616439/naseem-shah.jpg?d=low&p=gthumb,Naseem Shah,Pakistan,Bowler,Right Handed Bat,Right-arm fast,bowl,RHB,Right,fast,naseem shah
+P304,https://static.cricbuzz.com/a/img/v1/i1/c616446/shaheen-afridi.jpg?d=low&p=gthumb,Shaheen Afridi,Pakistan,Bowler,Left Handed Bat,Left-arm fast-medium,bowl,LHB,Left,fast-medium,shaheen afridi

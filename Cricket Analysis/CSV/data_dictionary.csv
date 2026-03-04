@@ -1,0 +1,82 @@
+,,T20WC_clean,,
+,,,,
+"The t20wc_clean table contains consolidated information about each T20 World Cup match, including participating teams, scores, venue, result, and innings-level outcomes. It serves as the match dimension in the star schema and is referenced by both batting and bowling fact tables using the match identifier.			",,,,
+,,,,
+,,,,
+,,,,
+column_name,data_type,key,nullable,description
+match_id,STRING,PK,No,Unique identifier for match
+date,DATE,-,No,Match date
+Team1,STRING,-,No,First team
+Score_Team1,STRING,-,Yes,Team 1 score
+Team2,STRING,-,No,Second team
+Score_Team2,STRING,-,Yes,Team 2 score
+Margin/Result,STRING,-,No,Match result
+Ground,STRING,-,No,Venue name
+Link,STRING,-,Yes,Match URL
+First_Innings_Runs,INT,-,Yes,Runs in first innings
+Second_Innings_Runs,INT,-,Yes,Runs in second innings
+Batting_First_Won,BOOLEAN,-,Yes,Batting first team won
+Chasing_Won,BOOLEAN,-,Yes,Chasing team won
+,,,,
+,,Player_info_clean,,
+,,,,
+"The player_info_clean table contains cleaned and normalized player metadata, including player names, team affiliation, playing role, and batting/bowling characteristics. It is used as the player dimension and is referenced by both batting and bowling fact tables through the player_id.",,,,
+,,,,
+,,,,
+,,,,
+column_name,data_type,key,nullable,description
+player_id,STRING,PK,No,Unique player identifier
+image,STRING,-,Yes,Player image URL
+player_name,STRING,-,No,Player full name
+team,STRING,-,No,Original team name
+role,STRING,-,Yes,Raw role description
+batting_style,STRING,-,Yes,Raw batting style
+bowling_style,STRING,-,Yes,Raw bowling style
+role_clean,STRING,-,No,Normalized role
+batting_style_clean,STRING,-,Yes,Batting hand
+bowling_arm,STRING,-,Yes,Bowling arm
+bowling_type,STRING,-,Yes,Bowling type
+player_name_clean,STRING,-,No,Clean lowercase name for joins
+,,,,
+,,Batting_summary_clean,,
+,,,,
+"The batting_summary_clean table records detailed batting statistics for each player in a match, including runs scored, balls faced, boundary counts, strike rate, and dismissal information. It serves as a fact table in the star schema and links player and match dimensions using foreign keys.",,,,
+,,,,
+,,,,
+,,,,
+column_name,data_type,key,nullable,description
+match_name,STRING,FK,No,Match reference
+team,STRING,-,No,Batting team
+batting_pos,INT,-,No,Batting order
+player_name,STRING,-,No,Player name (display)
+dismissal,STRING,-,Yes,Mode of dismissal
+runs,INT,-,No,Runs scored
+balls,INT,-,No,Balls faced
+fours,INT,-,No,Number of 4s
+sixes,INT,-,No,Number of 6s
+strike_rate,FLOAT,-,Yes,Strike rate
+player_name_clean,STRING,-,No,Clean name
+team_clean,STRING,-,No,Canonical team code
+player_id,STRING,FK,No,Player identifier
+,,,,
+,,Bowling_summary_clean,,
+,,,,
+"The bowling_summary_clean table records detailed batting statistics for each player in a match, including runs scored, balls faced, boundary counts, strike rate, and dismissal information. It serves as a fact table in the star schema and links player and match dimensions using foreign keys.",,,,
+,,,,
+,,,,
+,,,,
+column_name,data_type,key,nullable,description
+match_name,STRING,FK,No,Match reference
+team,STRING,-,No,Bowling team
+player_name,STRING,-,No,Bowler name (display)
+overs,FLOAT,-,No,Overs bowled
+maidens,INT,-,No,Maiden overs
+runs,INT,-,No,Runs conceded
+wickets,INT,-,No,Wickets taken
+no_balls,INT,-,No,No-balls
+wides,INT,-,No,Wides
+economy,FLOAT,-,Yes,Economy rate
+player_name_clean,STRING,-,No,Clean name
+team_clean,STRING,-,No,Canonical team code
+player_id,STRING,FK,No,Player identifier

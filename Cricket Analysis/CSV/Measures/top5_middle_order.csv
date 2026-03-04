@@ -1,0 +1,6 @@
+player_id,player_name_x,team_x,total_runs,balls_faced,fours,sixes,innings_batted,strike_rate,boundary_runs,boundary_pct,avg_batting_pos,player_name_y,team_y,total_wickets,runs_conceded,balls_bowled,innings_bowled,overs_bowled,economy,player_name,team,role_clean,bowling_type,dashboard_role,batting_role,batting_impact,bowling_impact
+P4,Suryakumar Yadav,India,199.0,147.0,15.0,10.0,8.0,135.37414965986395,120.0,60.30150753768844,4.125,,,,,,,,,Suryakumar Yadav,India,bat,offbreak,Batsman,Middle Order,152.17254640549686,
+P82,Stoinis,Australia,169.0,103.0,14.0,10.0,5.0,164.07766990291262,116.0,68.63905325443787,5.0,Marcus Stoinis,AUSTRALIA,10.0,151.0,102.0,6.0,17.0,8.882352941176471,Marcus Stoinis,Australia,ar,medium,All-Rounder,Middle Order,147.45111162176136,2.4470588235294115
+P126,Heinrich Klaasen,South Africa,190.0,150.0,9.0,13.0,8.0,126.66666666666666,114.0,60.0,4.625,,,,,,,,,Heinrich Klaasen WK-,South Africa,wk,offbreak,Batsman,Middle Order,145.0,
+P61,Aaron Jones,United States Of America,162.0,120.0,8.0,14.0,6.0,135.0,116.0,71.60493827160494,4.0,,,,,,,,,Aaron Jones,United States,bat,legbreak,Batsman,Middle Order,135.820987654321,
+P31,Harry Brook,England,145.0,92.0,16.0,2.0,4.0,157.6086956521739,76.0,52.41379310344828,5.0,,,,,,,,,Harry Brook,England,bat,medium,Batsman,Middle Order,130.26536731634184,

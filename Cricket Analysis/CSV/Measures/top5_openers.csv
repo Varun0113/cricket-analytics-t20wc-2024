@@ -1,0 +1,6 @@
+player_id,player_name_x,team_x,total_runs,balls_faced,fours,sixes,innings_batted,strike_rate,boundary_runs,boundary_pct,avg_batting_pos,player_name,team,role_clean,bowling_type,dashboard_role,batting_role,batting_impact
+P77,Head,Australia,255,161,26,15,7,158.3850932,194,76.07843137,1.571428571,Travis Head,Australia,bat,offbreak,Batsman,Opener,190.2312142
+P1,Rohit Sharma (c),India,257,164,24,15,8,156.7073171,186,72.37354086,1,Rohit Sharma,India,bat,offbreak,Batsman,Opener,189.9869033
+P175,Gurbaz,Afghanistan,281,226,18,16,8,124.3362832,168,59.78647687,1,Rahmanullah Gurbaz WK-,Afghanistan,wk,unknown,Batsman,Opener,189.7581803
+P125,Quinton de Kock,South Africa,243,173,21,13,9,140.4624277,162,66.66666667,1.444444444,Quinton de Kock WK-,South Africa,wk,unknown,Batsman,Opener,176.9720617
+P37,Jos Buttler (c & wk),England,214,135,22,10,7,158.5185185,148,69.1588785,2,Jos Buttler,England,wk,unknown,Batsman,Opener,168.3873313

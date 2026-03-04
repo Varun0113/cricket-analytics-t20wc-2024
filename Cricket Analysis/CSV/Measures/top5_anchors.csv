@@ -1,0 +1,6 @@
+player_id,player_name_x,team_x,total_runs,balls_faced,fours,sixes,innings_batted,strike_rate,boundary_runs,boundary_pct,avg_batting_pos,player_name_y,team_y,total_wickets,runs_conceded,balls_bowled,innings_bowled,overs_bowled,economy,player_name,team,role_clean,bowling_type,dashboard_role,batting_role,batting_impact,bowling_impact
+P208,Nicholas Pooran,West Indies,228.0,156.0,15.0,17.0,7.0,146.15384615384613,162.0,71.05263157894737,3.0,,,,,,,,,Nicholas Pooran WK-,West Indies,wk,offbreak,Batsman,Anchor,172.05668016194332,
+P9,Rishabh Pant,India,171.0,134.0,19.0,6.0,8.0,127.61194029850746,112.0,65.49707602339181,3.0,,,,,,,,,Rishabh Pant WK-,India,wk,unknown,Batsman,Anchor,136.8829972942306,
+P79,Mitchell Marsh (c),Australia,125.0,107.0,13.0,5.0,7.0,116.82242990654206,82.0,65.60000000000001,3.0,,,,,,,,,Mitchell Marsh,Australia,ar,fast-medium,All-Rounder,Anchor,110.66672897196261,
+P121,Aiden Markram (c),South Africa,123.0,122.0,14.0,2.0,9.0,100.81967213114753,68.0,55.28455284552846,3.2222222222222223,Aiden Markram (c),SOUTH AFRICA,2.0,69.0,60.0,5.0,10.0,6.9,Aiden Markram,South Africa,bat,offbreak,Batsman,Anchor,102.80281220844995,-1.5600000000000003
+P275,Najmul Hossain Shanto (c),Bangladesh,112.0,117.0,7.0,5.0,7.0,95.72649572649573,58.0,51.78571428571429,2.857142857142857,,,,,,,,,Najmul Hossain Shanto,Bangladesh,bat,offbreak,Batsman,Anchor,95.07509157509158,
